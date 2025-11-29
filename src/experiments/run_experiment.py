@@ -26,6 +26,12 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Optional log filename (stored in data/raw_runs)",
     )
+    parser.add_argument(
+        "--seed",
+        type=str,
+        default=None,
+        help="Optional run-level seed recorded in the log for reproducibility",
+    )
     return parser.parse_args()
 
 
@@ -37,8 +43,14 @@ def main() -> None:
 
     run_id = str(uuid.uuid4())
     results = []
-    for _ in range(args.episodes):
-        result = manager.run_episode(model_name=args.model, max_moves=args.max_moves, run_id=run_id)
+    for episode_idx in range(args.episodes):
+        result = manager.run_episode(
+            model_name=args.model,
+            max_moves=args.max_moves,
+            run_id=run_id,
+            episode_index=episode_idx,
+            seed=args.seed,
+        )
         results.append(result)
 
     print("=== Run summary ===")

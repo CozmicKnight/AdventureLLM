@@ -17,8 +17,17 @@ def _clean_action(text: str) -> str:
     """Extract the first non-empty line and strip wrappers."""
     for line in text.splitlines():
         candidate = line.strip().strip("`\"")
-        if candidate:
-            return candidate
+        if not candidate:
+            continue
+
+        candidate = candidate.lower().strip(" .!?")
+
+        # Avoid obvious refusals or meta responses.
+        blacklist = {"i can't", "cannot", "sorry", "i'm an ai", "as an ai"}
+        if any(candidate.startswith(bad) for bad in blacklist):
+            continue
+
+        return candidate
     return "look"
 
 

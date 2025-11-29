@@ -106,9 +106,23 @@ class ZorkEnv:
         moves = payload.get("moves") or payload.get("turns")
         inventory = payload.get("inventory")
         game_over_flag = payload.get("gameOver") or payload.get("done")
+
         observation_lower = observation.lower()
-        inferred_done = any(key in observation_lower for key in ["you have died", "game over", "you have won", "the end"]) if observation else False
-        done = bool(game_over_flag) or inferred_done
+        inferred_done = False
+        if observation:
+            terminal_strings = [
+                "you have died",
+                "game over",
+                "you have won",
+                "the end",
+                "would you like to restart",
+            ]
+            inferred_done = any(key in observation_lower for key in terminal_strings)
+
+        # A perfect score in Zork I is 350; treat that as a win if exposed.
+        score_reached_cap = isinstance(score, int) and score >= 350
+
+        done = bool(game_over_flag) or inferred_done or score_reached_cap
 
         return ZorkStepResult(
             observation=observation,

@@ -8,13 +8,18 @@ if TYPE_CHECKING:  # pragma: no cover - only for type hints
 
 
 def _format_history(history: List[dict], max_turns: int = 5) -> str:
+    if not history:
+        return "(no previous turns)"
+
     recent = history[-max_turns:]
     lines = []
     for entry in recent:
         command = entry.get("command", "?")
         observation = entry.get("observation", "")
+        if len(observation) > 400:
+            observation = observation[:400] + " ..."
         lines.append(f"Command: {command}\nObservation: {observation}")
-    return "\n\n".join(lines) if lines else "(no previous turns)"
+    return "\n\n".join(lines)
 
 
 def build_prompt(game_state: "GameState", model_name: str) -> str:
@@ -31,10 +36,11 @@ def build_prompt(game_state: "GameState", model_name: str) -> str:
 
     prompt = (
         "You are playing the classic text adventure game Zork I. Respond with "
-        "exactly one valid in-game command (no quotes, no commentary).\n"
+        "exactly one valid in-game command. Do not explain, narrate, or include "
+        "quotes, code fences, or role statements.\n"
         f"Model: {model_name}. Current score: {score_text}. Inventory: {inventory_text}.\n"
         "Recent turns:\n"
         f"{history_block}\n"
-        "Output one command on a single line."
+        "Output a single text-adventure command only."
     )
     return prompt

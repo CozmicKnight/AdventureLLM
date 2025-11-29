@@ -44,10 +44,18 @@ class GameManager:
         self.env = env
         self.log_manager = log_manager or LogManager()
 
-    def run_episode(self, model_name: str, max_moves: int, run_id: str) -> EpisodeResult:
+    def run_episode(
+        self,
+        model_name: str,
+        max_moves: int,
+        run_id: str,
+        episode_index: int | None = None,
+        seed: str | None = None,
+    ) -> EpisodeResult:
         session_id = self.env.new_game()
         episode_id = str(uuid.uuid4())
         state = GameState(session_id=session_id, history=[])
+        last_step: Optional[ZorkStepResult] = None
 
         for move_idx in range(max_moves):
             prompt = build_prompt(state, model_name=model_name)
@@ -56,10 +64,12 @@ class GameManager:
 
             step_result = self.env.step(session_id, command)
             state.update(step_result, command)
+            last_step = step_result
 
             self.log_manager.log_move(
                 run_id=run_id,
                 episode_id=episode_id,
+                episode_index=episode_index,
                 model_name=model_name,
                 move_idx=move_idx,
                 command=command,
@@ -68,6 +78,7 @@ class GameManager:
                 moves=step_result.moves,
                 inventory=step_result.inventory,
                 done=step_result.done,
+                seed=seed,
                 tokens_prompt=generation.tokens_prompt,
                 tokens_completion=generation.tokens_completion,
             )
@@ -75,7 +86,7 @@ class GameManager:
             if step_result.done:
                 break
 
-        ended_naturally = bool(step_result.done)
+        ended_naturally = bool(last_step and last_step.done)
         final_score = state.score
         return EpisodeResult(
             model_name=model_name,

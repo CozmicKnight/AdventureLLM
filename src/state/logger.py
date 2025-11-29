@@ -30,6 +30,7 @@ class LogManager:
         header = [
             "run_id",
             "episode_id",
+            "episode_index",
             "model_name",
             "move_idx",
             "command",
@@ -38,6 +39,7 @@ class LogManager:
             "moves",
             "inventory",
             "done",
+            "seed",
             "timestamp",
             "tokens_prompt",
             "tokens_completion",
@@ -50,6 +52,7 @@ class LogManager:
         self,
         run_id: str,
         episode_id: str,
+        episode_index: Optional[int],
         model_name: str,
         move_idx: int,
         command: str,
@@ -58,6 +61,7 @@ class LogManager:
         moves: Optional[int],
         inventory: Optional[list],
         done: bool,
+        seed: Optional[str],
         tokens_prompt: Optional[int],
         tokens_completion: Optional[int],
     ) -> None:
@@ -65,6 +69,7 @@ class LogManager:
         row = [
             run_id,
             episode_id,
+            episode_index if episode_index is not None else "",
             model_name,
             move_idx,
             command,
@@ -73,9 +78,10 @@ class LogManager:
             moves,
             ";".join(inventory) if inventory else "",
             done,
+            seed or "",
             timestamp,
-            tokens_prompt,
-            tokens_completion,
+            tokens_prompt if tokens_prompt is not None else "",
+            tokens_completion if tokens_completion is not None else "",
         ]
         with self.log_path.open("a", newline="") as f:
             writer = csv.writer(f)
