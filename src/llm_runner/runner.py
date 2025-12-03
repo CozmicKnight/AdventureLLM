@@ -42,6 +42,8 @@ def generate_action(model_name: str, prompt: str) -> LLMGeneration:
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         # Offline fallback.
+        print(f"No API Key")
+        exit()
         return LLMGeneration(action="look", tokens_prompt=None, tokens_completion=None)
 
     try:
@@ -62,6 +64,9 @@ def generate_action(model_name: str, prompt: str) -> LLMGeneration:
             tokens_prompt=getattr(usage, "prompt_tokens", None),
             tokens_completion=getattr(usage, "completion_tokens", None),
         )
-    except Exception:
+    except Exception as e:
         # Keep the loop alive in environments without network access.
+        print(type(e))
+        print(e)
+        exit()
         return LLMGeneration(action="look", tokens_prompt=None, tokens_completion=None)

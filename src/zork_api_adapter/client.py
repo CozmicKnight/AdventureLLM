@@ -10,7 +10,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Dict, List, Optional
 import uuid
-
+from pprint import pprint as pp
 
 @dataclass
 class ZorkStepResult:
@@ -66,28 +66,31 @@ class ZorkEnv:
             self.base_url = base_url.rstrip("/")
             self.session = session or Session()
 
-    def new_game(self) -> str:
+    def new_game(self, email, game) -> str:
         """Start a new game and return its session identifier."""
         if self._mock:
             return self._mock.new_game()
 
-        response = self.session.post(f"{self.base_url}/newGame", timeout=10)
+        response = self.session.post(f"{self.base_url}/newGame?email={email}&title={game}", timeout=10)
         response.raise_for_status()
         payload = response.json()
         # The ZorkAPI returns the session ID inside the payload; field name may vary.
-        session_id = payload.get("sessionId") or payload.get("session_id") or payload.get("id")
+        session_id = payload.get("userProfile")
         if not session_id:
             raise ValueError(f"Unexpected newGame payload: {payload}")
-        return str(session_id)
+        # print(f"sessionID: {session_id}")
+        return str(session_id['email'])
 
-    def step(self, session_id: str, command: str) -> ZorkStepResult:
+    def step(self, email: str, game: str, command: str) -> ZorkStepResult:
         """Send a command to the Zork game and return the parsed result."""
         if self._mock:
-            return self._mock.step(session_id, command)
+            return self._mock.step(email, command)
 
-        response = self.session.post(f"{self.base_url}/action", json={"sessionId": session_id, "command": command}, timeout=10)
+        response = self.session.post(f"{self.base_url}/action?email={email}&title={game}&action={command}", timeout=10)
         response.raise_for_status()
         payload = response.json()
+        print(f"{'-'*50}")
+        print(payload['cmdOutput'])
         return self._parse_response(payload)
 
     @staticmethod
@@ -101,13 +104,13 @@ class ZorkEnv:
         ``gameOver`` flag or simple heuristics.
         """
 
-        observation = payload.get("text") or payload.get("observation") or ""
+        observation = payload.get("cmdOutout")
         score = payload.get("score")
         moves = payload.get("moves") or payload.get("turns")
         inventory = payload.get("inventory")
         game_over_flag = payload.get("gameOver") or payload.get("done")
 
-        observation_lower = observation.lower()
+        # observation_lower = observation.lower()
         inferred_done = False
         if observation:
             terminal_strings = [
@@ -117,7 +120,7 @@ class ZorkEnv:
                 "the end",
                 "would you like to restart",
             ]
-            inferred_done = any(key in observation_lower for key in terminal_strings)
+            inferred_done = any(key in observation for key in terminal_strings)
 
         # A perfect score in Zork I is 350; treat that as a win if exposed.
         score_reached_cap = isinstance(score, int) and score >= 350

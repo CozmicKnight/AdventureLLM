@@ -48,6 +48,8 @@ def main() -> None:
             model_name=args.model,
             max_moves=args.max_moves,
             run_id=run_id,
+            email="john@eley.net",
+            game="zork1",
             episode_index=episode_idx,
             seed=args.seed,
         )

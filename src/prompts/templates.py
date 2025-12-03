@@ -16,8 +16,8 @@ def _format_history(history: List[dict], max_turns: int = 5) -> str:
     for entry in recent:
         command = entry.get("command", "?")
         observation = entry.get("observation", "")
-        if len(observation) > 400:
-            observation = observation[:400] + " ..."
+        # if len(observation) > 400:
+        #     observation = observation[:400] + " ..."
         lines.append(f"Command: {command}\nObservation: {observation}")
     return "\n\n".join(lines)
 

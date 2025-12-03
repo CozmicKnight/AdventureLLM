@@ -49,10 +49,13 @@ class GameManager:
         model_name: str,
         max_moves: int,
         run_id: str,
+        email: str,
+        game: str,
         episode_index: int | None = None,
         seed: str | None = None,
+
     ) -> EpisodeResult:
-        session_id = self.env.new_game()
+        session_id = self.env.new_game(email, game)
         episode_id = str(uuid.uuid4())
         state = GameState(session_id=session_id, history=[])
         last_step: Optional[ZorkStepResult] = None
@@ -62,7 +65,7 @@ class GameManager:
             generation: LLMGeneration = generate_action(model_name=model_name, prompt=prompt)
             command = generation.action
 
-            step_result = self.env.step(session_id, command)
+            step_result = self.env.step(email, game, command)
             state.update(step_result, command)
             last_step = step_result
 
