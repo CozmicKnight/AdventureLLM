@@ -71,6 +71,11 @@ class GameManager:
             prompt = build_prompt(state, model_name=model_name)
             generation: LLMGeneration = generate_action(model_name=model_name, prompt=prompt)
             command = generation.action
+
+            if move_idx > 0 and move_idx % 5 == 0:
+                print(f"[INFO] Forcing score check on move {move_idx}")
+                command = "score"
+                
             sleep(1)
             step_result = self.env.step(email, game, command)
             # pp(step_result)
