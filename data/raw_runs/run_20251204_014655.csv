@@ -1,0 +1,304 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T01:47:04.496089,679,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T01:47:06.460378,715,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:47:08.508425,735,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T01:47:10.495711,749,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,4,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",0,0,,False,,2025-12-04T01:47:12.612650,768,3
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,5,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T01:47:14.592820,805,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,6,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T01:47:16.727238,856,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,7,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",0,0,,False,,2025-12-04T01:47:18.804406,877,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,8,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T01:47:20.819236,898,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,9,examine mailbox,"examine mailbox
+
+
+The small mailbox is empty.
+
+",0,0,,False,,2025-12-04T01:47:22.839235,939,3
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,10,north,"north
+
+
+North of House
+
+",0,0,,False,,2025-12-04T01:47:24.793423,957,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,11,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,0,,False,,2025-12-04T01:47:26.728599,971,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,12,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,0,,False,,2025-12-04T01:47:28.798709,1019,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,13,in window,"in window
+There was no verb in that sentence!
+
+",0,0,,False,,2025-12-04T01:47:30.988238,1045,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,14,enter window,"enter window
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,0,,False,,2025-12-04T01:47:32.885486,1065,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,15,get sack,"get sack
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:47:34.805344,1175,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,16,get bottle,"get bottle
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:47:36.732476,1189,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,17,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",0,0,,False,,2025-12-04T01:47:38.728021,1203,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,18,down,"down
+
+
+Kitchen
+
+",0,0,,False,,2025-12-04T01:47:40.606273,1237,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,19,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",0,0,,False,,2025-12-04T01:47:42.685371,1249,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,20,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",0,0,,False,,2025-12-04T01:47:44.678716,1324,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,21,get lantern,"get lantern
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:47:46.708029,1415,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,22,open lantern,"open lantern
+
+
+You must tell me how to do that to a brass lantern.
+
+",0,0,,False,,2025-12-04T01:47:48.657944,1429,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,23,turn lantern on,"turn lantern on
+
+
+The brass lantern is now on.
+
+",0,0,,False,,2025-12-04T01:47:50.590849,1454,3
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,24,up,"up
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T01:47:52.678290,1475,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,25,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",0,0,,False,,2025-12-04T01:47:54.638769,1491,3
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,26,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",0,0,,False,,2025-12-04T01:47:57.868023,1510,4
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,27,west,"west
+
+
+The door is nailed shut.
+
+",0,0,,False,,2025-12-04T01:48:00.069206,1530,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,28,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern (providing light)
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  A leaflet
+
+",0,0,,False,,2025-12-04T01:48:02.028400,1546,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,29,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+
+",0,0,,False,,2025-12-04T01:48:04.016509,1595,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,30,examine sword,"examine sword
+
+
+There's nothing special about the sword.
+
+",0,0,,False,,2025-12-04T01:48:05.997679,1675,3
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,31,score,"score
+Your score is 10 (total of 350 points), in 30 moves.
+This gives you the rank of Beginner.
+
+",10,30,,False,,2025-12-04T01:48:08.036197,1694,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,32,west,"west
+
+
+The door is nailed shut.
+
+",0,0,,False,,2025-12-04T01:48:09.967448,1729,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,33,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",0,0,,False,,2025-12-04T01:48:11.922890,1745,2
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,34,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",0,0,,False,,2025-12-04T01:48:14.058512,1785,3
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,35,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",0,0,,False,,2025-12-04T01:48:16.247815,1816,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,36,turn lantern on,"turn lantern on
+
+
+It is already on.
+
+",0,0,,False,,2025-12-04T01:48:18.233475,1887,3
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,37,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+
+",0,0,,False,,2025-12-04T01:48:20.175513,1906,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,38,throw sack at troll,"throw sack at troll
+
+
+The troll, who is remarkably coordinated, catches the brown sack and not having
+the most discriminating tastes, gleefully eats it.
+
+",0,0,,False,,2025-12-04T01:48:22.204728,1979,4
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,39,throw bottle at troll,"throw bottle at troll
+
+
+The troll, who is remarkably coordinated, catches the glass bottle and not
+having the most discriminating tastes, gleefully eats it.
+
+",0,0,,False,,2025-12-04T01:48:24.259449,2023,4
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,40,south,"south
+
+
+Cellar
+
+",0,0,,False,,2025-12-04T01:48:26.215578,2067,1
+93cdfe5a-67f5-49aa-8932-b4deb11f794c,37e2723d-5ec4-4b76-84bb-489a8dceabc3,0,gpt-4.1-mini,41,east,"east
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T01:48:28.149496,2080,1

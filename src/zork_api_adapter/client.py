@@ -89,6 +89,7 @@ class ZorkEnv:
         response = self.session.post(f"{self.base_url}/action?email={email}&title={game}&action={command}", timeout=10)
         response.raise_for_status()
         payload = response.json()
+        # pp(payload)
         print(f"{'-'*50}")
         print(payload['cmdOutput'])
         # print(payload)
@@ -115,7 +116,7 @@ class ZorkEnv:
 
             try: 
                 score = int(score_text)
-                print(f"Score: {score}")
+                # print(f"Score: {score}")
             except:
                 print(f"Score Text: {score_text}")
 
@@ -125,13 +126,26 @@ class ZorkEnv:
 
             try: 
                 moves = int(moves_text)
-                print(f"Moves: {moves}")
+                # print(f"Moves: {moves}")
             except:
                 print(f"Moves Text: {moves_text}")
 
+            payload['score'] = score
+            payload['moves'] = moves
+
         else:
-            score = payload.get("score")
-            moves = payload.get("moves")
+            score = 0
+            moves = 0
+            payload['score'] = 0
+            payload['moves'] = 0
+            # if "scores" in payload:
+            #     score = payload.get("score")
+            #     moves = payload.get("moves")
+            # else:
+                # payload['scores'] = 0
+                # payload['moves'] = 0
+                # score = 0
+                # moves = 0
             # print(f"Score: {score}")
             # print(f"Moves: {moves}")
 
@@ -143,7 +157,7 @@ class ZorkEnv:
         inferred_done = False
         if observation:
             terminal_strings = [
-                "you have died",
+                "****  You have died  ****",
                 "game over",
                 "you have won",
                 "the end",

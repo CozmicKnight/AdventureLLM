@@ -1,0 +1,166 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T02:01:41.965841,679,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T02:01:44.011054,715,2
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:01:46.041163,735,2
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T02:01:48.332071,749,2
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,4,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",0,0,,False,,2025-12-04T02:01:50.289385,768,3
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,5,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T02:01:52.369607,805,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,6,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T02:01:54.466367,856,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,7,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",0,0,,False,,2025-12-04T02:01:56.443874,877,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,8,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T02:01:58.511390,898,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,9,open mailbox,"open mailbox
+
+
+It is already open.
+
+",0,0,,False,,2025-12-04T02:02:00.485143,939,2
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,10,get leaflet,"get leaflet
+
+
+You already have that!
+
+",0,0,,False,,2025-12-04T02:02:02.886413,956,2
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,11,north,"north
+
+
+North of House
+
+",0,0,,False,,2025-12-04T02:02:04.934131,973,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,12,south,"south
+
+
+The windows are all boarded.
+
+",0,0,,False,,2025-12-04T02:02:06.968973,987,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,13,examine mailbox,"examine mailbox
+
+
+You can't see any mailbox here!
+
+",0,0,,False,,2025-12-04T02:02:08.964151,1003,3
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,14,south,"south
+
+
+The windows are all boarded.
+
+",0,0,,False,,2025-12-04T02:02:11.011855,1022,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,15,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T02:02:13.274326,1038,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,16,north,"north
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",0,0,,False,,2025-12-04T02:02:15.207837,1089,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,17,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",0,0,,False,,2025-12-04T02:02:17.181725,1140,3
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,18,south,"south
+
+
+North of House
+
+",0,0,,False,,2025-12-04T02:02:19.330284,1159,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,19,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T02:02:21.357100,1173,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,20,south,"south
+
+
+The windows are all boarded.
+
+",0,0,,False,,2025-12-04T02:02:23.426115,1224,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,21,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T02:02:25.596824,1240,1
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,22,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T02:02:27.564085,1261,2
+745ed72f-a064-4a87-857d-b18841e9b0db,709e1fd1-1a8c-4193-bf64-7fe617a55b9f,0,gpt-4.1-mini,23,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T02:02:29.828628,1280,1

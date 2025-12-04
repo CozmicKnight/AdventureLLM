@@ -1,0 +1,275 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T01:43:48.092316,679,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T01:43:50.356724,715,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:43:52.903165,735,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T01:43:54.877092,749,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,4,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",0,0,,False,,2025-12-04T01:43:56.868198,768,3
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,5,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T01:43:58.859898,805,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,6,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T01:44:01.042272,856,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,7,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",0,0,,False,,2025-12-04T01:44:03.211844,877,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,8,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T01:44:05.679731,898,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,9,examine mailbox,"examine mailbox
+
+
+The small mailbox is empty.
+
+",0,0,,False,,2025-12-04T01:44:07.601655,939,3
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,10,north,"north
+
+
+North of House
+
+",0,0,,False,,2025-12-04T01:44:09.507343,957,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,11,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,0,,False,,2025-12-04T01:44:11.421234,971,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,12,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,0,,False,,2025-12-04T01:44:13.458761,1019,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,13,enter window,"enter window
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,0,,False,,2025-12-04T01:44:15.509697,1045,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,14,take sack,"take sack
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:44:17.470113,1155,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,15,take bottle,"take bottle
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:44:19.385261,1169,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,16,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",0,0,,False,,2025-12-04T01:44:21.298901,1183,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,17,down,"down
+
+
+Kitchen
+
+",0,0,,False,,2025-12-04T01:44:23.188255,1217,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,18,light bottle,"light bottle
+
+
+You can't turn that on.
+
+",0,0,,False,,2025-12-04T01:44:28.130529,1229,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,19,examine sack,"examine sack
+
+
+The brown sack is closed.
+
+",0,0,,False,,2025-12-04T01:44:30.107787,1247,3
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,20,open sack,"open sack
+
+
+Opening the brown sack reveals a lunch, and a clove of garlic.
+
+",0,0,,False,,2025-12-04T01:44:32.024805,1265,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,21,get lunch,"get lunch
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:44:34.044873,1292,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,22,get garlic,"get garlic
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:44:36.001574,1306,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,23,score,"score
+Your score is 10 (total of 350 points), in 23 moves.
+This gives you the rank of Beginner.
+
+",10,23,,False,,2025-12-04T01:44:38.021833,1320,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,24,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",0,0,,False,,2025-12-04T01:44:39.989491,1355,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,25,examine sword,"examine sword
+
+
+There's nothing special about the sword.
+
+",0,0,,False,,2025-12-04T01:44:41.964303,1446,3
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,26,get lantern,"get lantern
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:44:43.919554,1465,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,27,open lantern,"open lantern
+
+
+You must tell me how to do that to a brass lantern.
+
+",0,0,,False,,2025-12-04T01:44:45.976478,1479,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,28,turn on lantern,"turn on lantern
+
+
+The brass lantern is now on.
+
+",0,0,,False,,2025-12-04T01:44:47.923620,1504,3
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,29,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",0,0,,False,,2025-12-04T01:44:50.104112,1525,3
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,30,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",0,0,,False,,2025-12-04T01:44:52.202990,1544,2
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,31,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",0,0,,False,,2025-12-04T01:44:54.507433,1584,3
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,32,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",0,0,,False,,2025-12-04T01:44:56.980307,1615,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,33,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+
+",0,0,,False,,2025-12-04T01:44:58.904898,1686,1
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,34,throw lunch at troll,"throw lunch at troll
+
+
+The troll, who is remarkably coordinated, catches the lunch and not having the
+most discriminating tastes, gleefully eats it.
+
+",0,0,,False,,2025-12-04T01:45:00.920511,1759,4
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,35,throw garlic at troll,"throw garlic at troll
+
+
+The troll, who is remarkably coordinated, catches the clove of garlic and not
+having the most discriminating tastes, gleefully eats it.
+
+",0,0,,False,,2025-12-04T01:45:03.275394,1802,4
+6253b39c-e580-4cf4-87e8-fe7581605c34,44b85973-a367-473a-8085-05e2cd179e84,0,gpt-4.1-mini,36,throw sack at troll,"throw sack at troll
+
+
+The troll, who is remarkably coordinated, catches the brown sack and not having
+the most discriminating tastes, gleefully eats it.
+The flat of the troll's axe hits you delicately on the head, knocking you out.
+Conquering his fears, the troll puts you to death.
+It appears that that last blow was too much for you. I'm afraid you are dead.
+
+   ****  You have died  ****
+
+Now, let's take a look here... Well, you probably deserve another chance. I
+can't quite fix you up completely, but you can't have everything.
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",0,0,,True,,2025-12-04T01:45:05.247453,1848,4

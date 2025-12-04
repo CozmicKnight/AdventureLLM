@@ -1,0 +1,87 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T01:30:30.172892,679,1
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",,,,False,,2025-12-04T01:30:32.315082,715,2
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:30:34.254844,735,2
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,3,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",,,,False,,2025-12-04T01:30:36.174190,749,2
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,4,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",,,,False,,2025-12-04T01:30:38.156017,809,3
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,5,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T01:30:40.293592,846,2
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,6,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T01:30:42.343053,865,1
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,7,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",,,,False,,2025-12-04T01:30:44.325385,916,1
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,8,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",,,,False,,2025-12-04T01:30:46.201499,964,2
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,9,in,"in
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",,,,False,,2025-12-04T01:30:48.107373,990,1
+a6c746ac-1b32-4f0e-9f0c-342a1af1dff8,28dff4f5-da4a-4129-aa9a-de53306c0543,0,gpt-4.1-mini,10,get sack,"get sack
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:30:50.098902,1098,2

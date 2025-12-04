@@ -1,0 +1,223 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T01:48:39.784401,679,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T01:48:41.845371,715,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:48:43.846044,735,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T01:48:45.891633,749,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,4,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",0,0,,False,,2025-12-04T01:48:47.956422,768,3
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,5,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T01:48:49.902290,805,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,6,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,0,,False,,2025-12-04T01:48:52.421225,856,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,7,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,0,,False,,2025-12-04T01:48:54.403362,904,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,8,in,"in
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,0,,False,,2025-12-04T01:48:56.287019,930,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,9,get sack,"get sack
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:48:58.278765,1038,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,10,get bottle,"get bottle
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:49:00.379609,1052,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,11,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",0,0,,False,,2025-12-04T01:49:02.474127,1066,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,12,down,"down
+
+
+Kitchen
+
+",0,0,,False,,2025-12-04T01:49:04.354801,1100,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,13,light lamp,"light lamp
+You don't have that!
+
+",0,0,,False,,2025-12-04T01:49:06.586238,1112,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,14,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",0,0,,False,,2025-12-04T01:49:08.684932,1129,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,15,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",0,0,,False,,2025-12-04T01:49:10.618549,1204,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,16,get lantern,"get lantern
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T01:49:12.772444,1295,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,17,light lantern,"light lantern
+
+
+The brass lantern is now on.
+
+",0,0,,False,,2025-12-04T01:49:14.749470,1309,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,18,up,"up
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T01:49:16.710115,1328,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,19,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",0,0,,False,,2025-12-04T01:49:18.716739,1344,3
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,20,west,"west
+
+
+The door is nailed shut.
+
+",0,0,,False,,2025-12-04T01:49:20.728718,1363,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,21,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",0,0,,False,,2025-12-04T01:49:22.826380,1379,2
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,22,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",0,0,,False,,2025-12-04T01:49:24.859902,1419,3
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,23,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",0,0,,False,,2025-12-04T01:49:26.854678,1450,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,24,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+
+",0,0,,False,,2025-12-04T01:49:29.081347,1521,1
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,25,throw sack at troll,"throw sack at troll
+
+
+The troll, who is remarkably coordinated, catches the brown sack and not having
+the most discriminating tastes, gleefully eats it.
+
+",0,0,,False,,2025-12-04T01:49:31.041910,1594,4
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,26,throw bottle at troll,"throw bottle at troll
+
+
+The troll, who is remarkably coordinated, catches the glass bottle and not
+having the most discriminating tastes, gleefully eats it.
+
+",0,0,,False,,2025-12-04T01:49:33.155725,1638,4
+e33f513b-1183-497e-96cc-7e962765bc52,cc6af3a9-e75d-4c83-ba41-365478c061f4,0,gpt-4.1-mini,27,throw lantern at troll,"throw lantern at troll
+
+
+The troll, who is remarkably coordinated, catches the brass lantern and not
+having the most discriminating tastes, gleefully eats it.
+You are left in the dark...
+The flat of the troll's axe hits you delicately on the head, knocking you out.
+The troll scratches his head ruminatively:  Might you be magically protected, he
+wonders?
+Conquering his fears, the troll puts you to death.
+It appears that that last blow was too much for you. I'm afraid you are dead.
+
+   ****  You have died  ****
+
+Now, let's take a look here... Well, you probably deserve another chance. I
+can't quite fix you up completely, but you can't have everything.
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",0,0,,True,,2025-12-04T01:49:35.135538,1682,4

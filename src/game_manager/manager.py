@@ -12,6 +12,7 @@ from state.logger import LogManager
 from zork_api_adapter.client import ZorkEnv, ZorkStepResult
 
 from time import sleep
+from pprint import pprint as pp
 
 
 @dataclass
@@ -62,12 +63,23 @@ class GameManager:
         state = GameState(session_id=session_id, history=[])
         last_step: Optional[ZorkStepResult] = None
 
+        score_accumulator = 0
+        moves_accumulator = 0
+        moves_counter = 0
+
         for move_idx in range(max_moves):
             prompt = build_prompt(state, model_name=model_name)
             generation: LLMGeneration = generate_action(model_name=model_name, prompt=prompt)
             command = generation.action
             sleep(1)
             step_result = self.env.step(email, game, command)
+            # pp(step_result)
+            score_accumulator += step_result.raw_response['score']
+            moves_accumulator += step_result.raw_response['moves']
+            moves_counter += 1
+            print(f"Score: {score_accumulator}")
+            # print(f"Moves: {moves_accumulator}")
+            print(f"Moves: {moves_counter}")
             state.update(step_result, command)
             last_step = step_result
 
@@ -79,8 +91,8 @@ class GameManager:
                 move_idx=move_idx,
                 command=command,
                 observation=step_result.observation,
-                score=step_result.score,
-                moves=step_result.moves,
+                score=score_accumulator,
+                moves=moves_accumulator,
                 inventory=step_result.inventory,
                 done=step_result.done,
                 seed=seed,
@@ -92,12 +104,12 @@ class GameManager:
                 break
 
         ended_naturally = bool(last_step and last_step.done)
-        final_score = state.score
+        final_score = score_accumulator
         return EpisodeResult(
             model_name=model_name,
             episode_id=episode_id,
             final_score=final_score,
-            moves=state.moves,
+            moves=moves_counter,
             ended_naturally=ended_naturally,
             log_path=self.log_manager.log_path,
         )

@@ -1,0 +1,896 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T01:25:59.552837,679,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",,,,False,,2025-12-04T01:26:01.954867,715,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:26:03.908856,735,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,3,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",,,,False,,2025-12-04T01:26:06.031255,749,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,4,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T01:26:08.308579,809,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,5,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",,,,False,,2025-12-04T01:26:10.376394,850,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,6,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T01:26:12.476605,887,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,7,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",,,,False,,2025-12-04T01:26:14.443288,906,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,8,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T01:26:16.711491,927,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,9,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-04T01:26:18.899078,968,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,10,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T01:26:20.835634,985,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,11,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T01:26:22.964094,1026,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,12,examine windows,"examine windows
+
+
+There's nothing special about the boarded window.
+
+",,,,False,,2025-12-04T01:26:24.940579,1077,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,13,north,"north
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T01:26:27.059901,1097,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,14,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",,,,False,,2025-12-04T01:26:28.968278,1148,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,15,south,"south
+
+
+North of House
+
+",,,,False,,2025-12-04T01:26:31.015014,1167,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,16,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",,,,False,,2025-12-04T01:26:32.935593,1181,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,17,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",,,,False,,2025-12-04T01:26:34.857613,1229,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,18,in,"in
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",,,,False,,2025-12-04T01:26:36.752375,1255,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,19,take sack,"take sack
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:26:38.730642,1363,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,20,take bottle,"take bottle
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:26:40.879852,1377,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,21,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T01:26:42.846102,1391,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,22,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T01:26:44.798958,1425,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,23,light lamp,"light lamp
+You don't have that!
+
+",,,,False,,2025-12-04T01:26:46.756421,1437,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,24,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T01:26:48.696706,1454,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,25,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",,,,False,,2025-12-04T01:26:50.549719,1529,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,26,get lantern,"get lantern
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:26:52.521649,1620,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,27,light lantern,"light lantern
+
+
+The brass lantern is now on.
+
+",,,,False,,2025-12-04T01:26:54.446058,1634,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,28,up,"up
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:26:56.393390,1653,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,29,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T01:26:58.323528,1669,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,30,west,"west
+
+
+The door is nailed shut.
+
+",,,,False,,2025-12-04T01:27:00.516726,1688,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,31,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",,,,False,,2025-12-04T01:27:02.559822,1704,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,32,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",,,,False,,2025-12-04T01:27:04.500076,1744,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,33,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",,,,False,,2025-12-04T01:27:06.424522,1775,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,34,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+
+",,,,False,,2025-12-04T01:27:08.374052,1846,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,35,throw sack at troll,"throw sack at troll
+
+
+The troll, who is remarkably coordinated, catches the brown sack and not having
+the most discriminating tastes, gleefully eats it.
+
+",,,,False,,2025-12-04T01:27:10.330310,1919,4
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,36,throw bottle at troll,"throw bottle at troll
+
+
+The troll, who is remarkably coordinated, catches the glass bottle and not
+having the most discriminating tastes, gleefully eats it.
+The troll's swing almost knocks you over as you barely parry in time.
+
+",,,,False,,2025-12-04T01:27:12.580350,1963,4
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,37,south,"south
+
+
+Cellar
+
+",,,,False,,2025-12-04T01:27:14.460191,2023,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,38,in,"in
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:27:16.859313,2036,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,39,east,"east
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:27:19.213401,2052,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,40,south,"south
+
+
+East of Chasm
+You are on the east edge of a chasm, the bottom of which cannot be seen. A
+narrow passage goes north, and the path you are on continues to the east.
+A ""lean and hungry"" gentleman just wandered through, carrying a large bag.
+Finding nothing of value, he left disgruntled.
+
+",,,,False,,2025-12-04T01:27:21.319405,2068,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,41,north,"north
+
+
+Cellar
+
+",,,,False,,2025-12-04T01:27:23.256912,2148,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,42,west,"west
+
+
+You try to ascend the ramp, but it is impossible, and you slide back down.
+Someone carrying a large bag is casually leaning against one of the walls here.
+He does not speak, but it is clear from his aspect that the bag will be taken
+only over his dead body.
+
+",,,,False,,2025-12-04T01:27:25.240416,2161,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,43,south,"south
+
+
+East of Chasm
+
+",,,,False,,2025-12-04T01:27:27.161976,2229,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,44,north,"north
+
+
+Cellar
+
+",,,,False,,2025-12-04T01:27:29.096874,2244,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,45,south,"south
+
+
+East of Chasm
+
+",,,,False,,2025-12-04T01:27:31.132615,2257,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,46,west,"west
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:27:33.169280,2272,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,47,south,"south
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:27:35.181310,2288,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,48,score,"score
+Your score is 35 (total of 350 points), in 47 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,47,,False,,2025-12-04T01:27:37.299870,2304,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,49,up,"up
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:27:39.293007,2341,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,50,out,"out
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:27:41.401088,2357,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,51,east,"east
+
+
+Gallery
+This is an art gallery. Most of the paintings have been stolen by vandals with
+exceptional taste. The vandals left through either the north or west exits.
+Fortunately, there is still one chance for you to be a vandal, for on the far
+wall is a painting of unparalleled beauty.
+
+",,,,False,,2025-12-04T01:27:43.478401,2373,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,52,examine painting,"examine painting
+
+
+There's nothing special about the painting.
+
+",,,,False,,2025-12-04T01:27:45.435102,2446,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,53,north,"north
+
+
+Studio
+This appears to have been an artist's studio. The walls and floors are
+splattered with paints of 69 different colors. Strangely enough, nothing of
+value is hanging here. At the south end of the room is an open door (also
+covered with paint). A dark and narrow chimney leads up from a fireplace;
+although you might be able to get up it, it seems unlikely you could get back
+down.
+Loosely attached to a wall is a small piece of paper.
+
+",,,,False,,2025-12-04T01:27:47.366976,2465,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,54,get paper,"get paper
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:27:49.303713,2579,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,55,read paper,"read paper
+
+
+Congratulations!
+
+You are the privileged owner of ZORK I: The Great Underground Empire, a self-
+contained and self-maintaining universe. If used and maintained in accordance
+with normal operating practices for small universes, ZORK will provide many
+months of trouble-free operation.
+
+",,,,False,,2025-12-04T01:27:51.356250,2593,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,56,up,"up
+
+
+You can't get up there with what you're carrying.
+
+",,,,False,,2025-12-04T01:27:53.271204,2661,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,57,drop sack,"drop sack
+You don't have that!
+
+",,,,False,,2025-12-04T01:27:55.227019,2681,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,58,inventory,"inventory
+
+
+You are carrying:
+  A ZORK owner's manual
+  A brass lantern (providing light)
+  A leaflet
+
+",,,,False,,2025-12-04T01:27:57.198453,2698,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,59,west,"west
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:27:59.226682,2732,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,60,south,"south
+
+
+Gallery
+Fortunately, there is still one chance for you to be a vandal, for on the far
+wall is a painting of unparalleled beauty.
+
+",,,,False,,2025-12-04T01:28:01.118753,2748,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,61,west,"west
+
+
+East of Chasm
+
+",,,,False,,2025-12-04T01:28:03.161285,2787,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,62,north,"north
+
+
+Cellar
+
+",,,,False,,2025-12-04T01:28:05.139322,2802,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,63,up,"up
+
+
+The trap door is closed.
+
+",,,,False,,2025-12-04T01:28:07.081115,2815,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,64,open trap door,"open trap door
+
+
+The door is locked from above.
+
+",,,,False,,2025-12-04T01:28:08.998011,2831,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,65,score,"score
+Your score is 35 (total of 350 points), in 62 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,62,,False,,2025-12-04T01:28:10.902215,2852,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,66,up,"up
+
+
+The trap door is closed.
+
+",,,,False,,2025-12-04T01:28:12.814811,2889,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,67,look,"look
+
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",,,,False,,2025-12-04T01:28:14.701479,2905,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,68,south,"south
+
+
+East of Chasm
+
+",,,,False,,2025-12-04T01:28:16.675293,2962,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,69,north,"north
+
+
+Cellar
+
+",,,,False,,2025-12-04T01:28:18.584594,2977,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,70,south,"south
+
+
+East of Chasm
+
+",,,,False,,2025-12-04T01:28:20.478700,2990,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,71,east,"east
+
+
+Gallery
+Fortunately, there is still one chance for you to be a vandal, for on the far
+wall is a painting of unparalleled beauty.
+
+",,,,False,,2025-12-04T01:28:22.418478,3005,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,72,west,"west
+
+
+East of Chasm
+
+",,,,False,,2025-12-04T01:28:24.302430,3044,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,73,north,"north
+
+
+Cellar
+
+",,,,False,,2025-12-04T01:28:26.226410,3059,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,74,south,"south
+
+
+East of Chasm
+
+",,,,False,,2025-12-04T01:28:28.089830,3072,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,75,south,"south
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:28:30.003015,3087,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,76,north,"north
+
+
+Cellar
+
+",,,,False,,2025-12-04T01:28:31.922303,3103,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,77,north,"north
+
+
+The Troll Room
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+The flat of the troll's axe skins across your forearm.
+
+",,,,False,,2025-12-04T01:28:33.881947,3116,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,78,throw bottle at troll,"throw bottle at troll
+You don't have that!
+
+",,,,False,,2025-12-04T01:28:36.173948,3163,4
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,79,throw leaflet at troll,"throw leaflet at troll
+
+
+The troll, who is remarkably coordinated, catches the leaflet and not having the
+most discriminating tastes, gleefully eats it.
+The troll's axe stroke cleaves you from the nave to the chops.
+It appears that that last blow was too much for you. I'm afraid you are dead.
+
+   ****  You have died  ****
+
+Now, let's take a look here... Well, you probably deserve another chance. I
+can't quite fix you up completely, but you can't have everything.
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",,,,False,,2025-12-04T01:28:38.088877,3184,4
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,80,east,"east
+
+
+Forest Path
+
+",,,,False,,2025-12-04T01:28:40.250219,3325,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,81,north,"north
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a ZORK owner's manual here.
+On the ground is a pile of leaves.
+
+",,,,False,,2025-12-04T01:28:42.239791,3338,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,82,get zork owner's manual,"get zork owner's manual
+I don't know the word ""owner's"".
+
+",,,,False,,2025-12-04T01:28:44.302068,3390,5
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,83,get zork,"get zork
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:28:46.235006,3418,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,84,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+On the ground is a pile of leaves.
+
+",,,,False,,2025-12-04T01:28:48.148552,3434,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,85,get leaves,"get leaves
+
+
+In disturbing the pile of leaves, a grating is revealed.
+Taken.
+
+",,,,False,,2025-12-04T01:28:50.259534,3477,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,86,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T01:28:52.288215,3504,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,87,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T01:28:54.454261,3524,4
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,88,inventory,"inventory
+
+
+You are carrying:
+  A pile of leaves
+  A ZORK owner's manual
+
+",,,,False,,2025-12-04T01:28:56.368649,3544,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,89,read zork,"read zork
+
+
+Congratulations!
+
+You are the privileged owner of ZORK I: The Great Underground Empire, a self-
+contained and self-maintaining universe. If used and maintained in accordance
+with normal operating practices for small universes, ZORK will provide many
+months of trouble-free operation.
+
+",,,,False,,2025-12-04T01:28:58.497197,3571,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,90,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T01:29:00.454470,3641,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,91,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T01:29:02.506509,3654,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,92,put leaves in grating,"put leaves in grating
+
+
+It won't fit through the grating.
+
+",,,,False,,2025-12-04T01:29:04.987338,3667,5
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,93,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T01:29:07.198035,3693,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,94,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T01:29:09.124741,3706,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,95,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T01:29:11.175827,3718,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,96,examine pile of leaves,"examine pile of leaves
+
+
+There's nothing special about the pile of leaves.
+
+",,,,False,,2025-12-04T01:29:13.172487,3731,5
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,97,drop leaves,"drop leaves
+
+
+Dropped.
+
+",,,,False,,2025-12-04T01:29:15.105732,3756,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,98,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+On the ground is a pile of leaves.
+
+",,,,False,,2025-12-04T01:29:17.197419,3770,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,99,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T01:29:19.162336,3825,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,100,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T01:29:21.151794,3845,4
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,101,north,"north
+
+
+The forest becomes impenetrable to the north.
+
+",,,,False,,2025-12-04T01:29:23.138063,3865,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,102,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T01:29:25.195024,3885,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,103,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T01:29:27.094209,3911,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,104,south,"south
+
+
+Forest
+This is a dimly lit forest, with large trees all around.
+
+",,,,False,,2025-12-04T01:29:29.127219,3923,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,105,east,"east
+
+
+The rank undergrowth prevents eastward movement.
+
+",,,,False,,2025-12-04T01:29:31.126238,3949,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,106,north,"north
+
+
+Clearing
+You are in a small clearing in a well marked forest path that extends to the
+east and west.
+
+",,,,False,,2025-12-04T01:29:33.176015,3968,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,107,west,"west
+
+
+Behind House
+
+",,,,False,,2025-12-04T01:29:35.201220,4002,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,108,in,"in
+
+
+Kitchen
+
+",,,,False,,2025-12-04T01:29:37.270001,4015,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,109,west,"west
+
+
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+There is a brass lantern (battery-powered) here.
+
+",,,,False,,2025-12-04T01:29:39.237020,4027,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,110,get sword,"get sword
+
+
+Taken.
+
+",,,,False,,2025-12-04T01:29:41.200337,4066,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,111,up,"up
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T01:29:43.161940,4080,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,112,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a closed trap door at your feet.
+There is a brass lantern (battery-powered) here.
+
+",,,,False,,2025-12-04T01:29:45.088793,4096,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,113,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",,,,False,,2025-12-04T01:29:47.134408,4169,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,114,down,"down
+
+
+You have moved into a dark place.
+The trap door crashes shut, and you hear someone barring it.
+
+It is pitch black. You are likely to be eaten by a grue.
+Your sword is glowing with a faint blue glow.
+
+",,,,False,,2025-12-04T01:29:49.107222,4200,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,115,light lantern,"light lantern
+It's too dark to see!
+
+",,,,False,,2025-12-04T01:29:51.131989,4258,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,116,turn on lantern,"turn on lantern
+It's too dark to see!
+
+",,,,False,,2025-12-04T01:29:53.055790,4276,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,117,west,"west
+
+
+You try to ascend the ramp, but it is impossible, and you slide back down.
+
+",,,,False,,2025-12-04T01:29:55.003264,4296,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,118,light lantern,"light lantern
+It's too dark to see!
+
+",,,,False,,2025-12-04T01:29:57.036595,4324,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,119,up,"up
+
+
+The trap door is closed.
+
+",,,,False,,2025-12-04T01:29:58.973163,4342,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,120,score,"score
+Your score is 25 (total of 350 points), in 111 moves.
+This gives you the rank of Beginner.
+
+",25,111,,False,,2025-12-04T01:30:00.928129,4358,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,121,throw sword at troll,"throw sword at troll
+It's too dark to see!
+
+",,,,False,,2025-12-04T01:30:03.034133,4393,4
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,122,light lantern,"light lantern
+It's too dark to see!
+
+",,,,False,,2025-12-04T01:30:04.975172,4415,2
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,123,inventory,"inventory
+
+
+You are carrying:
+  A sword
+  A ZORK owner's manual
+
+",,,,False,,2025-12-04T01:30:07.162473,4433,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,124,up,"up
+
+
+The trap door is closed.
+
+",,,,False,,2025-12-04T01:30:09.738378,4458,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,125,open trap door,"open trap door
+
+
+The door is locked from above.
+A seedy-looking individual with a large bag just wandered through the room. On
+the way through, he quietly abstracted some valuables from the room and from
+your possession, mumbling something about ""Doing unto others before...""
+
+",,,,False,,2025-12-04T01:30:11.902942,4474,3
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,126,up,"up
+
+
+The trap door is closed.
+
+",,,,False,,2025-12-04T01:30:13.967068,4542,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,127,look,"look
+
+
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T01:30:15.976635,4558,1
+f9bda966-3775-420f-98d5-cc5c0347252c,51998311-b9f0-4ba0-a48c-8c8f9ecb9857,0,gpt-4.1-mini,128,light lantern,"light lantern
+It's too dark to see!
+
+",,,,False,,2025-12-04T01:30:18.180348,4584,2

@@ -55,6 +55,7 @@ def build_prompt(game_state: "GameState", model_name: str) -> str:
         "The \'get all\' command will allow you to pick up all available items in the area and places them in your inventory. "
         "The \'take all\' command will allow you to pick up all available items in the area and places them in your inventory. "
         "The \'grab all\' command will allow you to pick up all available items in the area and places them in your inventory. "
+        "The \'attack (creature) with (item)\' command will attack the named creature with the named item. It is best to use an item that is a weapon. "
         "The \'throw (item) at (location)\' causes you to throws the named item item at the named location. "
         "The \'open (container)\' opens the named container, whether it is in the room or your inventory. "
         "The \'read (item)\' provides you a description of what is written on readable item. "
