@@ -1,0 +1,266 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T03:02:25.786313,713,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T03:02:27.787108,749,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T03:02:29.905253,769,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T03:02:31.927757,783,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,4,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",0,0,,False,,2025-12-04T03:02:33.812806,802,3
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,5,score,"score
+Your score is 0 (total of 350 points), in 5 moves.
+This gives you the rank of Beginner.
+
+",0,5,,False,,2025-12-04T03:02:35.731062,839,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,6,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,5,,False,,2025-12-04T03:02:37.792268,874,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,7,south,"south
+
+
+The windows are all boarded.
+
+",0,5,,False,,2025-12-04T03:02:39.765321,925,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,8,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",0,5,,False,,2025-12-04T03:02:41.690729,941,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,9,open mailbox,"open mailbox
+
+
+It is already open.
+
+",0,5,,False,,2025-12-04T03:02:43.812441,962,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,10,score,"score
+Your score is 0 (total of 350 points), in 9 moves.
+This gives you the rank of Beginner.
+
+",0,14,,False,,2025-12-04T03:02:45.753758,979,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,11,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,14,,False,,2025-12-04T03:02:47.700315,1014,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,12,look in mailbox,"look in mailbox
+
+
+The small mailbox is empty.
+
+",0,14,,False,,2025-12-04T03:02:49.692435,1055,3
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,13,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",0,14,,False,,2025-12-04T03:02:51.731822,1075,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,14,north,"north
+
+
+North of House
+
+",0,14,,False,,2025-12-04T03:02:53.851200,1096,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,15,score,"score
+Your score is 0 (total of 350 points), in 13 moves.
+This gives you the rank of Beginner.
+
+",0,27,,False,,2025-12-04T03:02:55.865259,1110,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,16,south,"south
+
+
+The windows are all boarded.
+
+",0,27,,False,,2025-12-04T03:02:57.956035,1145,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,17,look around house,"look around house
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,27,,False,,2025-12-04T03:02:59.919698,1161,3
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,18,north,"north
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",0,27,,False,,2025-12-04T03:03:02.151665,1216,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,19,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",0,27,,False,,2025-12-04T03:03:04.147256,1267,3
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,20,score,"score
+Your score is 0 (total of 350 points), in 17 moves.
+This gives you the rank of Beginner.
+
+",0,44,,False,,2025-12-04T03:03:06.206690,1286,3
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,21,south,"south
+
+
+North of House
+
+",0,44,,False,,2025-12-04T03:03:08.220624,1321,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,22,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,44,,False,,2025-12-04T03:03:10.159342,1335,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,23,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,44,,False,,2025-12-04T03:03:12.149124,1383,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,24,in,"in
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,44,,False,,2025-12-04T03:03:14.216361,1409,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,25,score,"score
+Your score is 10 (total of 350 points), in 21 moves.
+This gives you the rank of Beginner.
+
+",10,65,,False,,2025-12-04T03:03:16.122540,1517,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,26,get sack,"get sack
+
+
+Taken.
+
+",10,65,,False,,2025-12-04T03:03:18.050992,1552,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,27,get bottle,"get bottle
+
+
+Taken.
+
+",10,65,,False,,2025-12-04T03:03:19.970814,1566,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,28,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",10,65,,False,,2025-12-04T03:03:22.001513,1580,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,29,down,"down
+
+
+Kitchen
+
+",10,65,,False,,2025-12-04T03:03:23.896338,1614,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,30,score,"score
+Your score is 10 (total of 350 points), in 25 moves.
+This gives you the rank of Beginner.
+
+",20,90,,False,,2025-12-04T03:03:25.824633,1626,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,31,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",20,90,,False,,2025-12-04T03:03:28.241412,1661,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,32,get lantern,"get lantern
+
+
+Taken.
+
+",20,90,,False,,2025-12-04T03:03:30.134999,1752,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,33,open trophy case,"open trophy case
+
+
+Opened.
+
+",20,90,,False,,2025-12-04T03:03:32.298027,1766,3
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,34,get sword,"get sword
+
+
+Taken.
+
+",20,90,,False,,2025-12-04T03:03:34.222938,1782,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,35,score,"score
+Your score is 10 (total of 350 points), in 29 moves.
+This gives you the rank of Beginner.
+
+",30,119,,False,,2025-12-04T03:03:36.149131,1796,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,36,light lantern,"light lantern
+
+
+The brass lantern is now on.
+
+",30,119,,False,,2025-12-04T03:03:38.179894,1831,2
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,37,up,"up
+
+
+You can't go that way.
+
+",30,119,,False,,2025-12-04T03:03:40.101465,1850,1
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,38,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",30,119,,False,,2025-12-04T03:03:42.046294,1866,3
+3706aee6-c65f-47a2-8124-eed1b8040ef8,8d640ca5-9755-4b9f-a652-bfdd53fbda98,0,gpt-4.1-mini,39,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",30,119,,False,,2025-12-04T03:03:44.143725,1885,2

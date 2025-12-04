@@ -73,15 +73,19 @@ class GameManager:
             command = generation.action
 
             if move_idx > 0 and move_idx % 5 == 0:
-                print(f"[INFO] Forcing score check on move {move_idx}")
+                print(f"[INFO] Checking Score")
                 command = "score"
                 
             sleep(1)
             step_result = self.env.step(email, game, command)
             # pp(step_result)
-            score_accumulator += step_result.raw_response['score']
-            moves_accumulator += step_result.raw_response['moves']
-            moves_counter += 1
+            if step_result.raw_response['score'] > 0:
+                score_accumulator = step_result.raw_response['score']
+            if step_result.raw_response['moves'] > 0:
+                moves_accumulator = step_result.raw_response['moves']
+                moves_counter = moves_accumulator
+            else:
+                moves_counter += 1
             print(f"Score: {score_accumulator}")
             # print(f"Moves: {moves_accumulator}")
             print(f"Moves: {moves_counter}")

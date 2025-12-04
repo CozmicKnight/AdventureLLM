@@ -1,0 +1,1976 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T02:51:25.675212,713,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T02:51:27.840203,749,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:51:30.127464,769,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T02:51:32.304601,783,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,4,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",0,0,,False,,2025-12-04T02:51:34.366294,802,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,5,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T02:51:36.527208,839,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,6,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T02:51:38.408487,890,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,7,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",0,0,,False,,2025-12-04T02:51:40.812664,911,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,8,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T02:51:42.724468,932,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,9,open mailbox,"open mailbox
+
+
+It is already open.
+
+",0,0,,False,,2025-12-04T02:51:44.618300,973,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,10,get leaflet,"get leaflet
+
+
+You already have that!
+
+",0,0,,False,,2025-12-04T02:51:46.537971,990,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,11,examine mailbox,"examine mailbox
+
+
+The small mailbox is empty.
+
+",0,0,,False,,2025-12-04T02:51:48.485739,1007,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,12,north,"north
+
+
+North of House
+
+",0,0,,False,,2025-12-04T02:51:50.377852,1025,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,13,south,"south
+
+
+The windows are all boarded.
+
+",0,0,,False,,2025-12-04T02:51:52.490746,1039,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,14,examine window,"examine window
+
+
+There's nothing special about the boarded window.
+
+",0,0,,False,,2025-12-04T02:51:54.675589,1055,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,15,examine boards,"examine boards
+
+
+The boards are securely fastened.
+
+",0,0,,False,,2025-12-04T02:51:56.669473,1075,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,16,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T02:51:58.660675,1094,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,17,north,"north
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",0,0,,False,,2025-12-04T02:52:00.815990,1145,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,18,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",0,0,,False,,2025-12-04T02:52:02.741031,1196,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,19,south,"south
+
+
+North of House
+
+",0,0,,False,,2025-12-04T02:52:04.904660,1215,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,20,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,0,,False,,2025-12-04T02:52:06.858563,1229,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,21,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,0,,False,,2025-12-04T02:52:08.794799,1277,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,22,in window,"in window
+There was no verb in that sentence!
+
+",0,0,,False,,2025-12-04T02:52:10.736911,1303,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,23,enter window,"enter window
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,0,,False,,2025-12-04T02:52:12.594994,1323,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,24,take sack,"take sack
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:52:14.660971,1433,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,25,take bottle,"take bottle
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:52:16.602744,1447,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,26,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",0,0,,False,,2025-12-04T02:52:18.511787,1461,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,27,down,"down
+
+
+Kitchen
+
+",0,0,,False,,2025-12-04T02:52:20.566088,1495,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,28,light lamp,"light lamp
+You don't have that!
+
+",0,0,,False,,2025-12-04T02:52:22.429352,1507,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,29,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",0,0,,False,,2025-12-04T02:52:24.402728,1524,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,30,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",0,0,,False,,2025-12-04T02:52:26.337280,1599,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,31,get lantern,"get lantern
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:52:28.235146,1690,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,32,light lantern,"light lantern
+
+
+The brass lantern is now on.
+
+",0,0,,False,,2025-12-04T02:52:30.151161,1704,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,33,up,"up
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T02:52:32.069087,1723,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,34,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",0,0,,False,,2025-12-04T02:52:34.033420,1739,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,35,open trophy case,"open trophy case
+
+
+Opened.
+
+",0,0,,False,,2025-12-04T02:52:35.987833,1758,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,36,get sword,"get sword
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:52:38.030750,1774,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,37,up,"up
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T02:52:39.999494,1788,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,38,east,"east
+
+
+Kitchen
+
+",0,0,,False,,2025-12-04T02:52:41.971604,1804,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,39,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",0,0,,False,,2025-12-04T02:52:43.981424,1816,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,40,examine chimney,"examine chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",0,0,,False,,2025-12-04T02:52:45.941998,1834,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,41,climb chimney,"climb chimney
+
+
+The chimney doesn't lead upward.
+
+",0,0,,False,,2025-12-04T02:52:47.847622,1856,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,42,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",0,0,,False,,2025-12-04T02:52:49.841991,1874,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,43,light lantern,"light lantern
+
+
+It is already on.
+
+",0,0,,False,,2025-12-04T02:52:51.795861,1892,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,44,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",0,0,,False,,2025-12-04T02:52:53.847437,1909,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,45,examine bottle,"examine bottle
+
+
+The glass bottle contains:
+  A quantity of water
+
+",0,0,,False,,2025-12-04T02:52:55.783306,1927,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,46,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",0,0,,False,,2025-12-04T02:52:57.795075,1950,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,47,climb down,"climb down
+What do you want to climb down?
+
+",0,0,,False,,2025-12-04T02:52:59.933310,1968,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,48,climb chimney,"climb chimney
+
+
+The chimney doesn't lead upward.
+
+",0,0,,False,,2025-12-04T02:53:01.966002,1988,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,49,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",0,0,,False,,2025-12-04T02:53:03.832722,2006,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,50,west,"west
+
+
+Living Room
+
+",0,0,,False,,2025-12-04T02:53:05.757508,2024,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,51,down,"down
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T02:53:07.850798,2037,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,52,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",0,0,,False,,2025-12-04T02:53:09.889780,2053,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,53,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",0,0,,False,,2025-12-04T02:53:11.856942,2118,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,54,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",0,0,,False,,2025-12-04T02:53:13.954072,2158,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,55,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+Your sword is glowing with a faint blue glow.
+
+",0,0,,False,,2025-12-04T02:53:15.893173,2189,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,56,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",0,0,,False,,2025-12-04T02:53:17.967343,2270,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,57,attack troll with sword,"attack troll with sword
+
+
+The haft of your sword knocks out the troll.
+
+",0,0,,False,,2025-12-04T02:53:19.913107,2352,4
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,58,south,"south
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",0,0,,False,,2025-12-04T02:53:21.808398,2378,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,59,south,"south
+
+
+East of Chasm
+You are on the east edge of a chasm, the bottom of which cannot be seen. A
+narrow passage goes north, and the path you are on continues to the east.
+Your sword is no longer glowing.
+
+",0,0,,False,,2025-12-04T02:53:24.886566,2401,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,60,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",0,0,,False,,2025-12-04T02:53:26.846425,2461,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,61,east,"east
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T02:53:28.839568,2484,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,62,west,"west
+
+
+You try to ascend the ramp, but it is impossible, and you slide back down.
+
+",0,0,,False,,2025-12-04T02:53:30.881126,2500,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,63,south,"south
+
+
+East of Chasm
+Your sword is no longer glowing.
+
+",0,0,,False,,2025-12-04T02:53:32.807085,2528,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,64,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",0,0,,False,,2025-12-04T02:53:34.710807,2550,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,65,south,"south
+
+
+East of Chasm
+Your sword is no longer glowing.
+
+",0,0,,False,,2025-12-04T02:53:36.663660,2573,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,66,look,"look
+
+
+East of Chasm
+You are on the east edge of a chasm, the bottom of which cannot be seen. A
+narrow passage goes north, and the path you are on continues to the east.
+
+",0,0,,False,,2025-12-04T02:53:38.715216,2595,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,67,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",0,0,,False,,2025-12-04T02:53:40.743051,2648,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,68,south,"south
+
+
+East of Chasm
+Your sword is no longer glowing.
+
+",0,0,,False,,2025-12-04T02:53:42.671663,2671,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,69,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",0,0,,False,,2025-12-04T02:53:44.818957,2693,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,70,north,"north
+
+
+The Troll Room
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",0,0,,False,,2025-12-04T02:53:46.729024,2716,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,71,attack troll with sword,"attack troll with sword
+
+
+The troll is momentarily disoriented and can't fight back.
+The troll slowly regains his feet.
+
+",0,0,,False,,2025-12-04T02:53:48.823120,2759,4
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,72,attack troll with sword,"attack troll with sword
+
+
+The troll is staggered, and drops to his knees.
+The troll slowly regains his feet.
+
+",0,0,,False,,2025-12-04T02:53:50.734229,2796,4
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,73,attack troll with sword,"attack troll with sword
+
+
+The troll's weapon is knocked to the floor, leaving him unarmed.
+The troll, angered and humiliated, recovers his weapon. He appears to have an
+axe to grind with you.
+
+",0,0,,False,,2025-12-04T02:53:52.750453,2832,4
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,74,attack troll with sword,"attack troll with sword
+
+
+The troll is momentarily disoriented and can't fight back.
+The troll slowly regains his feet.
+
+",0,0,,False,,2025-12-04T02:53:54.704886,2889,4
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,75,attack troll with sword,"attack troll with sword
+
+
+The troll is staggered, and drops to his knees.
+The troll slowly regains his feet.
+
+",0,0,,False,,2025-12-04T02:53:56.881452,2926,4
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,76,south,"south
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",0,0,,False,,2025-12-04T02:53:58.829853,2962,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,77,south,"south
+
+
+East of Chasm
+Your sword is no longer glowing.
+
+",0,0,,False,,2025-12-04T02:54:00.952037,2985,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,78,east,"east
+
+
+Gallery
+This is an art gallery. Most of the paintings have been stolen by vandals with
+exceptional taste. The vandals left through either the north or west exits.
+Fortunately, there is still one chance for you to be a vandal, for on the far
+wall is a painting of unparalleled beauty.
+
+",0,0,,False,,2025-12-04T02:54:02.938356,3007,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,79,examine painting,"examine painting
+
+
+There's nothing special about the painting.
+
+",0,0,,False,,2025-12-04T02:54:05.109161,3080,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,80,north,"north
+
+
+Studio
+This appears to have been an artist's studio. The walls and floors are
+splattered with paints of 69 different colors. Strangely enough, nothing of
+value is hanging here. At the south end of the room is an open door (also
+covered with paint). A dark and narrow chimney leads up from a fireplace;
+although you might be able to get up it, it seems unlikely you could get back
+down.
+Loosely attached to a wall is a small piece of paper.
+
+",0,0,,False,,2025-12-04T02:54:07.139457,3099,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,81,get paper,"get paper
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:54:09.169953,3213,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,82,read paper,"read paper
+
+
+Congratulations!
+
+You are the privileged owner of ZORK I: The Great Underground Empire, a self-
+contained and self-maintaining universe. If used and maintained in accordance
+with normal operating practices for small universes, ZORK will provide many
+months of trouble-free operation.
+
+",0,0,,False,,2025-12-04T02:54:11.226948,3227,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,83,up,"up
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:13.134485,3295,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,84,drop sack,"drop sack
+
+
+Dropped.
+
+",0,0,,False,,2025-12-04T02:54:15.148549,3315,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,85,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:17.116557,3329,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,86,get lantern,"get lantern
+
+
+You already have that!
+
+",0,0,,False,,2025-12-04T02:54:19.106131,3351,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,87,drop sword,"drop sword
+
+
+Dropped.
+
+",0,0,,False,,2025-12-04T02:54:21.086116,3368,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,88,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:23.029141,3382,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,89,get bottle,"get bottle
+
+
+You already have that!
+
+",0,0,,False,,2025-12-04T02:54:24.931533,3404,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,90,drop bottle,"drop bottle
+
+
+Dropped.
+
+",0,0,,False,,2025-12-04T02:54:26.900000,3421,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,91,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:28.856472,3435,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,92,get lantern,"get lantern
+
+
+You already have that!
+
+",0,0,,False,,2025-12-04T02:54:30.792697,3457,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,93,drop lantern,"drop lantern
+
+
+Dropped.
+
+",0,0,,False,,2025-12-04T02:54:32.725461,3474,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,94,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:34.724695,3488,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,95,get paper,"get paper
+
+
+You already have that!
+
+",0,0,,False,,2025-12-04T02:54:36.651793,3510,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,96,up,"up
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:38.560349,3527,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,97,drop paper,"drop paper
+
+
+Dropped.
+
+",0,0,,False,,2025-12-04T02:54:40.475958,3547,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,98,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:42.712542,3561,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,99,get sack,"get sack
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:54:44.611761,3583,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,100,drop sack,"drop sack
+
+
+Dropped.
+
+",0,0,,False,,2025-12-04T02:54:46.510496,3597,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,101,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:48.456331,3611,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,102,drop sack,"drop sack
+You don't have the brown sack.
+
+",0,0,,False,,2025-12-04T02:54:50.443987,3633,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,103,get paper,"get paper
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:54:52.586035,3652,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,104,drop paper,"drop paper
+
+
+Dropped.
+
+",0,0,,False,,2025-12-04T02:54:54.602692,3666,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,105,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:54:56.616111,3680,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,106,drop paper,"drop paper
+You don't have the ZORK owner's manual.
+
+",0,0,,False,,2025-12-04T02:54:58.650034,3702,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,107,get paper,"get paper
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:55:00.568176,3723,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,108,drop paper,"drop paper
+
+
+Dropped.
+
+",0,0,,False,,2025-12-04T02:55:02.457148,3737,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,109,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",0,0,,False,,2025-12-04T02:55:04.503381,3751,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,110,drop paper,"drop paper
+You don't have the ZORK owner's manual.
+
+",0,0,,False,,2025-12-04T02:55:06.494392,3773,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,111,drop paper,"drop paper
+You don't have the ZORK owner's manual.
+
+",0,0,,False,,2025-12-04T02:55:08.507202,3794,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,112,west,"west
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T02:55:10.418280,3815,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,113,east,"east
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T02:55:12.385471,3831,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,114,south,"south
+
+
+Gallery
+Fortunately, there is still one chance for you to be a vandal, for on the far
+wall is a painting of unparalleled beauty.
+
+",0,0,,False,,2025-12-04T02:55:14.283316,3847,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,115,north,"north
+
+
+Studio
+There is a ZORK owner's manual here.
+There is a brass lantern (battery-powered) here.
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+There is a sword here.
+A ""lean and hungry"" gentleman just wandered through, carrying a large bag.
+Finding nothing of value, he left disgruntled.
+
+",0,0,,False,,2025-12-04T02:55:16.368085,3886,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,116,get zork owner's manual,"get zork owner's manual
+I don't know the word ""owner's"".
+
+",0,0,,False,,2025-12-04T02:55:18.409170,3969,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,117,get zork owners manual,"get zork owners manual
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:55:20.479535,3997,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,118,light lantern,"light lantern
+
+
+(Taken)
+It is already on.
+
+",0,0,,False,,2025-12-04T02:55:22.405873,4017,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,119,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern (providing light)
+  A ZORK owner's manual
+  A leaflet
+
+",0,0,,False,,2025-12-04T02:55:24.313192,4037,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,120,read zork owners manual,"read zork owners manual
+
+
+Congratulations!
+
+You are the privileged owner of ZORK I: The Great Underground Empire, a self-
+contained and self-maintaining universe. If used and maintained in accordance
+with normal operating practices for small universes, ZORK will provide many
+months of trouble-free operation.
+
+",0,0,,False,,2025-12-04T02:55:26.211406,4071,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,121,get sword,"get sword
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:55:28.148813,4145,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,122,west,"west
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T02:55:30.279852,4159,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,123,south,"south
+
+
+Gallery
+There is a brown sack here.
+
+",0,0,,False,,2025-12-04T02:55:32.211348,4175,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,124,get sack,"get sack
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T02:55:34.236758,4194,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,125,up,"up
+
+
+You can't go that way.
+
+",0,0,,False,,2025-12-04T02:55:36.107981,4208,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,126,west,"west
+
+
+East of Chasm
+
+",0,0,,False,,2025-12-04T02:55:38.098794,4224,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,127,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",0,0,,False,,2025-12-04T02:55:40.038546,4239,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,128,south,"south
+
+
+East of Chasm
+Your sword is no longer glowing.
+
+",0,0,,False,,2025-12-04T02:55:42.129714,4262,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,129,score,"score
+Your score is 35 (total of 350 points), in 121 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,121,,False,,2025-12-04T02:55:44.112255,4284,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,130,south,"south
+
+
+You can't go that way.
+
+",35,121,,False,,2025-12-04T02:55:46.161350,4321,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,131,west,"west
+
+
+You can't go that way.
+
+",35,121,,False,,2025-12-04T02:55:48.584794,4337,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,132,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",35,121,,False,,2025-12-04T02:55:50.518443,4353,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,133,south,"south
+
+
+East of Chasm
+Your sword is no longer glowing.
+
+",35,121,,False,,2025-12-04T02:55:52.477104,4376,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,134,east,"east
+
+
+Gallery
+
+",35,121,,False,,2025-12-04T02:55:54.456498,4398,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,135,west,"west
+
+
+East of Chasm
+
+",35,121,,False,,2025-12-04T02:55:56.342973,4410,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,136,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",35,121,,False,,2025-12-04T02:55:58.525660,4425,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,137,south,"south
+
+
+East of Chasm
+Your sword is no longer glowing.
+
+",35,121,,False,,2025-12-04T02:56:00.546344,4448,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,138,south,"south
+
+
+You can't go that way.
+
+",35,121,,False,,2025-12-04T02:56:02.463609,4470,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,139,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",35,121,,False,,2025-12-04T02:56:04.406101,4486,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,140,south,"south
+
+
+East of Chasm
+Your sword is no longer glowing.
+
+",35,121,,False,,2025-12-04T02:56:06.432182,4509,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,141,west,"west
+
+
+You can't go that way.
+
+",35,121,,False,,2025-12-04T02:56:08.349588,4531,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,142,north,"north
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",35,121,,False,,2025-12-04T02:56:10.274320,4547,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,143,north,"north
+
+
+The Troll Room
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",35,121,,False,,2025-12-04T02:56:12.202564,4570,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,144,attack troll with sword,"attack troll with sword
+
+
+A good slash, but it misses the troll by a mile.
+The troll swings his axe, but it misses.
+
+",35,121,,False,,2025-12-04T02:56:14.346948,4613,4
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,145,attack troll with sword,"attack troll with sword
+
+
+The fatal blow strikes the troll square in the heart:  He dies.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+",35,121,,False,,2025-12-04T02:56:16.412883,4652,4
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,146,south,"south
+
+
+Cellar
+
+",35,121,,False,,2025-12-04T02:56:18.361180,4725,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,147,north,"north
+
+
+The Troll Room
+There is a bloody axe here.
+
+",35,121,,False,,2025-12-04T02:56:20.399292,4738,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,148,get axe,"get axe
+
+
+Taken.
+
+",35,121,,False,,2025-12-04T02:56:22.598016,4759,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,149,south,"south
+
+
+Cellar
+
+",35,121,,False,,2025-12-04T02:56:24.588212,4773,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,150,south,"south
+
+
+East of Chasm
+
+",35,121,,False,,2025-12-04T02:56:26.544477,4786,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,151,north,"north
+
+
+Cellar
+
+",35,121,,False,,2025-12-04T02:56:28.566237,4801,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,152,south,"south
+
+
+East of Chasm
+
+",35,121,,False,,2025-12-04T02:56:30.479359,4814,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,153,score,"score
+Your score is 35 (total of 350 points), in 144 moves.
+This gives you the rank of Amateur Adventurer.
+
+",70,265,,False,,2025-12-04T02:56:32.626334,4829,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,154,south,"south
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:56:34.695372,4866,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,155,east,"east
+
+
+Gallery
+
+",70,265,,False,,2025-12-04T02:56:36.591772,4882,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,156,north,"north
+
+
+Studio
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+
+",70,265,,False,,2025-12-04T02:56:38.555683,4894,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,157,get bottle,"get bottle
+
+
+Your load is too heavy.
+
+",70,265,,False,,2025-12-04T02:56:40.477665,4924,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,158,drop axe,"drop axe
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:56:42.640872,4942,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,159,get bottle,"get bottle
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:56:44.734613,4956,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,160,up,"up
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:56:46.769282,4970,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,161,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:56:48.693221,4990,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,162,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:56:50.729103,5004,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,163,drop bottle,"drop bottle
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:56:52.858765,5026,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,164,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:56:54.783394,5040,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,165,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:56:56.712147,5062,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,166,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:56:58.937832,5076,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,167,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:00.875344,5098,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,168,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:57:02.827723,5112,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,169,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:57:04.849528,5126,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,170,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:06.878511,5148,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,171,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:57:08.975264,5162,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,172,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:10.886369,5176,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,173,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:57:12.795556,5190,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,174,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:57:14.760281,5204,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,175,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:16.851249,5226,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,176,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:57:18.936267,5240,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,177,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:21.112155,5254,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,178,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:57:23.135279,5268,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,179,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T02:57:25.059267,5282,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,180,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:26.990098,5300,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,181,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:57:28.992999,5314,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,182,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:30.972251,5328,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,183,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:57:32.936481,5342,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,184,drop lantern,"drop lantern
+You don't have the brass lantern.
+
+",70,265,,False,,2025-12-04T02:57:34.839891,5356,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,185,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:36.950464,5375,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,186,west,"west
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:57:39.027942,5389,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,187,south,"south
+
+
+Gallery
+
+",70,265,,False,,2025-12-04T02:57:41.200417,5405,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,188,west,"west
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",70,265,,False,,2025-12-04T02:57:43.182612,5417,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,189,light lantern,"light lantern
+It's too dark to see!
+
+",70,265,,False,,2025-12-04T02:57:45.247570,5451,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,190,east,"east
+
+
+Gallery
+
+",70,265,,False,,2025-12-04T02:57:47.174075,5469,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,191,east,"east
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:57:49.311221,5481,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,192,south,"south
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:57:51.262739,5497,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,193,north,"north
+
+
+Studio
+There is a brass lantern (battery-powered) here.
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+There is a bloody axe here.
+A ""lean and hungry"" gentleman just wandered through, carrying a large bag.
+Finding nothing of value, he left disgruntled.
+
+",70,265,,False,,2025-12-04T02:57:53.368151,5513,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,194,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:57:55.583876,5588,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,195,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:57:57.484651,5602,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,196,inventory,"inventory
+
+
+You are carrying:
+  A sword
+  A brown sack
+  A ZORK owner's manual
+  A leaflet
+
+",70,265,,False,,2025-12-04T02:57:59.590483,5616,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,197,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:01.683145,5650,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,198,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:58:04.153079,5664,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,199,drop brown sack,"drop brown sack
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:06.114235,5686,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,200,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:58:08.039208,5702,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,201,get zork owners manual,"get zork owners manual
+
+
+You already have that!
+
+",70,265,,False,,2025-12-04T02:58:10.269739,5724,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,202,drop zork owners manual,"drop zork owners manual
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:12.247498,5747,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,203,climb chimney,"climb chimney
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:58:14.616786,5767,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,204,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:58:16.519193,5789,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,205,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:18.529607,5803,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,206,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:58:20.581409,5817,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,207,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:22.537068,5831,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,208,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:58:24.701251,5845,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,209,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:26.648187,5859,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,210,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:58:28.769278,5873,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,211,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:30.785082,5887,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,212,get zork owners manual,"get zork owners manual
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:58:32.747518,5901,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,213,drop zork owners manual,"drop zork owners manual
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:34.723106,5921,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,214,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T02:58:36.674301,5941,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,215,get zork owners manual,"get zork owners manual
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:58:38.666908,5959,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,216,drop zork owners manual,"drop zork owners manual
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:58:40.635267,5979,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,217,west,"west
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:58:42.579121,5999,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,218,east,"east
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:58:44.452103,6015,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,219,west,"west
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:58:46.438336,6031,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,220,up,"up
+
+
+You can't get up there with what you're carrying.
+
+",70,265,,False,,2025-12-04T02:58:48.508480,6047,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,221,drop zork owners manual,"drop zork owners manual
+You don't have the ZORK owner's manual.
+
+",70,265,,False,,2025-12-04T02:58:50.481695,6067,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,222,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T02:58:52.463483,6094,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,223,inventory,"inventory
+
+
+You are carrying:
+  A leaflet
+
+",70,265,,False,,2025-12-04T02:58:54.457270,6112,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,224,north,"north
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:58:56.443281,6130,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,225,south,"south
+
+
+Gallery
+
+",70,265,,False,,2025-12-04T02:58:58.352213,6146,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,226,west,"west
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",70,265,,False,,2025-12-04T02:59:00.418595,6158,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,227,east,"east
+
+
+Gallery
+
+",70,265,,False,,2025-12-04T02:59:02.345274,6192,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,228,east,"east
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:59:04.413990,6204,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,229,south,"south
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T02:59:06.510319,6220,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,230,north,"north
+
+
+Studio
+There is a ZORK owner's manual here.
+There is a sword here.
+There is a brown sack here.
+There is a brass lantern (battery-powered) here.
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+There is a bloody axe here.
+
+",70,265,,False,,2025-12-04T02:59:08.662042,6236,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,231,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:10.868436,6306,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,232,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:12.838378,6320,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,233,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:14.832764,6334,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,234,get brown sack,"get brown sack
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:16.825280,6348,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,235,drop brown sack,"drop brown sack
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:18.838577,6364,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,236,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:20.857018,6380,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,237,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:23.194732,6394,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,238,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:25.275154,6408,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,239,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:27.244213,6422,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,240,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T02:59:29.151197,6436,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,241,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T02:59:31.068887,6454,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,242,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:33.125569,6472,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,243,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:35.167900,6486,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,244,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:37.288253,6500,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,245,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:39.455085,6514,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,246,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:41.430131,6528,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,247,get sword,"get sword
+
+
+Taken.
+The lamp appears a bit dimmer.
+
+",70,265,,False,,2025-12-04T02:59:43.383214,6542,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,248,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:45.358604,6564,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,249,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:47.295481,6578,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,250,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:49.260559,6592,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,251,inventory,"inventory
+
+
+You are carrying:
+  A leaflet
+
+",70,265,,False,,2025-12-04T02:59:51.191119,6606,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,252,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T02:59:53.130612,6624,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,253,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T02:59:55.179262,6638,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,254,drop lantern,"drop lantern
+You don't have the brass lantern.
+
+",70,265,,False,,2025-12-04T02:59:57.195451,6652,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,255,drop lantern,"drop lantern
+You don't have the brass lantern.
+
+",70,265,,False,,2025-12-04T02:59:59.224617,6671,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,256,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T03:00:01.384657,6690,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,257,west,"west
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T03:00:03.299773,6708,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,258,east,"east
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T03:00:05.238158,6724,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,259,west,"west
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T03:00:07.294066,6740,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,260,north,"north
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T03:00:09.206209,6756,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,261,drop leaflet,"drop leaflet
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:00:11.155760,6772,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,262,climb chimney,"climb chimney
+
+
+Going up empty-handed is a bad idea.
+
+",70,265,,False,,2025-12-04T03:00:13.187446,6786,3
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,263,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:00:15.434046,6807,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,264,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:00:17.377352,6821,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,265,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:00:19.550663,6835,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,266,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:00:21.633547,6849,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,267,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:00:23.668848,6863,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,268,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:00:25.709941,6877,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,269,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:00:27.824736,6891,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,270,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:00:29.955545,6905,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,271,drop lantern,"drop lantern
+You don't have the brass lantern.
+
+",70,265,,False,,2025-12-04T03:00:32.022020,6919,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,272,drop leaflet,"drop leaflet
+You don't have the leaflet.
+
+",70,265,,False,,2025-12-04T03:00:34.026715,6938,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,273,drop leaflet,"drop leaflet
+You don't have the leaflet.
+
+",70,265,,False,,2025-12-04T03:00:36.054481,6956,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,274,drop lantern,"drop lantern
+You don't have the brass lantern.
+
+",70,265,,False,,2025-12-04T03:00:38.012309,6974,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,275,drop leaflet,"drop leaflet
+You don't have the leaflet.
+
+",70,265,,False,,2025-12-04T03:00:40.073125,6993,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,276,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:00:42.082295,7011,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,277,west,"west
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T03:00:44.263618,7025,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,278,down,"down
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T03:00:46.342133,7041,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,279,west,"west
+
+
+You can't go that way.
+
+",70,265,,False,,2025-12-04T03:00:48.267603,7057,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,280,look,"look
+
+
+Studio
+This appears to have been an artist's studio. The walls and floors are
+splattered with paints of 69 different colors. Strangely enough, nothing of
+value is hanging here. At the south end of the room is an open door (also
+covered with paint). A dark and narrow chimney leads up from a fireplace;
+although you might be able to get up it, it seems unlikely you could get back
+down.
+There is a brass lantern (battery-powered) here.
+A small leaflet is on the ground.
+There is a brown sack here.
+There is a ZORK owner's manual here.
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+There is a bloody axe here.
+
+",70,265,,False,,2025-12-04T03:00:50.203439,7073,1
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,281,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:00:52.329905,7233,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,282,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:00:54.269650,7247,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,283,get sack,"get sack
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:00:56.427384,7261,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,284,drop sack,"drop sack
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:00:58.723702,7275,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,285,drop sack,"drop sack
+You don't have the brown sack.
+
+",70,265,,False,,2025-12-04T03:01:00.673359,7289,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,286,drop lantern,"drop lantern
+You don't have the brass lantern.
+
+",70,265,,False,,2025-12-04T03:01:02.824111,7308,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,287,get zork owners manual,"get zork owners manual
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:04.897321,7327,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,288,drop zork owners manual,"drop zork owners manual
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:07.019142,7347,5
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,289,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:09.191499,7367,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,290,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:11.273230,7381,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,291,get sack,"get sack
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:13.460054,7395,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,292,drop sack,"drop sack
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:15.594254,7409,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,293,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:17.662863,7423,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,294,drop sack,"drop sack
+You don't have the brown sack.
+
+",70,265,,False,,2025-12-04T03:01:19.694149,7437,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,295,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:21.819810,7456,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,296,drop lantern,"drop lantern
+You don't have the brass lantern.
+
+",70,265,,False,,2025-12-04T03:01:23.861085,7470,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,297,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:26.027606,7489,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,298,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:28.024951,7503,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,299,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:30.041862,7517,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,300,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:32.198966,7531,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,301,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:34.627312,7545,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,302,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:36.779555,7559,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,303,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T03:01:38.898145,7573,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,304,drop lantern,"drop lantern
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:40.936152,7591,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,305,get sword,"get sword
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:42.998694,7605,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,306,drop sword,"drop sword
+
+
+Dropped.
+
+",70,265,,False,,2025-12-04T03:01:45.016285,7619,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,307,get lantern,"get lantern
+
+
+Taken.
+
+",70,265,,False,,2025-12-04T03:01:47.384232,7633,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,308,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T03:01:49.431843,7647,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,309,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T03:01:51.532226,7665,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,310,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T03:01:53.602124,7683,2
+98178ed8-50d6-4488-bd49-ade352731238,7d7713ee-49a5-4813-b009-06e4917edcb0,0,gpt-4.1-mini,311,drop sword,"drop sword
+You don't have the sword.
+
+",70,265,,False,,2025-12-04T03:01:55.568526,7701,2

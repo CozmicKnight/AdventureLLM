@@ -1,0 +1,1586 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,0,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T03:05:26.919591,712,267
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,1,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T03:05:33.529764,726,266
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,2,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T03:05:40.152204,767,203
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,3,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T03:05:45.594180,787,139
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,4,score,"score
+Your score is 0 (total of 350 points), in 4 moves.
+This gives you the rank of Beginner.
+
+",0,4,,False,,2025-12-04T03:05:54.035805,801,330
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,5,score,"score
+Your score is 0 (total of 350 points), in 4 moves.
+This gives you the rank of Beginner.
+
+",0,8,,False,,2025-12-04T03:06:00.558104,836,266
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,6,score,"score
+Your score is 0 (total of 350 points), in 4 moves.
+This gives you the rank of Beginner.
+
+",0,12,,False,,2025-12-04T03:06:07.051110,871,202
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,7,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",0,12,,False,,2025-12-04T03:06:18.127628,906,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,8,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,12,,False,,2025-12-04T03:06:30.248955,927,650
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,9,north,"north
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",0,12,,False,,2025-12-04T03:06:35.482451,978,138
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,10,score,"score
+Your score is 0 (total of 350 points), in 7 moves.
+This gives you the rank of Beginner.
+
+",0,19,,False,,2025-12-04T03:06:44.760361,1029,460
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,11,climb tree,"climb tree
+
+
+Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The
+nearest branch above you is above your reach.
+Beside you on the branch is a small bird's nest.
+In the bird's nest is a large egg encrusted with precious jewels, apparently
+scavenged by a childless songbird. The egg is covered with fine gold inlay, and
+ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is
+hinged and closed with a delicate looking clasp. The egg appears extremely
+fragile.
+
+",0,19,,False,,2025-12-04T03:06:52.793906,1064,332
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,12,examine egg,"examine egg
+
+
+The jewel-encrusted egg is closed.
+You hear in the distance the chirping of a song bird.
+
+",0,19,,False,,2025-12-04T03:06:59.660130,1199,332
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,13,get egg,"get egg
+
+
+Taken.
+
+",0,19,,False,,2025-12-04T03:07:06.803117,1233,331
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,14,score,"score
+Your score is 5 (total of 350 points), in 10 moves.
+This gives you the rank of Beginner.
+
+",5,29,,False,,2025-12-04T03:07:13.626584,1247,330
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,15,score,"score
+Your score is 5 (total of 350 points), in 10 moves.
+This gives you the rank of Beginner.
+
+",10,39,,False,,2025-12-04T03:07:21.911476,1282,394
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,16,down,"down
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",10,39,,False,,2025-12-04T03:07:28.298388,1317,266
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,17,south,"south
+
+
+North of House
+
+",10,39,,False,,2025-12-04T03:07:42.058566,1343,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,18,north,"north
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",10,39,,False,,2025-12-04T03:07:55.922445,1357,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,19,north,"north
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+On the ground is a pile of leaves.
+
+",10,39,,False,,2025-12-04T03:08:12.291902,1383,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,20,score,"score
+Your score is 5 (total of 350 points), in 14 moves.
+This gives you the rank of Beginner.
+
+",15,53,,False,,2025-12-04T03:08:17.769153,1426,140
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,21,examine leaves,"examine leaves
+
+
+There's nothing special about the pile of leaves.
+
+",15,53,,False,,2025-12-04T03:08:28.694267,1461,588
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,22,move leaves,"move leaves
+
+
+Done.
+In disturbing the pile of leaves, a grating is revealed.
+
+",15,53,,False,,2025-12-04T03:08:40.522251,1482,587
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,23,open grating,"open grating
+
+
+The grating is locked.
+
+",15,53,,False,,2025-12-04T03:08:45.587523,1509,140
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,24,examine grating,"examine grating
+
+
+The grating is closed.
+
+",15,53,,False,,2025-12-04T03:08:52.165564,1529,269
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,25,score,"score
+Your score is 5 (total of 350 points), in 18 moves.
+This gives you the rank of Beginner.
+
+",20,71,,False,,2025-12-04T03:08:59.887551,1549,395
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,26,open egg,"open egg
+
+
+You have neither the tools nor the expertise.
+
+",20,71,,False,,2025-12-04T03:09:15.744332,1584,843
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,27,south,"south
+
+
+Forest Path
+
+",20,71,,False,,2025-12-04T03:09:32.200821,1605,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,28,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",20,71,,False,,2025-12-04T03:09:39.921911,1618,330
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,29,south,"south
+
+
+Forest Path
+
+",20,71,,False,,2025-12-04T03:09:55.937141,1640,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,30,score,"score
+Your score is 5 (total of 350 points), in 22 moves.
+This gives you the rank of Beginner.
+
+",25,93,,False,,2025-12-04T03:10:12.143565,1653,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,31,south,"south
+
+
+North of House
+
+",25,93,,False,,2025-12-04T03:10:32.224507,1688,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,32,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",25,93,,False,,2025-12-04T03:10:42.265516,1702,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,33,south,"south
+
+
+The windows are all boarded.
+
+",25,93,,False,,2025-12-04T03:10:58.411712,1753,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,34,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",25,93,,False,,2025-12-04T03:11:12.630227,1769,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,35,score,"score
+Your score is 5 (total of 350 points), in 26 moves.
+This gives you the rank of Beginner.
+
+",30,119,,False,,2025-12-04T03:11:30.850471,1820,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,36,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",30,119,,False,,2025-12-04T03:11:44.437947,1855,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,37,north,"north
+
+
+North of House
+
+",30,119,,False,,2025-12-04T03:11:55.923740,1876,650
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,38,north,"north
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",30,119,,False,,2025-12-04T03:12:11.429623,1890,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,39,score,"score
+Your score is 5 (total of 350 points), in 29 moves.
+This gives you the rank of Beginner.
+
+",35,148,,False,,2025-12-04T03:12:27.878724,1916,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,40,score,"score
+Your score is 5 (total of 350 points), in 29 moves.
+This gives you the rank of Beginner.
+
+",40,177,,False,,2025-12-04T03:12:35.348172,1951,394
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,41,south,"south
+
+
+North of House
+
+",40,177,,False,,2025-12-04T03:12:52.014628,1986,1162
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,42,north,"north
+
+
+Forest Path
+
+",40,177,,False,,2025-12-04T03:13:00.801384,2000,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,43,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",40,177,,False,,2025-12-04T03:13:10.706453,2013,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,44,south,"south
+
+
+Forest Path
+
+",40,177,,False,,2025-12-04T03:13:20.370643,2035,522
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,45,score,"score
+Your score is 5 (total of 350 points), in 33 moves.
+This gives you the rank of Beginner.
+
+",45,210,,False,,2025-12-04T03:13:38.987119,2048,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,46,south,"south
+
+
+North of House
+
+",45,210,,False,,2025-12-04T03:13:58.147144,2083,1290
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,47,north,"north
+
+
+Forest Path
+
+",45,210,,False,,2025-12-04T03:14:22.518593,2097,1546
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,48,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",45,210,,False,,2025-12-04T03:14:36.722208,2110,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,49,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",45,210,,False,,2025-12-04T03:14:56.339496,2132,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,50,score,"score
+Your score is 5 (total of 350 points), in 37 moves.
+This gives you the rank of Beginner.
+
+",50,247,,False,,2025-12-04T03:15:13.020541,2158,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,51,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",50,247,,False,,2025-12-04T03:15:29.506707,2193,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,52,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",50,247,,False,,2025-12-04T03:15:39.969771,2215,587
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,53,south,"south
+
+
+Forest Path
+
+",50,247,,False,,2025-12-04T03:15:53.834229,2275,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,54,south,"south
+
+
+North of House
+
+",50,247,,False,,2025-12-04T03:16:09.091339,2288,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,55,score,"score
+Your score is 5 (total of 350 points), in 41 moves.
+This gives you the rank of Beginner.
+
+",55,288,,False,,2025-12-04T03:16:28.538738,2302,1162
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,56,north,"north
+
+
+Forest Path
+
+",55,288,,False,,2025-12-04T03:16:46.024442,2337,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,57,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",55,288,,False,,2025-12-04T03:16:56.847566,2350,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,58,south,"south
+
+
+Forest Path
+
+",55,288,,False,,2025-12-04T03:17:09.381327,2372,714
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,59,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",55,288,,False,,2025-12-04T03:17:19.791701,2385,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,60,score,"score
+Your score is 5 (total of 350 points), in 45 moves.
+This gives you the rank of Beginner.
+
+",60,333,,False,,2025-12-04T03:17:34.598129,2407,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,61,south,"south
+
+
+Forest Path
+
+",60,333,,False,,2025-12-04T03:17:47.603703,2442,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,62,south,"south
+
+
+North of House
+
+",60,333,,False,,2025-12-04T03:17:57.716224,2455,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,63,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",60,333,,False,,2025-12-04T03:18:14.032967,2469,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,64,open window,"open window
+
+
+You can't see any window here!
+
+",60,333,,False,,2025-12-04T03:18:30.947221,2490,971
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,65,score,"score
+Your score is 5 (total of 350 points), in 49 moves.
+This gives you the rank of Beginner.
+
+",65,382,,False,,2025-12-04T03:18:53.316427,2509,1482
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,66,north,"north
+
+
+North of House
+
+",65,382,,False,,2025-12-04T03:19:17.035473,2544,1610
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,67,north,"north
+
+
+Forest Path
+
+",65,382,,False,,2025-12-04T03:19:23.519994,2558,266
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,68,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",65,382,,False,,2025-12-04T03:19:37.721200,2571,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,69,south,"south
+
+
+Forest Path
+
+",65,382,,False,,2025-12-04T03:20:14.347327,2593,2442
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,70,score,"score
+Your score is 5 (total of 350 points), in 53 moves.
+This gives you the rank of Beginner.
+
+",70,435,,False,,2025-12-04T03:20:27.825218,2606,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,71,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",70,435,,False,,2025-12-04T03:20:37.771566,2641,522
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,72,move grating,"move grating
+
+
+You can't move the grating.
+
+",70,435,,False,,2025-12-04T03:20:58.085507,2663,1100
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,73,south,"south
+
+
+Forest Path
+
+",70,435,,False,,2025-12-04T03:21:14.060309,2684,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,74,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",70,435,,False,,2025-12-04T03:21:27.291649,2697,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,75,score,"score
+Your score is 5 (total of 350 points), in 57 moves.
+This gives you the rank of Beginner.
+
+",75,492,,False,,2025-12-04T03:21:43.128254,2719,972
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,76,south,"south
+
+
+Forest Path
+
+",75,492,,False,,2025-12-04T03:22:11.467865,2754,1930
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,77,south,"south
+
+
+North of House
+
+",75,492,,False,,2025-12-04T03:22:30.328523,2767,1290
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,78,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",75,492,,False,,2025-12-04T03:23:04.108232,2781,2378
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,79,north,"north
+
+
+North of House
+
+",75,492,,False,,2025-12-04T03:23:12.550826,2802,394
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,80,score,"score
+Your score is 5 (total of 350 points), in 61 moves.
+This gives you the rank of Beginner.
+
+",80,553,,False,,2025-12-04T03:23:17.643829,2816,202
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,81,north,"north
+
+
+Forest Path
+
+",80,553,,False,,2025-12-04T03:23:34.046430,2851,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,82,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",80,553,,False,,2025-12-04T03:23:39.950976,2864,266
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,83,score,"score
+Your score is 5 (total of 350 points), in 63 moves.
+This gives you the rank of Beginner.
+
+",85,616,,False,,2025-12-04T03:23:52.548338,2886,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,84,inventory,"inventory
+
+
+You are carrying:
+  A jewel-encrusted egg
+  A leaflet
+
+",85,616,,False,,2025-12-04T03:24:15.498571,2921,1546
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,85,score,"score
+Your score is 5 (total of 350 points), in 64 moves.
+This gives you the rank of Beginner.
+
+",90,680,,False,,2025-12-04T03:24:25.512121,2947,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,86,south,"south
+
+
+Forest Path
+
+",90,680,,False,,2025-12-04T03:24:47.208502,2982,1162
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,87,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",90,680,,False,,2025-12-04T03:25:01.855087,2995,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,88,south,"south
+
+
+Forest Path
+
+",90,680,,False,,2025-12-04T03:25:26.714160,3017,1738
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,89,south,"south
+
+
+North of House
+
+",90,680,,False,,2025-12-04T03:25:34.275472,3030,394
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,90,score,"score
+Your score is 5 (total of 350 points), in 68 moves.
+This gives you the rank of Beginner.
+
+",95,748,,False,,2025-12-04T03:25:50.970864,3044,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,91,north,"north
+
+
+Forest Path
+
+",95,748,,False,,2025-12-04T03:25:59.682250,3079,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,92,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",95,748,,False,,2025-12-04T03:26:14.059802,3092,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,93,south,"south
+
+
+Forest Path
+
+",95,748,,False,,2025-12-04T03:26:31.545083,3114,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,94,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",95,748,,False,,2025-12-04T03:26:49.993346,3127,1354
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,95,score,"score
+Your score is 5 (total of 350 points), in 72 moves.
+This gives you the rank of Beginner.
+
+",100,820,,False,,2025-12-04T03:27:02.154447,3149,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,96,south,"south
+
+
+Forest Path
+
+",100,820,,False,,2025-12-04T03:27:17.826168,3184,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,97,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",100,820,,False,,2025-12-04T03:27:30.441734,3197,907
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,98,south,"south
+
+
+Forest Path
+
+",100,820,,False,,2025-12-04T03:27:41.812740,3219,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,99,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",100,820,,False,,2025-12-04T03:27:55.672518,3232,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,100,score,"score
+Your score is 5 (total of 350 points), in 76 moves.
+This gives you the rank of Beginner.
+
+",105,896,,False,,2025-12-04T03:28:05.501255,3254,650
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,101,south,"south
+
+
+Forest Path
+
+",105,896,,False,,2025-12-04T03:28:16.813152,3289,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,102,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",105,896,,False,,2025-12-04T03:28:22.744434,3302,266
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,103,throw egg at grating,"throw egg at grating
+
+
+Your rather indelicate handling of the egg has caused it some damage, although
+you have succeeded in opening it. There is a golden clockwork canary nestled in
+the egg. It seems to have recently had a bad experience. The mountings for its
+jewel-like eyes are empty, and its silver beak is crumpled. Through a cracked
+crystal window below its left wing you can see the remains of intricate
+machinery. It is not clear what result winding it would have, as the mainspring
+seems sprung.
+
+",105,896,,False,,2025-12-04T03:28:42.616470,3324,1294
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,104,get canary,"get canary
+
+
+Taken.
+
+",105,896,,False,,2025-12-04T03:28:49.881467,3455,268
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,105,score,"score
+Your score is 5 (total of 350 points), in 80 moves.
+This gives you the rank of Beginner.
+
+",110,976,,False,,2025-12-04T03:28:57.773902,3471,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,106,examine canary,"examine canary
+
+
+There's nothing special about the broken clockwork canary.
+
+",110,976,,False,,2025-12-04T03:29:07.577996,3506,589
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,107,south,"south
+
+
+Forest Path
+
+",110,976,,False,,2025-12-04T03:29:20.066969,3531,714
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,108,north,"north
+
+
+Clearing
+There is a somewhat ruined egg here.
+On the ground is a pile of leaves.
+
+",110,976,,False,,2025-12-04T03:29:25.493142,3544,266
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,109,get egg,"get egg
+
+
+Taken.
+
+",110,976,,False,,2025-12-04T03:29:45.514520,3574,1355
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,110,score,"score
+Your score is 5 (total of 350 points), in 84 moves.
+This gives you the rank of Beginner.
+
+",115,1060,,False,,2025-12-04T03:30:01.988247,3588,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,111,south,"south
+
+
+Forest Path
+
+",115,1060,,False,,2025-12-04T03:30:19.338597,3623,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,112,score,"score
+Your score is 5 (total of 350 points), in 85 moves.
+This gives you the rank of Beginner.
+
+",120,1145,,False,,2025-12-04T03:30:40.906147,3636,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,113,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",120,1145,,False,,2025-12-04T03:30:53.210693,3671,714
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,114,south,"south
+
+
+Forest Path
+
+",120,1145,,False,,2025-12-04T03:31:07.543189,3693,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,115,score,"score
+Your score is 5 (total of 350 points), in 87 moves.
+This gives you the rank of Beginner.
+
+",125,1232,,False,,2025-12-04T03:31:20.787228,3706,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,116,south,"south
+
+
+North of House
+
+",125,1232,,False,,2025-12-04T03:31:44.446435,3741,1546
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,117,north,"north
+
+
+Forest Path
+
+",125,1232,,False,,2025-12-04T03:31:52.320278,3755,330
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,118,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",125,1232,,False,,2025-12-04T03:32:01.942080,3768,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,119,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",125,1232,,False,,2025-12-04T03:32:18.282046,3790,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,120,score,"score
+Your score is 5 (total of 350 points), in 91 moves.
+This gives you the rank of Beginner.
+
+",130,1323,,False,,2025-12-04T03:32:26.992066,3816,394
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,121,south,"south
+
+
+North of House
+
+",130,1323,,False,,2025-12-04T03:32:49.470764,3851,1802
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,122,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",130,1323,,False,,2025-12-04T03:33:03.892096,3865,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,123,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",130,1323,,False,,2025-12-04T03:33:20.134742,3886,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,124,north,"north
+
+
+North of House
+
+",130,1323,,False,,2025-12-04T03:33:29.235822,3907,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,125,score,"score
+Your score is 5 (total of 350 points), in 95 moves.
+This gives you the rank of Beginner.
+
+",135,1418,,False,,2025-12-04T03:33:38.450205,3921,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,126,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",135,1418,,False,,2025-12-04T03:33:53.363641,3956,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,127,north,"north
+
+
+North of House
+
+",135,1418,,False,,2025-12-04T03:34:07.027316,3977,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,128,north,"north
+
+
+Forest Path
+
+",135,1418,,False,,2025-12-04T03:34:29.476070,3991,1290
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,129,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",135,1418,,False,,2025-12-04T03:34:43.941140,4004,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,130,score,"score
+Your score is 5 (total of 350 points), in 99 moves.
+This gives you the rank of Beginner.
+
+",140,1517,,False,,2025-12-04T03:34:58.625344,4026,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,131,south,"south
+
+
+Forest Path
+
+",140,1517,,False,,2025-12-04T03:35:16.527399,4061,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,132,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",140,1517,,False,,2025-12-04T03:35:33.355675,4074,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,133,south,"south
+
+
+Forest Path
+
+",140,1517,,False,,2025-12-04T03:35:52.301455,4096,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,134,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",140,1517,,False,,2025-12-04T03:36:03.075072,4109,522
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,135,score,"score
+Your score is 5 (total of 350 points), in 103 moves.
+This gives you the rank of Beginner.
+
+",145,1620,,False,,2025-12-04T03:36:32.775251,4131,1418
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,136,score,"score
+Your score is 5 (total of 350 points), in 103 moves.
+This gives you the rank of Beginner.
+
+",150,1723,,False,,2025-12-04T03:37:07.624500,4166,2314
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,137,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+On the ground is a pile of leaves.
+
+",150,1723,,False,,2025-12-04T03:37:22.346954,4201,778
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,138,open grating,"open grating
+
+
+The grating is locked.
+
+",150,1723,,False,,2025-12-04T03:37:37.060392,4256,908
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,139,south,"south
+
+
+Forest Path
+
+",150,1723,,False,,2025-12-04T03:37:47.464375,4276,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,140,score,"score
+Your score is 5 (total of 350 points), in 106 moves.
+This gives you the rank of Beginner.
+
+",155,1829,,False,,2025-12-04T03:37:57.270581,4289,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,141,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",155,1829,,False,,2025-12-04T03:38:17.855095,4324,1354
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,142,south,"south
+
+
+Forest Path
+
+",155,1829,,False,,2025-12-04T03:38:36.636305,4346,1290
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,143,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",155,1829,,False,,2025-12-04T03:38:52.579579,4359,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,144,south,"south
+
+
+Forest Path
+
+",155,1829,,False,,2025-12-04T03:39:20.126985,4381,2058
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,145,score,"score
+Your score is 5 (total of 350 points), in 110 moves.
+This gives you the rank of Beginner.
+
+",160,1939,,False,,2025-12-04T03:39:35.353235,4394,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,146,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",160,1939,,False,,2025-12-04T03:39:47.114497,4429,714
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,147,south,"south
+
+
+Forest Path
+
+",160,1939,,False,,2025-12-04T03:40:15.559435,4451,1930
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,148,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",160,1939,,False,,2025-12-04T03:40:33.142507,4464,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,149,south,"south
+
+
+Forest Path
+
+",160,1939,,False,,2025-12-04T03:40:53.691899,4486,1418
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,150,score,"score
+Your score is 5 (total of 350 points), in 114 moves.
+This gives you the rank of Beginner.
+
+",165,2053,,False,,2025-12-04T03:41:15.048132,4499,1418
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,151,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",165,2053,,False,,2025-12-04T03:41:59.949017,4534,714
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,152,south,"south
+
+
+Forest Path
+
+",165,2053,,False,,2025-12-04T03:42:18.595789,4556,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,153,south,"south
+
+
+North of House
+
+",165,2053,,False,,2025-12-04T03:42:33.987055,4569,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,154,north,"north
+
+
+Forest Path
+
+",165,2053,,False,,2025-12-04T03:42:53.792496,4583,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,155,score,"score
+Your score is 5 (total of 350 points), in 118 moves.
+This gives you the rank of Beginner.
+
+",170,2171,,False,,2025-12-04T03:43:06.308136,4596,650
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,156,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",170,2171,,False,,2025-12-04T03:43:31.517754,4631,1546
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,157,south,"south
+
+
+Forest Path
+
+",170,2171,,False,,2025-12-04T03:43:42.913214,4653,650
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,158,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",170,2171,,False,,2025-12-04T03:44:07.638727,4666,1610
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,159,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",170,2171,,False,,2025-12-04T03:44:20.815543,4688,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,160,score,"score
+Your score is 5 (total of 350 points), in 122 moves.
+This gives you the rank of Beginner.
+
+",175,2293,,False,,2025-12-04T03:44:34.211578,4714,650
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,161,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",175,2293,,False,,2025-12-04T03:44:45.151247,4749,586
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,162,south,"south
+
+
+Forest Path
+
+",175,2293,,False,,2025-12-04T03:45:06.777405,4771,1098
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,163,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",175,2293,,False,,2025-12-04T03:45:16.811447,4784,522
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,164,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",175,2293,,False,,2025-12-04T03:45:38.390281,4806,1418
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,165,score,"score
+Your score is 5 (total of 350 points), in 126 moves.
+This gives you the rank of Beginner.
+
+",180,2419,,False,,2025-12-04T03:45:46.375855,4832,330
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,166,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",180,2419,,False,,2025-12-04T03:46:02.981376,4867,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,167,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",180,2419,,False,,2025-12-04T03:46:17.367505,4889,970
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,168,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",180,2419,,False,,2025-12-04T03:46:37.319969,4915,1354
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,169,south,"south
+
+
+Forest Path
+
+",180,2419,,False,,2025-12-04T03:46:55.824352,4937,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,170,score,"score
+Your score is 5 (total of 350 points), in 130 moves.
+This gives you the rank of Beginner.
+
+",185,2549,,False,,2025-12-04T03:47:11.606786,4950,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,171,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",185,2549,,False,,2025-12-04T03:47:29.531693,4985,1290
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,172,south,"south
+
+
+Forest Path
+
+",185,2549,,False,,2025-12-04T03:47:39.659484,5007,650
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,173,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",185,2549,,False,,2025-12-04T03:48:05.499810,5020,1418
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,174,score,"score
+Your score is 5 (total of 350 points), in 133 moves.
+This gives you the rank of Beginner.
+
+",190,2682,,False,,2025-12-04T03:48:25.541961,5042,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,175,score,"score
+Your score is 5 (total of 350 points), in 133 moves.
+This gives you the rank of Beginner.
+
+",195,2815,,False,,2025-12-04T03:49:05.498628,5077,2574
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,176,south,"south
+
+
+Forest Path
+
+",195,2815,,False,,2025-12-04T03:49:18.891146,5112,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,177,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",195,2815,,False,,2025-12-04T03:49:26.512876,5125,394
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,178,south,"south
+
+
+Forest Path
+
+",195,2815,,False,,2025-12-04T03:49:57.146324,5147,1610
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,179,south,"south
+
+
+North of House
+
+",195,2815,,False,,2025-12-04T03:50:12.434484,5160,1034
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,180,score,"score
+Your score is 5 (total of 350 points), in 137 moves.
+This gives you the rank of Beginner.
+
+",200,2952,,False,,2025-12-04T03:50:33.026159,5174,1419
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,181,south,"south
+
+
+The windows are all boarded.
+
+",200,2952,,False,,2025-12-04T03:50:59.026249,5209,1930
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,182,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",200,2952,,False,,2025-12-04T03:51:07.820811,5225,522
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,183,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",200,2952,,False,,2025-12-04T03:51:22.655508,5276,972
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,184,north,"north
+
+
+Forest Path
+
+",200,2952,,False,,2025-12-04T03:51:40.552766,5313,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,185,score,"score
+Your score is 5 (total of 350 points), in 141 moves.
+This gives you the rank of Beginner.
+
+",205,3093,,False,,2025-12-04T03:51:59.430455,5326,1290
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,186,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",205,3093,,False,,2025-12-04T03:52:12.332293,5361,842
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,187,south,"south
+
+
+Forest Path
+
+",205,3093,,False,,2025-12-04T03:52:37.450537,5383,1738
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,188,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",205,3093,,False,,2025-12-04T03:52:46.158388,5396,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,189,south,"south
+
+
+Forest Path
+
+",205,3093,,False,,2025-12-04T03:53:05.498247,5418,1226
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,190,score,"score
+Your score is 5 (total of 350 points), in 145 moves.
+This gives you the rank of Beginner.
+
+",210,3238,,False,,2025-12-04T03:53:15.365035,5431,330
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,191,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",210,3238,,False,,2025-12-04T03:53:43.272455,5466,1802
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,192,south,"south
+
+
+Forest Path
+
+",210,3238,,False,,2025-12-04T03:54:05.208679,5488,1290
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,193,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",210,3238,,False,,2025-12-04T03:54:18.410554,5501,714
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,194,south,"south
+
+
+Forest Path
+
+",210,3238,,False,,2025-12-04T03:54:27.635756,5523,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,195,score,"score
+Your score is 5 (total of 350 points), in 149 moves.
+This gives you the rank of Beginner.
+
+",215,3387,,False,,2025-12-04T03:54:50.080222,5536,1418
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,196,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",215,3387,,False,,2025-12-04T03:55:04.291144,5571,906
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,197,south,"south
+
+
+Forest Path
+
+",215,3387,,False,,2025-12-04T03:55:35.700122,5593,2314
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,198,east,"east
+
+
+Forest
+This is a dimly lit forest, with large trees all around.
+
+",215,3387,,False,,2025-12-04T03:55:55.440473,5606,1290
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,199,look,"look
+
+
+Forest
+This is a dimly lit forest, with large trees all around.
+
+",215,3387,,False,,2025-12-04T03:56:00.898691,5632,202
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,200,score,"score
+Your score is 5 (total of 350 points), in 153 moves.
+This gives you the rank of Beginner.
+
+",220,3540,,False,,2025-12-04T03:56:09.212422,5658,394
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,201,north,"north
+
+
+The forest becomes impenetrable to the north.
+
+",220,3540,,False,,2025-12-04T03:56:16.883689,5693,394
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,202,south,"south
+
+
+Clearing
+You are in a small clearing in a well marked forest path that extends to the
+east and west.
+
+",220,3540,,False,,2025-12-04T03:56:28.706127,5713,650
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,203,west,"west
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",220,3540,,False,,2025-12-04T03:56:37.446882,5747,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,204,enter window,"enter window
+
+
+The kitchen window is closed.
+
+",220,3540,,False,,2025-12-04T03:56:43.139742,5795,267
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,205,score,"score
+Your score is 5 (total of 350 points), in 157 moves.
+This gives you the rank of Beginner.
+
+",225,3697,,False,,2025-12-04T03:56:48.170186,5813,203
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,206,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",225,3697,,False,,2025-12-04T03:56:52.754226,5848,203
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,207,enter window,"enter window
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",225,3697,,False,,2025-12-04T03:56:56.632602,5874,139
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,208,get all,"get all
+
+
+brown sack: Taken.
+glass bottle: Taken.
+
+",225,3697,,False,,2025-12-04T03:57:01.864238,5984,203
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,209,examine sack,"examine sack
+
+
+The brown sack is closed.
+
+",225,3697,,False,,2025-12-04T03:57:10.893826,6006,396
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,210,score,"score
+Your score is 15 (total of 350 points), in 161 moves.
+This gives you the rank of Beginner.
+
+",240,3858,,False,,2025-12-04T03:57:19.469392,6024,460
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,211,open sack,"open sack
+
+
+Opening the brown sack reveals a lunch, and a clove of garlic.
+
+",240,3858,,False,,2025-12-04T03:57:28.213632,6059,459
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,212,get all,"get all
+
+
+There's nothing here you can take.
+
+",240,3858,,False,,2025-12-04T03:57:33.771497,6086,203
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,213,get garlic,"get garlic
+
+
+Taken.
+
+",240,3858,,False,,2025-12-04T03:57:45.060456,6105,651
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,214,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",240,3858,,False,,2025-12-04T03:57:54.528466,6119,458
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,215,score,"score
+Your score is 15 (total of 350 points), in 165 moves.
+This gives you the rank of Beginner.
+
+",255,4023,,False,,2025-12-04T03:58:04.900044,6210,395
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,216,get lantern,"get lantern
+
+
+Taken.
+
+",255,4023,,False,,2025-12-04T03:58:11.006305,6245,203
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,217,get sword,"get sword
+
+
+Taken.
+
+",255,4023,,False,,2025-12-04T03:58:17.342726,6259,267
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,218,light lantern,"light lantern
+
+
+The brass lantern is now on.
+
+",255,4023,,False,,2025-12-04T03:58:26.074099,6273,395
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,219,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",255,4023,,False,,2025-12-04T03:58:32.733290,6292,331
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,220,score,"score
+Your score is 15 (total of 350 points), in 169 moves.
+This gives you the rank of Beginner.
+
+",270,4192,,False,,2025-12-04T03:58:37.792680,6332,140
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,221,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",270,4192,,False,,2025-12-04T03:58:43.308000,6367,204
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,222,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+Your sword is glowing with a faint blue glow.
+
+",270,4192,,False,,2025-12-04T03:58:47.461535,6398,138
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,223,look,"look
+
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",270,4192,,False,,2025-12-04T03:58:54.457463,6479,330
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,224,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",270,4192,,False,,2025-12-04T03:58:58.597700,6536,138
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,225,score,"score
+Your score is 40 (total of 350 points), in 173 moves.
+This gives you the rank of Amateur Adventurer.
+
+",310,4365,,False,,2025-12-04T03:59:03.143289,6618,141
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,226,attack troll with sword,"attack troll with sword
+
+
+A quick stroke, but the troll is on guard.
+The axe gets you right in the side. Ouch!
+
+",310,4365,,False,,2025-12-04T03:59:07.034401,6655,77
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,227,attack troll with sword,"attack troll with sword
+
+
+The force of your blow knocks the troll back, stunned.
+The troll slowly regains his feet.
+
+",310,4365,,False,,2025-12-04T03:59:13.520195,6694,269
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,228,attack troll with sword,"attack troll with sword
+
+
+You charge, but the troll jumps nimbly aside.
+The axe crashes against the rock, throwing sparks!
+
+",310,4365,,False,,2025-12-04T03:59:19.761887,6730,269
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,229,attack troll with sword,"attack troll with sword
+
+
+Your sword crashes down, knocking the troll into dreamland.
+
+",310,4365,,False,,2025-12-04T03:59:24.529392,6768,205
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,230,score,"score
+Your score is 40 (total of 350 points), in 177 moves.
+This gives you the rank of Amateur Adventurer.
+
+",350,4542,,False,,2025-12-04T03:59:32.668309,6796,459
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,231,get axe,"get axe
+
+
+Your load is too heavy, especially in light of your condition.
+The troll stirs, quickly resuming a fighting stance.
+
+",350,4542,,False,,2025-12-04T03:59:42.940974,6833,651
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,232,attack troll with sword,"attack troll with sword
+
+
+Clang! Crash! The troll parries.
+The axe sweeps past as you jump aside.
+
+",350,4542,,False,,2025-12-04T03:59:50.799374,6870,461
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,233,attack troll with sword,"attack troll with sword
+
+
+The troll is confused and can't fight back.
+The troll slowly regains his feet.
+
+",350,4542,,False,,2025-12-04T04:00:00.409307,6906,589
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,234,attack troll with sword,"attack troll with sword
+
+
+The troll is battered into unconsciousness.
+
+",350,4542,,False,,2025-12-04T04:00:12.881169,6939,781
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,235,score,"score
+Your score is 40 (total of 350 points), in 181 moves.
+This gives you the rank of Amateur Adventurer.
+
+",390,4723,,False,,2025-12-04T04:00:21.106759,6963,523
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,236,drop leaflet,"drop leaflet
+
+
+Dropped.
+
+",390,4723,,False,,2025-12-04T04:00:30.602311,7000,587
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,237,get axe,"get axe
+
+
+Your load is too heavy, especially in light of your condition.
+
+",390,4723,,False,,2025-12-04T04:00:37.739547,7014,395
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,238,drop canary,"drop canary
+
+
+Dropped.
+The troll stirs, quickly resuming a fighting stance.
+
+",390,4723,,False,,2025-12-04T04:00:49.736067,7039,780
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,239,attack troll with sword,"attack troll with sword
+
+
+The fatal blow strikes the troll square in the heart:  He dies.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+",390,4723,,False,,2025-12-04T04:00:55.506661,7067,205
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,240,score,"score
+Your score is 40 (total of 350 points), in 185 moves.
+This gives you the rank of Amateur Adventurer.
+
+",430,4908,,False,,2025-12-04T04:01:05.969453,7140,587
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,241,drop sack,"drop sack
+
+
+Dropped.
+
+",430,4908,,False,,2025-12-04T04:01:22.344358,7177,1099
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,242,get axe,"get axe
+
+
+Your load is too heavy, especially in light of your condition.
+
+",430,4908,,False,,2025-12-04T04:01:32.243424,7191,587
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,243,drop glass bottle,"drop glass bottle
+
+
+Dropped.
+
+",430,4908,,False,,2025-12-04T04:01:51.313301,7216,1228
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,244,drop egg,"drop egg
+
+
+Dropped.
+
+",430,4908,,False,,2025-12-04T04:02:09.845575,7232,1163
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,245,score,"score
+Your score is 40 (total of 350 points), in 189 moves.
+This gives you the rank of Amateur Adventurer.
+
+",470,5097,,False,,2025-12-04T04:02:21.614407,7246,587
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,246,drop sword,"drop sword
+
+
+Dropped.
+
+",470,5097,,False,,2025-12-04T04:02:31.207344,7283,523
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,247,get axe,"get axe
+
+
+Taken.
+
+",470,5097,,False,,2025-12-04T04:02:43.692262,7297,651
+93dc8011-0196-4059-9fdc-1a8cb44f74aa,872149c5-916d-4efd-9c82-f333beb772c1,0,gpt-5-mini,248,east,"east
+
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+",470,5097,,False,,2025-12-04T04:02:53.217341,7311,586
