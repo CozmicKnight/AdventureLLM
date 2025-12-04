@@ -1,0 +1,869 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:34:15.003803,659,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",,,,False,,2025-12-04T00:34:17.088885,695,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:34:19.078576,715,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,3,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",,,,False,,2025-12-04T00:34:21.005467,729,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,4,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:34:22.938859,789,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,5,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",,,,False,,2025-12-04T00:34:25.084126,808,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,6,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T00:34:27.223540,804,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,7,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",,,,False,,2025-12-04T00:34:29.253033,835,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,8,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",,,,False,,2025-12-04T00:34:31.189209,869,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,9,in window,"in window
+There was no verb in that sentence!
+
+",,,,False,,2025-12-04T00:34:33.314150,835,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,10,in house,"in house
+There was no verb in that sentence!
+
+",,,,False,,2025-12-04T00:34:35.260566,836,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,11,enter window,"enter window
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",,,,False,,2025-12-04T00:34:37.204417,819,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,12,get all,"get all
+
+
+brown sack: Taken.
+glass bottle: Taken.
+
+",,,,False,,2025-12-04T00:34:39.131508,878,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,13,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",,,,False,,2025-12-04T00:34:41.124454,852,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,14,get lantern,"get lantern
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:34:43.121724,917,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,15,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:34:45.402099,911,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,16,open door,"open door
+
+
+The door cannot be opened.
+
+",,,,False,,2025-12-04T00:34:47.465147,910,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,17,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:34:49.378534,818,4
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,18,take sword,"take sword
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:34:51.266371,816,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,19,inventory,"inventory
+
+
+You are carrying:
+  A sword
+  A brass lantern
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  A leaflet
+
+",,,,False,,2025-12-04T00:34:53.344365,739,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,20,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:34:55.491558,774,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,21,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:34:57.517127,774,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,22,west,"west
+
+
+The door is nailed shut.
+
+",,,,False,,2025-12-04T00:34:59.735147,821,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,23,examine door,"examine door
+
+
+The engravings translate to ""This space intentionally left blank.""
+
+",,,,False,,2025-12-04T00:35:01.682884,817,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,24,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",,,,False,,2025-12-04T00:35:03.678405,827,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,25,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",,,,False,,2025-12-04T00:35:05.595118,818,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,26,down,"down
+
+
+You have moved into a dark place.
+The trap door crashes shut, and you hear someone barring it.
+
+It is pitch black. You are likely to be eaten by a grue.
+Your sword is glowing with a faint blue glow.
+
+",,,,False,,2025-12-04T00:35:07.500016,830,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,27,light sword,"light sword
+
+
+You can't turn that on.
+
+",,,,False,,2025-12-04T00:35:09.903382,823,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,28,inventory,"inventory
+
+
+You are carrying:
+  A sword
+  A brass lantern
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  A leaflet
+
+",,,,False,,2025-12-04T00:35:12.008143,825,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,29,light lantern,"light lantern
+
+
+The brass lantern is now on.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",,,,False,,2025-12-04T00:35:14.035484,850,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,30,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",,,,False,,2025-12-04T00:35:15.971345,876,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,31,attack troll,"attack troll
+
+
+(with the sword)
+It's curtains for the troll as your sword removes his head.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+",,,,False,,2025-12-04T00:35:18.166769,927,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,32,east,"east
+
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+",,,,False,,2025-12-04T00:35:20.245788,939,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,33,down,"down
+
+
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the
+south side of the chasm, where a crack opens into a passage.
+
+",,,,False,,2025-12-04T00:35:22.384877,961,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,34,look,"look
+
+
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the
+south side of the chasm, where a crack opens into a passage.
+
+",,,,False,,2025-12-04T00:35:24.334537,958,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,35,west,"west
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:35:26.219341,938,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,36,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:35:28.293483,872,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,37,east,"east
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:35:30.270465,818,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,38,up,"up
+
+
+East-West Passage
+
+",,,,False,,2025-12-04T00:35:32.358769,794,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,39,look,"look
+
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+",,,,False,,2025-12-04T00:35:34.407307,762,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,40,down,"down
+
+
+Chasm
+
+",,,,False,,2025-12-04T00:35:36.557264,756,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,41,look,"look
+
+
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the
+south side of the chasm, where a crack opens into a passage.
+
+",,,,False,,2025-12-04T00:35:38.803248,753,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,42,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:35:41.181530,783,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,43,east,"east
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:35:43.125669,783,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,44,west,"west
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:35:45.116970,785,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,45,south,"south
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",,,,False,,2025-12-04T00:35:47.203673,761,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,46,northeast,"northeast
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",,,,False,,2025-12-04T00:35:49.271502,778,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,47,down,"down
+
+
+Loud Room
+This is a large room with a ceiling which cannot be detected from the ground.
+There is a narrow passage from east to west and a stone stairway leading upward.
+The room is deafeningly loud with an undetermined rushing sound. The sound seems
+to reverberate from all of the walls, making it difficult even to think.
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:35:51.209093,788,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,48,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:35:53.255504,863,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,49,take platinum bar,"take platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:35:55.457360,864,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,50,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:35:57.579436,865,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,51,west,"west
+
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+",,,,False,,2025-12-04T00:35:59.500392,848,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,52,north,"north
+
+
+North-South Passage
+
+",,,,False,,2025-12-04T00:36:01.496151,829,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,53,look,"look
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",,,,False,,2025-12-04T00:36:03.520318,753,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,54,northeast,"northeast
+
+
+Deep Canyon
+
+",,,,False,,2025-12-04T00:36:05.468266,766,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,55,look,"look
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",,,,False,,2025-12-04T00:36:07.495905,762,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,56,down,"down
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:36:09.378361,805,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,57,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:36:11.451292,791,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,58,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:36:13.467775,793,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,59,west,"west
+
+
+Round Room
+
+",,,,False,,2025-12-04T00:36:15.680699,776,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,60,look,"look
+
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+",,,,False,,2025-12-04T00:36:17.634026,776,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,61,north,"north
+
+
+North-South Passage
+
+",,,,False,,2025-12-04T00:36:19.826827,757,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,62,look,"look
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",,,,False,,2025-12-04T00:36:21.872779,749,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,63,northeast,"northeast
+
+
+Deep Canyon
+
+",,,,False,,2025-12-04T00:36:23.831823,762,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,64,look,"look
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",,,,False,,2025-12-04T00:36:25.762746,762,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,65,down,"down
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:36:27.637186,805,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,66,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:36:29.587178,791,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,67,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:36:31.535480,793,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,68,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:36:33.705210,776,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,69,northwest,"northwest
+northwest northwest ...
+
+",,,,False,,2025-12-04T00:36:35.753003,776,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,70,examine platinum bar,"examine platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:36:37.848170,734,4
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,71,south,"south
+south south ...
+
+",,,,False,,2025-12-04T00:36:39.904839,728,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,72,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:36:41.941970,724,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,73,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:36:43.840338,724,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,74,west,"west
+
+
+Round Room
+
+",,,,False,,2025-12-04T00:36:45.853134,724,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,75,look,"look
+
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+",,,,False,,2025-12-04T00:36:47.754544,723,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,76,north,"north
+
+
+North-South Passage
+
+",,,,False,,2025-12-04T00:36:49.635399,743,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,77,look,"look
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",,,,False,,2025-12-04T00:36:51.701741,745,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,78,northeast,"northeast
+
+
+Deep Canyon
+
+",,,,False,,2025-12-04T00:36:53.677012,762,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,79,look,"look
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",,,,False,,2025-12-04T00:36:55.699845,762,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,80,down,"down
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:36:57.655177,805,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,81,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:36:59.589131,791,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,82,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:37:01.465211,793,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,83,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:37:03.438493,776,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,84,northwest,"northwest
+northwest northwest ...
+
+",,,,False,,2025-12-04T00:37:05.369284,776,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,85,east,"east
+
+
+Damp Cave
+This cave has exits to the west and east, and narrows to a crack toward the
+south. The earth is particularly damp here.
+
+",,,,False,,2025-12-04T00:37:07.351243,734,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,86,south,"south
+
+
+It is too narrow for most insects.
+
+",,,,False,,2025-12-04T00:37:09.272499,753,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,87,west,"west
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:37:12.651664,754,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,88,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:37:14.802525,764,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,89,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:37:16.770062,768,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,90,get all,"get all
+all all ...
+
+",,,,False,,2025-12-04T00:37:18.696107,767,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,91,east,"east
+
+
+Damp Cave
+
+",,,,False,,2025-12-04T00:37:20.578722,740,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,92,look,"look
+
+
+Damp Cave
+This cave has exits to the west and east, and narrows to a crack toward the
+south. The earth is particularly damp here.
+
+",,,,False,,2025-12-04T00:37:22.469034,736,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,93,south,"south
+
+
+It is too narrow for most insects.
+
+",,,,False,,2025-12-04T00:37:24.379035,755,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,94,west,"west
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:37:26.409490,756,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,95,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:37:28.699460,766,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,96,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:37:30.808866,768,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,97,east,"east
+
+
+Damp Cave
+
+",,,,False,,2025-12-04T00:37:32.748236,767,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,98,look,"look
+
+
+Damp Cave
+This cave has exits to the west and east, and narrows to a crack toward the
+south. The earth is particularly damp here.
+A ""lean and hungry"" gentleman just wandered through, carrying a large bag.
+Finding nothing of value, he left disgruntled.
+
+",,,,False,,2025-12-04T00:37:34.783035,739,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,99,south,"south
+
+
+It is too narrow for most insects.
+
+",,,,False,,2025-12-04T00:37:36.677629,790,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,100,west,"west
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:37:38.559137,785,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,101,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:37:40.565850,791,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,102,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:37:42.587425,795,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,103,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:37:44.574801,798,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,104,east,"east
+
+
+Damp Cave
+
+",,,,False,,2025-12-04T00:37:46.806682,742,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,105,look,"look
+
+
+Damp Cave
+This cave has exits to the west and east, and narrows to a crack toward the
+south. The earth is particularly damp here.
+
+",,,,False,,2025-12-04T00:37:48.823390,738,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,106,south,"south
+
+
+It is too narrow for most insects.
+
+",,,,False,,2025-12-04T00:37:50.896583,757,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,107,west,"west
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:37:52.785147,758,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,108,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:37:54.855647,764,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,109,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:37:56.795166,768,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,110,east,"east
+
+
+Damp Cave
+
+",,,,False,,2025-12-04T00:37:58.800656,767,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,111,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:38:00.751032,739,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,112,look,"look
+
+
+Damp Cave
+This cave has exits to the west and east, and narrows to a crack toward the
+south. The earth is particularly damp here.
+
+",,,,False,,2025-12-04T00:38:02.739967,737,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,113,east,"east
+
+
+White Cliffs Beach
+You are on a narrow strip of beach which runs along the base of the White
+Cliffs. There is a narrow path heading south along the Cliffs and a tight
+passage leading west into the cliffs themselves.
+
+",,,,False,,2025-12-04T00:38:04.651300,756,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,114,west,"west
+
+
+Damp Cave
+
+",,,,False,,2025-12-04T00:38:06.540813,798,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,115,south,"south
+
+
+It is too narrow for most insects.
+
+",,,,False,,2025-12-04T00:38:08.493101,799,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,116,west,"west
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",,,,False,,2025-12-04T00:38:10.424451,803,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,117,get platinum bar,"get platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:38:12.388022,810,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,118,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:38:14.325793,785,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,119,examine platinum bar,"examine platinum bar
+bar bar ...
+
+",,,,False,,2025-12-04T00:38:16.276618,739,4
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,120,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:18.139669,742,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,121,north,"north
+north north ...
+
+",,,,False,,2025-12-04T00:38:20.130178,737,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,122,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:22.045388,727,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,123,examine window,"examine window
+window window ...
+
+",,,,False,,2025-12-04T00:38:24.020165,723,3
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,124,open window,"open window
+window window ...
+
+",,,,False,,2025-12-04T00:38:25.939083,725,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,125,enter window,"enter window
+window window ...
+
+",,,,False,,2025-12-04T00:38:27.901991,723,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,126,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:29.970544,725,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,127,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:31.918226,725,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,128,inventory,"inventory
+inventory inventory ...
+
+",,,,False,,2025-12-04T00:38:33.878458,725,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,129,score,"score
+score score ...
+
+",,,,False,,2025-12-04T00:38:35.956949,723,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,130,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:37.833950,721,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,131,open window,"open window
+window window ...
+
+",,,,False,,2025-12-04T00:38:39.777330,719,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,132,enter window,"enter window
+window window ...
+
+",,,,False,,2025-12-04T00:38:41.680068,721,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,133,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:43.593188,723,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,134,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:45.494078,723,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,135,inventory,"inventory
+inventory inventory ...
+
+",,,,False,,2025-12-04T00:38:47.546949,723,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,136,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:49.523180,723,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,137,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:51.553445,721,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,138,open window,"open window
+window window ...
+
+",,,,False,,2025-12-04T00:38:53.504461,719,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,139,enter window,"enter window
+window window ...
+
+",,,,False,,2025-12-04T00:38:55.437987,721,2
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,140,look,"look
+look look ...
+
+",,,,False,,2025-12-04T00:38:57.365985,723,1
+fa79f86f-37f5-4969-a77c-6362c3068595,c0432e6f-1e1e-4d18-b88d-6d1f4d2a6bae,0,gpt-4.1-mini,141,open window,"open window
+window window ...
+
+",,,,False,,2025-12-04T00:38:59.291177,723,2

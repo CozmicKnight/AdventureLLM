@@ -1,0 +1,21 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,0,look around,,,,,False,,2025-12-03T19:34:20.079204,81,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,1,open mailbox,,,,,False,,2025-12-03T19:34:21.028077,86,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,2,take leaflet,,,,,False,,2025-12-03T19:34:21.995027,95,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,3,read leaflet,,,,,False,,2025-12-03T19:34:22.907788,104,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,4,go north,,,,,False,,2025-12-03T19:34:23.813817,113,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,5,go east,,,,,False,,2025-12-03T19:34:24.852246,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,6,go west,,,,,False,,2025-12-03T19:34:25.867051,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,7,open mailbox,,,,,False,,2025-12-03T19:34:26.839520,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,8,take leaflet,,,,,False,,2025-12-03T19:34:27.864474,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,9,read leaflet,,,,,False,,2025-12-03T19:34:28.826612,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,10,go north,,,,,False,,2025-12-03T19:34:29.690337,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,11,look around,,,,,False,,2025-12-03T19:34:30.696261,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,12,go west,,,,,False,,2025-12-03T19:34:32.004157,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,13,open mailbox,,,,,False,,2025-12-03T19:34:33.103000,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,14,take leaflet,,,,,False,,2025-12-03T19:34:34.077214,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,15,read leaflet,,,,,False,,2025-12-03T19:34:35.464152,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,16,go north,,,,,False,,2025-12-03T19:34:36.959774,122,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,17,inventory,,,,,False,,2025-12-03T19:34:37.978599,122,1
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,18,go west,,,,,False,,2025-12-03T19:34:38.910328,121,2
+62b545b5-85bf-4596-934c-ec8cda1ca557,0e90a1a8-9c41-45cd-a7e8-ffeb57d4680f,0,gpt-4.1-mini,19,open mailbox,,,,,False,,2025-12-03T19:34:39.917533,121,2

@@ -1,0 +1,346 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:28:06.103869,659,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",,,,False,,2025-12-04T00:28:08.152797,695,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:28:10.083000,715,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:28:12.099813,729,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,4,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",,,,False,,2025-12-04T00:28:14.253094,748,3
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,5,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T00:28:16.249255,785,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,6,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:28:18.161967,795,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,7,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-04T00:28:20.140525,796,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,8,get leaflet,"get leaflet
+
+
+You already have that!
+
+",,,,False,,2025-12-04T00:28:22.168773,799,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,9,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",,,,False,,2025-12-04T00:28:24.064967,797,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,10,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",,,,False,,2025-12-04T00:28:26.025362,820,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,11,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:28:28.895881,790,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,12,north,"north
+
+
+North of House
+
+",,,,False,,2025-12-04T00:28:31.101381,810,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,13,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T00:28:33.162200,807,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,14,south,"south
+
+
+The windows are all boarded.
+
+",,,,False,,2025-12-04T00:28:35.217876,841,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,15,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",,,,False,,2025-12-04T00:28:37.109598,797,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,16,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",,,,False,,2025-12-04T00:28:39.075277,795,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,17,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:28:41.096839,773,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,18,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-04T00:28:43.062347,780,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,19,get all,"get all
+
+
+small mailbox: It is securely anchored.
+
+",,,,False,,2025-12-04T00:28:45.226264,746,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,20,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:28:47.171464,750,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,21,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:28:49.327775,772,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,22,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",,,,False,,2025-12-04T00:28:51.317362,772,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,23,north,"north
+
+
+North of House
+
+",,,,False,,2025-12-04T00:28:53.513759,772,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,24,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T00:28:55.408397,769,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,25,south,"south
+
+
+The windows are all boarded.
+
+",,,,False,,2025-12-04T00:28:57.371526,800,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,26,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:28:59.569182,775,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,27,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-04T00:29:01.466911,777,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,28,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:29:03.374412,773,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,29,get all,"get all
+
+
+small mailbox: It is securely anchored.
+
+",,,,False,,2025-12-04T00:29:05.285401,800,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,30,north,"north
+
+
+North of House
+
+",,,,False,,2025-12-04T00:29:07.403436,769,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,31,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T00:29:09.285480,767,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,32,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",,,,False,,2025-12-04T00:29:11.234496,797,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,33,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",,,,False,,2025-12-04T00:29:13.200863,828,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,34,in,"in
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",,,,False,,2025-12-04T00:29:15.347964,813,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,35,take sack,"take sack
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:29:17.387955,901,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,36,take bottle,"take bottle
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:29:19.782349,901,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,37,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T00:29:21.714419,864,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,38,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:29:23.643337,850,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,39,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",,,,False,,2025-12-04T00:29:25.552290,836,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,40,get lantern,"get lantern
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:29:27.707248,819,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,41,turn on lantern,"turn on lantern
+
+
+The brass lantern is now on.
+
+",,,,False,,2025-12-04T00:29:29.666430,819,3
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,42,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:29:31.643766,826,3
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,43,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:29:33.612082,811,4
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,44,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:29:35.808824,819,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,45,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:29:37.701451,740,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,46,up,"up
+
+
+Attic
+This is the attic. The only exit is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+
+",,,,False,,2025-12-04T00:29:39.586443,801,1
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,47,get rope,"get rope
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:29:41.526044,828,2
+a299d367-4ded-4b1e-bf5f-b907114b2e5c,49571004-366d-4239-b469-b3bca815f8e7,0,gpt-4.1-mini,48,get knife,"get knife
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:29:43.906472,823,2

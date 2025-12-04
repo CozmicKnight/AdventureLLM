@@ -1,0 +1,123 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,0,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-03T23:59:48.292913,631,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,1,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-03T23:59:50.644116,645,1
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,2,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",,,,False,,2025-12-03T23:59:52.627282,686,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,3,get leaflet,"get leaflet
+
+
+Taken.
+
+",,,,False,,2025-12-03T23:59:54.573298,706,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,4,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-03T23:59:56.588008,720,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,5,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",,,,False,,2025-12-03T23:59:58.931801,739,3
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,6,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T00:00:00.959421,757,1
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,7,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:00:02.907745,767,1
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,8,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-04T00:00:04.874121,768,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,9,get leaflet,"get leaflet
+
+
+You already have that!
+
+",,,,False,,2025-12-04T00:00:09.019500,771,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,10,examine mailbox,"examine mailbox
+
+
+The small mailbox is empty.
+
+",,,,False,,2025-12-04T00:00:11.028817,769,3
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,11,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",,,,False,,2025-12-04T00:00:13.010561,750,1
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,12,north,"north
+
+
+North of House
+
+",,,,False,,2025-12-04T00:00:14.961066,720,1
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,13,open window,"open window
+
+
+The windows are boarded and can't be opened.
+
+",,,,False,,2025-12-04T00:00:17.317243,713,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,14,south,"south
+
+
+The windows are all boarded.
+
+",,,,False,,2025-12-04T00:00:20.265462,717,1
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,15,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:00:22.347426,716,1
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,16,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-04T00:00:24.475116,719,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,17,take leaflet,"take leaflet
+
+
+You already have that!
+
+",,,,False,,2025-12-04T00:00:26.552114,715,2
+bab1cb72-8415-4d47-a1d6-0ad7e70857dc,17e5e77d-d209-42ea-a90d-a49020390366,0,gpt-4.1-mini,18,north,"north
+
+
+North of House
+
+",,,,False,,2025-12-04T00:00:28.999496,718,1

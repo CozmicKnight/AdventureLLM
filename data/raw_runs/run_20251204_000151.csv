@@ -1,0 +1,948 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,0,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:02:00.264139,632,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,1,west,"west
+
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",,,,False,,2025-12-04T00:02:02.315617,646,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,2,east,"east
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T00:02:04.295374,681,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,3,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",,,,False,,2025-12-04T00:02:06.294820,732,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,4,north,"north
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+On the ground is a pile of leaves.
+
+",,,,False,,2025-12-04T00:02:08.521502,751,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,5,get all,"get all
+
+
+pile of leaves: In disturbing the pile of leaves, a grating is revealed.
+Taken.
+
+",,,,False,,2025-12-04T00:02:10.985724,794,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,6,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:02:13.032587,806,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,7,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:02:15.183139,791,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,8,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:02:17.139782,760,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,9,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:02:19.011889,754,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,10,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:02:21.065529,723,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,11,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:02:23.355322,705,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,12,examine window,"examine window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:02:25.704329,697,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,13,east,"east
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:02:27.791536,696,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,14,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:02:29.744782,696,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,15,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:02:31.767823,697,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,16,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:02:33.867701,730,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,17,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:02:35.999353,738,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,18,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:02:37.960580,739,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,19,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:02:40.145633,739,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,20,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:02:42.587259,738,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,21,examine window,"examine window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:02:44.578305,705,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,22,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:02:47.261843,704,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,23,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:02:49.319436,730,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,24,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:02:51.358898,737,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,25,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:02:53.333550,745,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,26,look,"look
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T00:02:55.227046,745,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,27,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:02:57.313063,777,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,28,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:02:59.341260,763,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,29,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:03:01.485217,756,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,30,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:03:03.440824,782,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,31,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:03:05.658079,789,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,32,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:03:07.674620,758,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,33,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:03:09.580971,739,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,34,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:03:11.617573,738,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,35,examine window,"examine window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:03:14.000856,705,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,36,east,"east
+
+
+Forest
+This is a dimly lit forest, with large trees all around.
+
+",,,,False,,2025-12-04T00:03:15.903655,704,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,37,north,"north
+
+
+The forest becomes impenetrable to the north.
+
+",,,,False,,2025-12-04T00:03:17.874090,710,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,38,south,"south
+
+
+Clearing
+You are in a small clearing in a well marked forest path that extends to the
+east and west.
+
+",,,,False,,2025-12-04T00:03:19.807015,717,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,39,west,"west
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",,,,False,,2025-12-04T00:03:21.755726,739,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,40,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",,,,False,,2025-12-04T00:03:23.729354,774,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,41,enter window,"enter window
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",,,,False,,2025-12-04T00:03:25.660645,781,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,42,take sack,"take sack
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:03:27.673125,865,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,43,take bottle,"take bottle
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:03:29.675555,859,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,44,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T00:03:31.575593,839,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,45,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:03:33.551330,825,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,46,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",,,,False,,2025-12-04T00:03:35.555792,811,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,47,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:03:37.430813,792,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,48,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:03:39.317862,797,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,49,examine sword,"examine sword
+
+
+There's nothing special about the sword.
+
+",,,,False,,2025-12-04T00:03:41.289137,803,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,50,get lantern,"get lantern
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:03:43.662072,788,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,51,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:03:45.689401,790,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,52,open window,"open window
+
+
+Too late for that.
+
+",,,,False,,2025-12-04T00:03:47.726974,711,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,53,west,"west
+
+
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+
+",,,,False,,2025-12-04T00:03:49.645781,709,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,54,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:03:52.078200,717,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,55,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:03:54.561788,717,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,56,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:03:57.007868,723,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,57,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:03:59.018343,727,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,58,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:04:00.974241,722,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,59,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T00:04:02.900355,769,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,60,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:04:05.284072,784,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,61,west,"west
+
+
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+
+",,,,False,,2025-12-04T00:04:07.370162,776,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,62,examine sword,"examine sword
+
+
+There's nothing special about the sword.
+
+",,,,False,,2025-12-04T00:04:09.294826,788,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,63,get sword,"get sword
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:04:11.340957,795,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,64,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:04:13.232427,734,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,65,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:04:15.297044,716,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,66,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:04:17.557662,716,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,67,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T00:04:19.530893,763,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,68,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:04:21.426548,778,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,69,west,"west
+
+
+Living Room
+
+",,,,False,,2025-12-04T00:04:23.748623,776,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,70,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:04:25.671904,773,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,71,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:04:27.586627,826,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,72,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:04:29.531879,770,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,73,open door,"open door
+
+
+The door cannot be opened.
+
+",,,,False,,2025-12-04T00:04:31.562739,756,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,74,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:04:33.623832,762,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,75,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:04:35.549578,761,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,76,climb up,"climb up
+What do you want to climb up?
+
+",,,,False,,2025-12-04T00:04:37.566238,771,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,77,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T00:04:39.500336,772,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,78,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:04:41.765895,786,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,79,west,"west
+
+
+Living Room
+
+",,,,False,,2025-12-04T00:04:43.692192,780,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,80,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:04:45.611121,781,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,81,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:04:47.619779,771,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,82,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:04:49.571155,770,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,83,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:04:51.568455,756,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,84,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:04:53.419055,763,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,85,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:04:55.306158,762,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,86,east,"east
+
+
+Behind House
+
+",,,,False,,2025-12-04T00:04:57.253242,772,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,87,climb staircase,"climb staircase
+
+
+You can't see any staircase here!
+
+",,,,False,,2025-12-04T00:04:59.302356,766,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,88,up,"up
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:05:01.349427,765,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,89,west,"west
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:05:03.290317,762,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,90,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T00:05:05.386975,762,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,91,west,"west
+
+
+Oh, no! You have walked into the slavering fangs of a lurking grue!
+
+   ****  You have died  ****
+
+Now, let's take a look here... Well, you probably deserve another chance. I
+can't quite fix you up completely, but you can't have everything.
+
+Forest
+
+",,,,False,,2025-12-04T00:05:07.861129,721,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,92,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:05:09.779466,780,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,93,east,"east
+
+
+Forest
+
+",,,,False,,2025-12-04T00:05:11.989529,774,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,94,north,"north
+
+
+The forest becomes impenetrable to the north.
+
+",,,,False,,2025-12-04T00:05:14.016712,770,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,95,west,"west
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:05:15.943878,778,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,96,look,"look
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:05:17.917117,770,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,97,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",,,,False,,2025-12-04T00:05:20.375982,762,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,98,south,"south
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+
+",,,,False,,2025-12-04T00:05:22.326288,768,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,99,get bottle,"get bottle
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:05:24.469969,825,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,100,north,"north
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:05:26.517495,819,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,101,south,"south
+
+
+North of House
+
+",,,,False,,2025-12-04T00:05:28.441501,806,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,102,examine window,"examine window
+
+
+There's nothing special about the boarded window.
+
+",,,,False,,2025-12-04T00:05:30.902272,756,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,103,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",,,,False,,2025-12-04T00:05:32.836847,757,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,104,open window,"open window
+
+
+The windows are boarded and can't be opened.
+
+",,,,False,,2025-12-04T00:05:36.366606,725,2
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,105,examine door,"examine door
+
+
+You can't see any door here!
+
+",,,,False,,2025-12-04T00:05:38.389381,732,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,106,north,"north
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:05:40.453551,738,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,107,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:05:42.513902,737,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,108,east,"east
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:05:44.388781,729,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,109,south,"south
+
+
+North of House
+
+",,,,False,,2025-12-04T00:05:46.532649,718,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,110,examine window,"examine window
+
+
+There's nothing special about the boarded window.
+
+",,,,False,,2025-12-04T00:05:48.635535,711,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,111,examine door,"examine door
+
+
+You can't see any door here!
+
+",,,,False,,2025-12-04T00:05:50.676665,712,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,112,look,"look
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T00:05:52.674478,718,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,113,south,"south
+
+
+The windows are all boarded.
+
+",,,,False,,2025-12-04T00:05:54.632218,757,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,114,north,"north
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:05:57.023176,747,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,115,east,"east
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:05:59.124584,759,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,116,west,"west
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:06:01.275011,764,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,117,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:06:03.148805,758,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,118,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:06:05.052531,720,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,119,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:06:07.324593,750,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,120,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:06:09.798482,744,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,121,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:06:11.773974,739,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,122,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:06:13.744079,752,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,123,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:06:15.626271,751,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,124,examine window,"examine window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:06:17.764109,718,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,125,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:06:19.741597,717,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,126,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:06:21.808687,743,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,127,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:06:23.924585,737,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,128,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:06:25.891769,745,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,129,look,"look
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T00:06:27.932890,745,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,130,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",,,,False,,2025-12-04T00:06:29.928756,777,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,131,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:06:32.061742,750,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,132,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:06:33.992608,743,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,133,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:06:35.991339,769,4
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,134,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:06:37.966731,776,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,135,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:06:40.248036,745,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,136,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:06:42.181400,752,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,137,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:06:44.128974,751,1
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,138,examine window,"examine window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:06:46.051536,718,3
+e8342d6b-e57d-43ba-8d47-4d3de76cfe62,71b90508-0675-4416-bf7b-ac3e14083cdb,0,gpt-4.1-mini,139,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:06:48.038845,717,1

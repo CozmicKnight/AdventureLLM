@@ -1,0 +1,357 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,0,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:17:41.686778,644,2
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,1,enter window,"enter window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:17:43.661883,658,2
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,2,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:17:46.110206,677,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,3,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",,,,False,,2025-12-04T00:17:48.090888,718,2
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,4,get leaflet,"get leaflet
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:17:50.117299,738,2
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,5,open door,"open door
+
+
+The door cannot be opened.
+
+",,,,False,,2025-12-04T00:17:52.124603,752,2
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,6,examine door,"examine door
+
+
+The door is closed.
+
+",,,,False,,2025-12-04T00:17:54.386872,751,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,7,examine window,"examine window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:17:57.019861,749,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,8,west,"west
+
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",,,,False,,2025-12-04T00:17:59.050118,727,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,9,north,"north
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+On the ground is a pile of leaves.
+
+",,,,False,,2025-12-04T00:18:00.897161,742,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,10,get all,"get all
+
+
+pile of leaves: In disturbing the pile of leaves, a grating is revealed.
+Taken.
+
+",,,,False,,2025-12-04T00:18:02.842511,771,2
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,11,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:18:04.827439,784,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,12,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:18:06.931564,787,4
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,13,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:18:09.115552,788,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,14,south,"south
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T00:18:11.019413,799,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,15,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",,,,False,,2025-12-04T00:18:13.088715,807,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,16,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:18:15.071996,795,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,17,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:18:17.072786,788,2
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,18,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:18:19.115365,787,4
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,19,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:18:21.253494,761,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,20,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:18:23.226371,730,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,21,west,"west
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:18:25.263388,737,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,22,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:18:27.355425,749,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,23,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:18:29.341366,743,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,24,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:18:31.367194,769,4
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,25,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:18:33.410694,769,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,26,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:18:35.439526,763,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,27,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:18:37.461077,751,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,28,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:18:39.583487,750,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,29,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:18:41.494130,717,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,30,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:18:43.804706,743,4
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,31,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:18:46.103243,743,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,32,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:18:48.155346,750,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,33,look,"look
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T00:18:50.357304,751,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,34,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",,,,False,,2025-12-04T00:18:52.323592,789,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,35,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:18:54.259143,762,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,36,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:18:56.433662,755,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,37,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:18:58.506052,781,4
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,38,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:19:00.599231,788,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,39,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:19:02.522695,757,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,40,look,"look
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T00:19:04.517309,751,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,41,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",,,,False,,2025-12-04T00:19:06.725700,789,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,42,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:19:08.634250,762,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,43,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:19:10.587698,755,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,44,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:19:12.508736,781,4
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,45,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:19:14.509218,788,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,46,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:19:16.511301,757,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,47,west,"west
+
+
+Forest
+
+",,,,False,,2025-12-04T00:19:18.470131,751,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,48,north,"north
+
+
+Clearing
+
+",,,,False,,2025-12-04T00:19:20.375380,750,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,49,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",,,,False,,2025-12-04T00:19:22.521755,717,1
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,50,examine grating,"examine grating
+
+
+The grating is closed.
+
+",,,,False,,2025-12-04T00:19:24.555631,743,4
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,51,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:19:26.529819,743,3
+2484801c-7e75-401d-82f9-2df8b545c375,f4aff729-98f8-41a4-a9ac-85850808f1f6,0,gpt-4.1-mini,52,south,"south
+
+
+Forest Path
+
+",,,,False,,2025-12-04T00:19:28.588617,750,1

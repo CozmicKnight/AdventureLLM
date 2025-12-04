@@ -1,0 +1,949 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:07:34.392214,632,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",,,,False,,2025-12-04T00:07:36.294475,668,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:07:38.207404,688,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:07:40.176824,702,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,4,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",,,,False,,2025-12-04T00:07:42.075177,721,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,5,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",,,,False,,2025-12-04T00:07:43.953888,742,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,6,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:07:45.882789,752,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,7,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-04T00:07:47.885774,753,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,8,get leaflet,"get leaflet
+
+
+You already have that!
+
+",,,,False,,2025-12-04T00:07:49.866853,756,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,9,south,"south
+
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+",,,,False,,2025-12-04T00:07:51.946854,754,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,10,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",,,,False,,2025-12-04T00:07:53.973271,772,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,11,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",,,,False,,2025-12-04T00:07:55.985187,769,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,12,enter window,"enter window
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",,,,False,,2025-12-04T00:07:58.009049,774,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,13,get sack,"get sack
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:07:59.935967,867,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,14,get bottle,"get bottle
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:08:01.885143,864,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,15,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T00:08:03.851260,839,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,16,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:08:06.058307,825,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,17,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",,,,False,,2025-12-04T00:08:08.217705,811,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,18,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:08:10.206862,792,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,19,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:08:12.322489,797,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,20,examine oriental rug,"examine oriental rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:08:14.308202,803,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,21,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:08:16.286093,790,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,22,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:08:18.275997,790,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,23,in window,"in window
+There was no verb in that sentence!
+
+",,,,False,,2025-12-04T00:08:20.294092,774,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,24,enter window,"enter window
+
+
+Behind House
+
+",,,,False,,2025-12-04T00:08:22.311369,775,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,25,north,"north
+
+
+North of House
+
+",,,,False,,2025-12-04T00:08:24.248724,770,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,26,south,"south
+
+
+The windows are all boarded.
+
+",,,,False,,2025-12-04T00:08:26.232627,763,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,27,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:08:28.168521,767,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,28,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-04T00:08:30.156510,713,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,29,take leaflet,"take leaflet
+
+
+You already have that!
+
+",,,,False,,2025-12-04T00:08:32.199177,710,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,30,examine mailbox,"examine mailbox
+
+
+The small mailbox is empty.
+
+",,,,False,,2025-12-04T00:08:34.248360,712,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,31,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-04T00:08:36.332116,716,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,32,north,"north
+
+
+North of House
+
+",,,,False,,2025-12-04T00:08:38.357747,741,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,33,east,"east
+
+
+Behind House
+
+",,,,False,,2025-12-04T00:08:40.349888,734,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,34,open window,"open window
+
+
+Too late for that.
+
+",,,,False,,2025-12-04T00:08:42.341355,730,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,35,enter house,"enter house
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:08:44.307662,730,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,36,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:08:46.189212,726,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,37,take all,"take all
+
+
+There's nothing here you can take.
+
+",,,,False,,2025-12-04T00:08:48.121848,760,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,38,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",,,,False,,2025-12-04T00:08:50.030781,765,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,39,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:08:52.049079,786,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,40,west,"west
+
+
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",,,,False,,2025-12-04T00:08:53.990399,781,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,41,get lantern,"get lantern
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:08:56.432109,806,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,42,turn on lantern,"turn on lantern
+
+
+The brass lantern is now on.
+
+",,,,False,,2025-12-04T00:08:58.566200,745,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,43,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:09:01.069617,747,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,44,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:09:03.065822,733,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,45,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:09:05.195180,737,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,46,examine kitchen,"examine kitchen
+
+
+The kitchen table is empty.
+
+",,,,False,,2025-12-04T00:09:07.212017,710,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,47,open window,"open window
+
+
+Have your eyes checked.
+
+",,,,False,,2025-12-04T00:09:09.201095,714,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,48,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:09:11.193324,710,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,49,up,"up
+
+
+Attic
+This is the attic. The only exit is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+
+",,,,False,,2025-12-04T00:09:13.201473,765,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,50,get rope,"get rope
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:09:15.262679,797,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,51,get knife,"get knife
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:09:17.189282,799,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,52,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:09:19.240413,795,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,53,west,"west
+
+
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+
+",,,,False,,2025-12-04T00:09:21.346478,790,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,54,examine sword,"examine sword
+
+
+There's nothing special about the sword.
+
+",,,,False,,2025-12-04T00:09:23.348418,743,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,55,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:09:25.241888,714,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,56,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:09:27.240894,719,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,57,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:09:29.201753,721,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,58,examine room,"examine room
+I don't know the word ""room"".
+
+",,,,False,,2025-12-04T00:09:31.204090,721,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,59,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:09:33.181713,714,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,60,up,"up
+
+
+Attic
+There is a table here.
+
+",,,,False,,2025-12-04T00:09:35.176079,770,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,61,examine table,"examine table
+
+
+The table is empty.
+
+",,,,False,,2025-12-04T00:09:37.235774,770,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,62,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:09:40.393301,771,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,63,west,"west
+
+
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+
+",,,,False,,2025-12-04T00:09:44.016050,771,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,64,take sword,"take sword
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:09:47.713278,778,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,65,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:09:50.282647,717,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,66,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:09:52.359519,717,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,67,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:09:54.394902,716,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,68,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:09:56.285902,724,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,69,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:09:58.200011,708,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,70,up,"up
+
+
+Attic
+There is a table here.
+
+",,,,False,,2025-12-04T00:10:00.215768,769,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,71,look,"look
+
+
+Attic
+This is the attic. The only exit is a stairway leading down.
+There is a table here.
+
+",,,,False,,2025-12-04T00:10:02.191404,769,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,72,examine table,"examine table
+
+
+The table is empty.
+
+",,,,False,,2025-12-04T00:10:04.367940,787,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,73,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:10:06.442446,784,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,74,west,"west
+
+
+Living Room
+
+",,,,False,,2025-12-04T00:10:08.438401,784,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,75,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:10:10.437857,722,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,76,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:10:12.473740,768,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,77,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:10:14.483787,753,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,78,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:10:16.586081,756,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,79,examine door,"examine door
+
+
+The engravings translate to ""This space intentionally left blank.""
+
+",,,,False,,2025-12-04T00:10:18.670516,763,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,80,west,"west
+
+
+The door is nailed shut.
+
+",,,,False,,2025-12-04T00:10:20.699306,774,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,81,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:10:22.669624,725,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,82,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:10:24.630871,722,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,83,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:10:26.662513,767,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,84,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:10:28.707609,767,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,85,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:10:30.706570,763,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,86,open window,"open window
+
+
+Look around.
+
+",,,,False,,2025-12-04T00:10:33.187445,759,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,87,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:10:35.049809,758,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,88,up,"up
+
+
+Attic
+There is a table here.
+
+",,,,False,,2025-12-04T00:10:37.019936,768,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,89,examine table,"examine table
+
+
+The table is empty.
+
+",,,,False,,2025-12-04T00:10:39.007826,768,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,90,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:10:40.918005,765,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,91,west,"west
+
+
+Living Room
+
+",,,,False,,2025-12-04T00:10:42.963373,765,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,92,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:10:44.990186,763,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,93,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:10:47.041435,753,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,94,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:10:49.140272,753,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,95,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:10:51.121182,756,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,96,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:10:53.041815,763,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,97,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:10:54.922858,762,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,98,climb up,"climb up
+What do you want to climb up?
+
+",,,,False,,2025-12-04T00:10:56.898967,772,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,99,up,"up
+
+
+Attic
+There is a table here.
+
+",,,,False,,2025-12-04T00:10:58.815162,773,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,100,examine table,"examine table
+
+
+The table is empty.
+
+",,,,False,,2025-12-04T00:11:00.817662,772,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,101,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:11:02.723684,770,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,102,west,"west
+
+
+Living Room
+
+",,,,False,,2025-12-04T00:11:04.742547,770,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,103,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:11:06.624469,708,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,104,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:11:08.590163,753,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,105,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:11:10.528885,754,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,106,west,"west
+
+
+The door is nailed shut.
+
+",,,,False,,2025-12-04T00:11:12.490501,756,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,107,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:11:14.462408,760,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,108,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:11:16.486905,766,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,109,examine kitchen,"examine kitchen
+
+
+The kitchen table is empty.
+
+",,,,False,,2025-12-04T00:11:18.480951,713,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,110,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:11:20.466344,711,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,111,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:11:22.351837,708,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,112,up,"up
+
+
+Attic
+There is a table here.
+
+",,,,False,,2025-12-04T00:11:24.380596,767,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,113,examine table,"examine table
+
+
+The table is empty.
+
+",,,,False,,2025-12-04T00:11:26.517043,767,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,114,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:11:28.558777,772,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,115,west,"west
+
+
+Living Room
+
+",,,,False,,2025-12-04T00:11:30.612497,766,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,116,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:11:32.552058,763,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,117,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:11:34.477447,753,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,118,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:11:36.447524,753,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,119,open door,"open door
+
+
+The door cannot be opened.
+
+",,,,False,,2025-12-04T00:11:38.369371,756,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,120,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:11:40.440085,762,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,121,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:11:42.471476,761,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,122,climb up,"climb up
+What do you want to climb up?
+
+",,,,False,,2025-12-04T00:11:44.465433,771,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,123,up,"up
+
+
+Attic
+There is a table here.
+
+",,,,False,,2025-12-04T00:11:46.374396,772,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,124,look,"look
+
+
+Attic
+This is the attic. The only exit is a stairway leading down.
+There is a table here.
+
+",,,,False,,2025-12-04T00:11:48.374722,771,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,125,examine table,"examine table
+
+
+The table is empty.
+
+",,,,False,,2025-12-04T00:11:50.399671,787,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,126,down,"down
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:11:52.409772,792,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,127,look,"look
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+
+",,,,False,,2025-12-04T00:11:54.412137,729,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,128,west,"west
+
+
+Living Room
+
+",,,,False,,2025-12-04T00:11:56.387731,784,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,129,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+
+",,,,False,,2025-12-04T00:11:58.399825,778,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,130,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",,,,False,,2025-12-04T00:12:00.467269,809,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,131,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",,,,False,,2025-12-04T00:12:02.405778,811,4
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,132,west,"west
+
+
+The door is nailed shut.
+
+",,,,False,,2025-12-04T00:12:04.524569,819,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,133,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:12:07.001234,760,2
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,134,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:12:09.056521,766,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,135,examine kitchen,"examine kitchen
+
+
+The kitchen table is empty.
+
+",,,,False,,2025-12-04T00:12:10.959403,713,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,136,north,"north
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:12:12.854158,712,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,137,south,"south
+
+
+You can't go that way.
+
+",,,,False,,2025-12-04T00:12:15.236637,708,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,138,west,"west
+
+
+Living Room
+
+",,,,False,,2025-12-04T00:12:17.093122,708,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,139,examine window,"examine window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:12:19.138441,702,3
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,140,east,"east
+
+
+Kitchen
+
+",,,,False,,2025-12-04T00:12:21.116357,709,1
+94686e57-730f-45a2-afc3-ff23a127ff98,a2b557a4-dac9-4add-b898-f3a28dc36951,0,gpt-4.1-mini,141,examine window,"examine window
+
+
+The kitchen window is open, but I can't tell what's beyond it.
+
+",,,,False,,2025-12-04T00:12:23.180340,703,3

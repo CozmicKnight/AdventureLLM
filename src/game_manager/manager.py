@@ -11,6 +11,8 @@ from llm_runner.runner import generate_action, LLMGeneration
 from state.logger import LogManager
 from zork_api_adapter.client import ZorkEnv, ZorkStepResult
 
+from time import sleep
+
 
 @dataclass
 class EpisodeResult:
@@ -64,7 +66,7 @@ class GameManager:
             prompt = build_prompt(state, model_name=model_name)
             generation: LLMGeneration = generate_action(model_name=model_name, prompt=prompt)
             command = generation.action
-
+            sleep(1)
             step_result = self.env.step(email, game, command)
             state.update(step_result, command)
             last_step = step_result

@@ -1,0 +1,21 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,0,look around,,,,,False,,2025-12-03T19:30:48.777586,81,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,1,open mailbox,,,,,False,,2025-12-03T19:30:50.397301,86,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,2,open mailbox,,,,,False,,2025-12-03T19:30:53.680681,95,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,3,take leaflet,,,,,False,,2025-12-03T19:30:55.407621,104,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,4,read leaflet,,,,,False,,2025-12-03T19:30:57.717077,113,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,5,open door,,,,,False,,2025-12-03T19:30:59.907046,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,6,go north,,,,,False,,2025-12-03T19:31:01.013218,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,7,go west,,,,,False,,2025-12-03T19:31:01.904373,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,8,look around,,,,,False,,2025-12-03T19:31:05.162251,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,9,take lantern,,,,,False,,2025-12-03T19:31:06.252685,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,10,light lantern,,,,,False,,2025-12-03T19:31:07.260897,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,11,open mailbox,,,,,False,,2025-12-03T19:31:09.082985,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,12,open mailbox,,,,,False,,2025-12-03T19:31:10.063590,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,13,read leaflet,,,,,False,,2025-12-03T19:31:11.141443,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,14,go north,,,,,False,,2025-12-03T19:31:12.180729,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,15,take leaflet,,,,,False,,2025-12-03T19:31:13.125757,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,16,examine mailbox,,,,,False,,2025-12-03T19:31:14.027420,122,3
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,17,go east,,,,,False,,2025-12-03T19:31:15.035339,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,18,open mailbox,,,,,False,,2025-12-03T19:31:16.013851,122,2
+4fc9f25e-cc71-47ae-9550-36fa522349f9,df7488a3-2a32-4f94-be39-249d4c8a1a4c,0,gpt-4.1-mini,19,take leaflet,,,,,False,,2025-12-03T19:31:17.804244,122,2

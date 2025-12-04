@@ -3,6 +3,4 @@ __pycache__/
 .env
 .openai-api-key
 .ipynb_checkpoints/
-data/raw_runs/*.csv
-.data/
 .DS_Store

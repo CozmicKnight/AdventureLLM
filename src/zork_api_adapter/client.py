@@ -91,7 +91,9 @@ class ZorkEnv:
         payload = response.json()
         print(f"{'-'*50}")
         print(payload['cmdOutput'])
+        # print(payload)
         return self._parse_response(payload)
+
 
     @staticmethod
     def _parse_response(payload: Dict) -> ZorkStepResult:
@@ -104,9 +106,36 @@ class ZorkEnv:
         ``gameOver`` flag or simple heuristics.
         """
 
-        observation = payload.get("cmdOutout")
-        score = payload.get("score")
-        moves = payload.get("moves") or payload.get("turns")
+        observation = payload.get("cmdOutput")
+
+        if (observation.lower().find("score") > -1):
+            text_start = observation.lower().find("score is ")
+            text_end = observation.lower().find(" (")
+            score_text = observation[text_start + 9:text_end]
+
+            try: 
+                score = int(score_text)
+                print(f"Score: {score}")
+            except:
+                print(f"Score Text: {score_text}")
+
+            text_start = observation.lower().find("), in ")
+            text_end = observation.lower().find(" moves")
+            moves_text = observation[text_start + 6:text_end]
+
+            try: 
+                moves = int(moves_text)
+                print(f"Moves: {moves}")
+            except:
+                print(f"Moves Text: {moves_text}")
+
+        else:
+            score = payload.get("score")
+            moves = payload.get("moves")
+            # print(f"Score: {score}")
+            # print(f"Moves: {moves}")
+
+
         inventory = payload.get("inventory")
         game_over_flag = payload.get("gameOver") or payload.get("done")
 
@@ -136,7 +165,43 @@ class ZorkEnv:
             raw_response=payload,
         )
 
+    
 
+    """
+    --------------------------------------------------
+    inventory
+
+
+    You are carrying:
+    A sword
+    A brass lantern
+    A glass bottle
+    The glass bottle contains:
+        A quantity of water
+    A brown sack
+    A leaflet
+    """
+
+    # def parse_score(response) -> int:
+
+    #     """
+    #     score
+    #     Your score is 0 (total of 350 points), in 10 moves.
+    #     This gives you the rank of Beginner.
+    #     """
+
+    #     score_text_start = response.lower().find("score is ")
+    #     score_text_end = response.lower().find("()")
+    #     score_text = response[score_text_start + 10:score_text_end]
+
+    #     try: 
+    #         score = int(score_text)
+    #         print(f"Score: {score}")
+    #     except:
+    #         print(f"Score Text: {score_text}")
+        
+    #     return 0
+    
 class MockZorkEnv:
     """Deterministic offline mock of the Zork environment.
 

@@ -1,0 +1,167 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,0,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-03T23:57:24.146344,631,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,1,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-03T23:57:26.587314,645,1
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,2,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",,,,False,,2025-12-03T23:57:28.926764,686,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,3,get leaflet,"get leaflet
+
+
+Taken.
+
+",,,,False,,2025-12-03T23:57:31.256253,706,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,4,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-03T23:57:33.692420,720,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,5,look house,"look house
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:57:35.824499,739,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,6,open window at house,"open window at house
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:57:37.813255,739,4
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,7,look house,"look house
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:57:39.815992,721,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,8,look around,"look around
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-03T23:57:41.871328,720,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,9,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-03T23:57:43.858065,749,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,10,get all,"get all
+
+
+small mailbox: It is securely anchored.
+
+",,,,False,,2025-12-03T23:57:45.837442,747,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,11,look window,"look window
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:57:47.864175,748,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,12,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-03T23:57:49.969998,744,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,13,look house,"look house
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:57:52.055153,744,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,14,look north,"look north
+You used the word ""north"" in a way that I don't understand.
+
+",,,,False,,2025-12-03T23:57:54.082121,720,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,15,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-03T23:57:56.099070,730,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,16,look mailbox,"look mailbox
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:57:58.183302,727,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,17,look mailbox,"look mailbox
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:58:00.322337,727,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,18,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-03T23:58:02.362367,727,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,19,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-03T23:58:04.521721,727,1
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,20,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-03T23:58:06.975963,741,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,21,get all,"get all
+
+
+small mailbox: It is securely anchored.
+
+",,,,False,,2025-12-03T23:58:09.048021,741,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,22,look mailbox,"look mailbox
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:58:11.029547,742,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,23,look mailbox,"look mailbox
+That sentence isn't one I recognize.
+
+",,,,False,,2025-12-03T23:58:12.971799,742,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,24,look in mailbox,"look in mailbox
+
+
+The small mailbox is empty.
+
+",,,,False,,2025-12-03T23:58:15.090562,742,3
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,25,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-03T23:58:17.091013,721,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,26,look around,"look around
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",,,,False,,2025-12-03T23:58:19.092267,723,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,27,open mailbox,"open mailbox
+
+
+It is already open.
+
+",,,,False,,2025-12-03T23:58:21.073513,746,2
+df69182b-cf2e-459c-8e7f-46ba94874912,110ba48f-b964-48ea-be78-174641365547,0,gpt-4.1-mini,28,enter house,"enter house
+
+
+I can't see how to get in from here.
+
+",,,,False,,2025-12-03T23:58:23.184878,744,2

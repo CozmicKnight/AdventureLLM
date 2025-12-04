@@ -1,0 +1,746 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,,,False,,2025-12-04T00:48:01.350045,659,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,,,False,,2025-12-04T00:48:03.517083,695,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:48:05.458343,715,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,3,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",0,,,False,,2025-12-04T00:48:07.579409,729,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,4,open window,"open window
+
+
+You can't see any window here!
+
+",0,,,False,,2025-12-04T00:48:09.766721,789,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,5,examine house,"examine house
+
+
+The house is a beautiful colonial house which is painted white. It is clear that
+the owners must have been extremely wealthy.
+
+",0,,,False,,2025-12-04T00:48:11.734084,808,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,6,east,"east
+
+
+The door is boarded and you can't remove the boards.
+
+",0,,,False,,2025-12-04T00:48:13.743954,845,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,7,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,,,False,,2025-12-04T00:48:15.713629,866,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,8,south,"south
+
+
+The windows are all boarded.
+
+",0,,,False,,2025-12-04T00:48:17.874100,917,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,9,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",0,,,False,,2025-12-04T00:48:19.867705,933,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,10,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,,,False,,2025-12-04T00:48:21.791656,954,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,11,open mailbox,"open mailbox
+
+
+It is already open.
+
+",0,,,False,,2025-12-04T00:48:23.861799,995,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,12,look inside mailbox,"look inside mailbox
+
+
+The small mailbox is empty.
+
+",0,,,False,,2025-12-04T00:48:26.084240,1012,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,13,north,"north
+
+
+North of House
+
+",0,,,False,,2025-12-04T00:48:28.057115,1032,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,14,north,"north
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",0,,,False,,2025-12-04T00:48:30.187098,1046,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,15,examine tree,"examine tree
+
+
+There's nothing special about the tree.
+
+",0,,,False,,2025-12-04T00:48:32.218647,1097,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,16,climb tree,"climb tree
+
+
+Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The
+nearest branch above you is above your reach.
+Beside you on the branch is a small bird's nest.
+In the bird's nest is a large egg encrusted with precious jewels, apparently
+scavenged by a childless songbird. The egg is covered with fine gold inlay, and
+ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is
+hinged and closed with a delicate looking clasp. The egg appears extremely
+fragile.
+
+",0,,,False,,2025-12-04T00:48:34.193262,1116,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,17,open egg,"open egg
+
+
+You have neither the tools nor the expertise.
+
+",0,,,False,,2025-12-04T00:48:36.123379,1251,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,18,examine egg,"examine egg
+
+
+The jewel-encrusted egg is closed.
+
+",0,,,False,,2025-12-04T00:48:38.217185,1272,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,19,take egg,"take egg
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:48:40.121205,1293,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,20,climb down,"climb down
+
+
+(down the tree)
+Forest Path
+
+",0,,,False,,2025-12-04T00:48:42.067650,1307,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,21,south,"south
+
+
+North of House
+
+",0,,,False,,2025-12-04T00:48:44.190415,1327,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,22,score,"score
+Your score is 5 (total of 350 points), in 22 moves.
+This gives you the rank of Beginner.
+
+",5,,,False,,2025-12-04T00:48:46.127759,1341,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,23,south,"south
+
+
+The windows are all boarded.
+
+",0,,,False,,2025-12-04T00:48:48.195999,1376,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,24,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",0,,,False,,2025-12-04T00:48:50.364169,1392,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,25,open window,"open window
+
+
+You can't see any window here!
+
+",0,,,False,,2025-12-04T00:48:52.329555,1413,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,26,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,,,False,,2025-12-04T00:48:54.237476,1432,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,27,examine mailbox,"examine mailbox
+
+
+The small mailbox is empty.
+
+",0,,,False,,2025-12-04T00:48:56.239790,1473,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,28,look around house,"look around house
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,,,False,,2025-12-04T00:48:58.228256,1491,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,29,enter house,"enter house
+
+
+I can't see how to get in from here.
+
+",0,,,False,,2025-12-04T00:49:00.166143,1536,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,30,south,"south
+
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+",0,,,False,,2025-12-04T00:49:02.181782,1558,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,31,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,,,False,,2025-12-04T00:49:04.098133,1597,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,32,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,,,False,,2025-12-04T00:49:06.035285,1645,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,33,in,"in
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,,,False,,2025-12-04T00:49:08.149341,1671,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,34,take sack,"take sack
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:49:10.094691,1779,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,35,take bottle,"take bottle
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:49:12.171474,1793,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,36,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",0,,,False,,2025-12-04T00:49:14.131457,1807,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,37,take lantern,"take lantern
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:49:16.059815,1898,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,38,open trophy case,"open trophy case
+
+
+Opened.
+
+",0,,,False,,2025-12-04T00:49:18.195221,1912,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,39,take sword,"take sword
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:49:20.257852,1928,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,40,score,"score
+Your score is 15 (total of 350 points), in 39 moves.
+This gives you the rank of Beginner.
+
+",15,,,False,,2025-12-04T00:49:22.169335,1942,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,41,inventory,"inventory
+
+
+You are carrying:
+  A sword
+  A brass lantern
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  A jewel-encrusted egg
+  A leaflet
+
+",0,,,False,,2025-12-04T00:49:24.137882,1977,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,42,west,"west
+
+
+The door is nailed shut.
+
+",0,,,False,,2025-12-04T00:49:26.442861,2034,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,43,open door,"open door
+
+
+The door cannot be opened.
+
+",0,,,False,,2025-12-04T00:49:28.345196,2050,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,44,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",0,,,False,,2025-12-04T00:49:30.343504,2068,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,45,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",0,,,False,,2025-12-04T00:49:32.267742,2108,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,46,down,"down
+
+
+You have moved into a dark place.
+The trap door crashes shut, and you hear someone barring it.
+
+It is pitch black. You are likely to be eaten by a grue.
+Your sword is glowing with a faint blue glow.
+
+",0,,,False,,2025-12-04T00:49:34.210193,2139,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,47,turn on lantern,"turn on lantern
+
+
+The brass lantern is now on.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",0,,,False,,2025-12-04T00:49:36.103007,2197,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,48,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",0,,,False,,2025-12-04T00:49:38.028234,2265,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,49,throw sword at troll,"throw sword at troll
+
+
+The troll, who is remarkably coordinated, catches the sword and, being for the
+moment sated, throws it back. Fortunately, the troll has poor control, and the
+sword falls to the floor. He does not look pleased.
+The troll swings; the blade turns on your armor but crashes broadside into your
+head.
+
+",0,,,False,,2025-12-04T00:49:39.973814,2347,4
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,50,take sword,"take sword
+
+
+Taken.
+The troll's axe barely misses your ear.
+
+",0,,,False,,2025-12-04T00:49:42.429994,2431,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,51,throw sword at troll,"throw sword at troll
+
+
+The troll, who is remarkably coordinated, catches the sword and, being for the
+moment sated, throws it back. Fortunately, the troll has poor control, and the
+sword falls to the floor. He does not look pleased.
+The troll swings; the blade turns on your armor but crashes broadside into your
+head.
+
+",0,,,False,,2025-12-04T00:49:44.458630,2454,4
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,52,throw sword at troll,"throw sword at troll
+You don't have the sword.
+
+",0,,,False,,2025-12-04T00:49:46.431949,2538,4
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,53,get sword,"get sword
+
+
+Taken.
+The axe crashes against the rock, throwing sparks!
+
+",0,,,False,,2025-12-04T00:49:48.387520,2560,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,54,throw sword at troll,"throw sword at troll
+
+
+The troll, who is remarkably coordinated, catches the sword and, being for the
+moment sated, throws it back. Fortunately, the troll has poor control, and the
+sword falls to the floor. He does not look pleased.
+The axe gets you right in the side. Ouch!
+
+",0,,,False,,2025-12-04T00:49:50.351373,2584,4
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,55,throw egg at troll,"throw egg at troll
+
+
+The troll, who is remarkably coordinated, catches the jewel-encrusted egg and
+not having the most discriminating tastes, gleefully eats it.
+The troll's axe removes your head.
+It appears that that last blow was too much for you. I'm afraid you are dead.
+
+   ****  You have died  ****
+
+Now, let's take a look here... Well, you probably deserve another chance. I
+can't quite fix you up completely, but you can't have everything.
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",0,,,False,,2025-12-04T00:49:52.477808,2661,4
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,56,east,"east
+
+
+Forest Path
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+
+",0,,,False,,2025-12-04T00:49:54.494963,2799,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,57,get bottle,"get bottle
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:49:56.523049,2830,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,58,north,"north
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+On the ground is a pile of leaves.
+
+",0,,,False,,2025-12-04T00:49:58.627636,2844,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,59,take leaves,"take leaves
+
+
+In disturbing the pile of leaves, a grating is revealed.
+Taken.
+
+",0,,,False,,2025-12-04T00:50:00.623822,2887,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,60,open grating,"open grating
+
+
+The grating is locked.
+
+",0,,,False,,2025-12-04T00:50:02.553615,2914,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,61,examine grating,"examine grating
+
+
+The grating is closed.
+
+",0,,,False,,2025-12-04T00:50:04.631530,2934,4
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,62,look around clearing,"look around clearing
+I don't know the word ""clearing"".
+
+",0,,,False,,2025-12-04T00:50:06.603354,2954,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,63,look,"look
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",0,,,False,,2025-12-04T00:50:08.536810,2978,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,64,inventory,"inventory
+
+
+You are carrying:
+  A pile of leaves
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+
+",0,,,False,,2025-12-04T00:50:10.534291,3024,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,65,south,"south
+
+
+Forest Path
+
+",0,,,False,,2025-12-04T00:50:12.579035,3061,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,66,north,"north
+
+
+Clearing
+
+",0,,,False,,2025-12-04T00:50:14.538860,3074,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,67,put leaves in grating,"put leaves in grating
+
+
+It won't fit through the grating.
+
+",0,,,False,,2025-12-04T00:50:16.494881,3087,5
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,68,look around,"look around
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+
+",0,,,False,,2025-12-04T00:50:18.467449,3113,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,69,north,"north
+
+
+The forest becomes impenetrable to the north.
+
+",0,,,False,,2025-12-04T00:50:20.548236,3161,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,70,south,"south
+
+
+Forest Path
+
+",0,,,False,,2025-12-04T00:50:22.667808,3181,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,71,east,"east
+
+
+Forest
+This is a dimly lit forest, with large trees all around.
+
+",0,,,False,,2025-12-04T00:50:24.587633,3194,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,72,west,"west
+
+
+Forest Path
+
+",0,,,False,,2025-12-04T00:50:26.697225,3220,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,73,look,"look
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",0,,,False,,2025-12-04T00:50:28.617077,3233,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,74,climb tree,"climb tree
+
+
+Up a Tree
+Beside you on the branch is a small bird's nest.
+
+",0,,,False,,2025-12-04T00:50:30.807481,3284,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,75,examine nest,"examine nest
+
+
+The bird's nest is empty.
+
+",0,,,False,,2025-12-04T00:50:32.888119,3313,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,76,climb down,"climb down
+
+
+(down the tree)
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",0,,,False,,2025-12-04T00:50:34.926665,3332,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,77,south,"south
+
+
+North of House
+
+",0,,,False,,2025-12-04T00:50:36.947500,3365,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,78,east,"east
+
+
+Behind House
+
+",0,,,False,,2025-12-04T00:50:39.118497,3379,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,79,open window,"open window
+
+
+Too late for that.
+
+",0,,,False,,2025-12-04T00:50:41.031865,3392,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,80,in,"in
+
+
+Kitchen
+
+",0,,,False,,2025-12-04T00:50:43.202107,3409,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,81,take sack,"take sack
+
+
+You can't see any sack here!
+
+",0,,,False,,2025-12-04T00:50:45.218652,3421,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,82,west,"west
+
+
+Living Room
+There is a brass lantern (battery-powered) here.
+
+",0,,,False,,2025-12-04T00:50:47.189234,3440,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,83,take lantern,"take lantern
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:50:49.319188,3464,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,84,score,"score
+Your score is 30 (total of 350 points), in 80 moves.
+This gives you the rank of Amateur Adventurer.
+
+",30,,,False,,2025-12-04T00:50:51.397476,3478,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,85,open trophy case,"open trophy case
+
+
+It is already open.
+
+",0,,,False,,2025-12-04T00:50:53.426074,3515,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,86,take sword,"take sword
+
+
+You can't see any sword here!
+
+",0,,,False,,2025-12-04T00:50:55.375330,3534,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,87,look,"look
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a closed trap door at your feet.
+
+",0,,,False,,2025-12-04T00:50:57.346159,3553,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,88,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",0,,,False,,2025-12-04T00:50:59.276351,3615,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,89,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+
+",0,,,False,,2025-12-04T00:51:01.272266,3646,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,90,turn on lantern,"turn on lantern
+
+
+It is already on.
+
+",0,,,False,,2025-12-04T00:51:03.697707,3673,3
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,91,north,"north
+
+
+The Troll Room
+There is a sword here.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+
+",0,,,False,,2025-12-04T00:51:05.773405,3692,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,92,get sword,"get sword
+
+
+Taken.
+Your sword has begun to glow very brightly.
+
+",0,,,False,,2025-12-04T00:51:07.840822,3732,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,93,throw sword at troll,"throw sword at troll
+
+
+The troll, who is remarkably coordinated, catches the sword and, being for the
+moment sated, throws it back. Fortunately, the troll has poor control, and the
+sword falls to the floor. He does not look pleased.
+The troll's swing almost knocks you over as you barely parry in time.
+
+",0,,,False,,2025-12-04T00:51:10.022728,3755,4
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,94,throw lantern at troll,"throw lantern at troll
+
+
+The troll, who is remarkably coordinated, catches the brass lantern and not
+having the most discriminating tastes, gleefully eats it.
+You are left in the dark...
+The flat of the troll's axe hits you delicately on the head, knocking you out.
+Conquering his fears, the troll puts you to death.
+It appears that that last blow was too much for you. I'm afraid you are dead.
+
+   ****  You have died  ****
+
+Now, let's take a look here... Well, you probably deserve another chance. I
+can't quite fix you up completely, but you can't have everything.
+
+Forest
+A small leaflet is on the ground.
+
+",0,,,False,,2025-12-04T00:51:12.038627,3836,4
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,95,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,,,False,,2025-12-04T00:51:14.714419,3987,2
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,96,north,"north
+
+
+Clearing
+
+",0,,,False,,2025-12-04T00:51:16.761959,4001,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,97,north,"north
+
+
+The forest becomes impenetrable to the north.
+
+",0,,,False,,2025-12-04T00:51:18.665851,4014,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,98,south,"south
+
+
+Forest Path
+
+",0,,,False,,2025-12-04T00:51:20.658620,4034,1
+c15c3c35-847a-4a71-a0a1-1ba2e5fcea41,bcd18984-381b-498c-b5e3-ba872dafb71b,0,gpt-4.1-mini,99,south,"south
+
+
+North of House
+On the ground is a pile of leaves.
+
+",0,,,False,,2025-12-04T00:51:22.612730,4047,1

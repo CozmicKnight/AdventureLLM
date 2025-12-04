@@ -1,0 +1,201 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,0,look,,,,,False,,2025-12-03T21:14:48.959577,660,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,1,open window,,,,,False,,2025-12-03T21:14:50.018668,664,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,2,enter window,,,,,False,,2025-12-03T21:14:51.070398,673,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,3,look,,,,,False,,2025-12-03T21:14:52.168656,682,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,4,inventory,,,,,False,,2025-12-03T21:14:53.115229,690,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,5,west,,,,,False,,2025-12-03T21:14:54.057233,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,6,look,,,,,False,,2025-12-03T21:14:55.096472,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,7,get all,,,,,False,,2025-12-03T21:14:56.177859,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,8,north,,,,,False,,2025-12-03T21:14:57.203653,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,9,open window,,,,,False,,2025-12-03T21:14:58.290830,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,10,enter window,,,,,False,,2025-12-03T21:14:59.264163,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,11,look,,,,,False,,2025-12-03T21:15:00.563294,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,12,get all,,,,,False,,2025-12-03T21:15:01.660357,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,13,west,,,,,False,,2025-12-03T21:15:02.778385,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,14,open mailbox,,,,,False,,2025-12-03T21:15:03.771142,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,15,look,,,,,False,,2025-12-03T21:15:04.844101,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,16,get leaflet,,,,,False,,2025-12-03T21:15:05.823051,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,17,read leaflet,,,,,False,,2025-12-03T21:15:06.876184,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,18,north,,,,,False,,2025-12-03T21:15:07.826307,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,19,open window,,,,,False,,2025-12-03T21:15:08.762046,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,20,enter window,,,,,False,,2025-12-03T21:15:10.595615,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,21,look,,,,,False,,2025-12-03T21:15:11.783070,700,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,22,inventory,,,,,False,,2025-12-03T21:15:12.933836,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,23,west,,,,,False,,2025-12-03T21:15:13.979585,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,24,look,,,,,False,,2025-12-03T21:15:15.878370,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,25,north,,,,,False,,2025-12-03T21:15:16.865993,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,26,look,,,,,False,,2025-12-03T21:15:18.639833,696,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,27,open window,,,,,False,,2025-12-03T21:15:19.683427,696,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,28,enter,,,,,False,,2025-12-03T21:15:20.653306,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,29,look,,,,,False,,2025-12-03T21:15:21.608446,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,30,get all,,,,,False,,2025-12-03T21:15:22.665089,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,31,inventory,,,,,False,,2025-12-03T21:15:24.430759,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,32,north,,,,,False,,2025-12-03T21:15:25.599495,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,33,open window,,,,,False,,2025-12-03T21:15:26.711699,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,34,enter window,,,,,False,,2025-12-03T21:15:27.720799,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,35,look,,,,,False,,2025-12-03T21:15:28.709745,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,36,take all,,,,,False,,2025-12-03T21:15:29.916584,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,37,inventory,,,,,False,,2025-12-03T21:15:30.886830,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,38,north,,,,,False,,2025-12-03T21:15:31.945962,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,39,look,,,,,False,,2025-12-03T21:15:32.891197,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,40,open window,,,,,False,,2025-12-03T21:15:34.745440,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,41,enter window,,,,,False,,2025-12-03T21:15:35.644516,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,42,look,,,,,False,,2025-12-03T21:15:36.846631,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,43,take all,,,,,False,,2025-12-03T21:15:37.926561,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,44,inventory,,,,,False,,2025-12-03T21:15:38.861350,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,45,look,,,,,False,,2025-12-03T21:15:39.960155,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,46,north,,,,,False,,2025-12-03T21:15:40.989648,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,47,open window,,,,,False,,2025-12-03T21:15:42.176862,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,48,enter window,,,,,False,,2025-12-03T21:15:43.779322,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,49,look,,,,,False,,2025-12-03T21:15:44.776716,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,50,inventory,,,,,False,,2025-12-03T21:15:45.745967,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,51,east,,,,,False,,2025-12-03T21:15:46.844004,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,52,look,,,,,False,,2025-12-03T21:15:47.939203,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,53,get all,,,,,False,,2025-12-03T21:15:48.983080,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,54,west,,,,,False,,2025-12-03T21:15:49.943140,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,55,south,,,,,False,,2025-12-03T21:15:50.938038,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,56,west,,,,,False,,2025-12-03T21:15:51.953275,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,57,look,,,,,False,,2025-12-03T21:15:52.885315,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,58,open window,,,,,False,,2025-12-03T21:15:53.988386,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,59,enter window,,,,,False,,2025-12-03T21:15:55.068239,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,60,look,,,,,False,,2025-12-03T21:15:56.190575,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,61,take all,,,,,False,,2025-12-03T21:15:57.406221,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,62,inventory,,,,,False,,2025-12-03T21:15:58.352099,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,63,north,,,,,False,,2025-12-03T21:15:59.311789,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,64,east,,,,,False,,2025-12-03T21:16:00.337719,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,65,open window,,,,,False,,2025-12-03T21:16:01.259299,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,66,enter window,,,,,False,,2025-12-03T21:16:02.226102,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,67,look,,,,,False,,2025-12-03T21:16:03.181534,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,68,get all,,,,,False,,2025-12-03T21:16:04.223236,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,69,west,,,,,False,,2025-12-03T21:16:05.348388,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,70,inventory,,,,,False,,2025-12-03T21:16:06.254088,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,71,south,,,,,False,,2025-12-03T21:16:07.386450,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,72,open window,,,,,False,,2025-12-03T21:16:08.359443,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,73,enter window,,,,,False,,2025-12-03T21:16:09.482898,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,74,look,,,,,False,,2025-12-03T21:16:10.540235,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,75,get all,,,,,False,,2025-12-03T21:16:11.493899,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,76,inventory,,,,,False,,2025-12-03T21:16:13.529753,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,77,west,,,,,False,,2025-12-03T21:16:14.464094,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,78,look,,,,,False,,2025-12-03T21:16:15.574638,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,79,north,,,,,False,,2025-12-03T21:16:16.754234,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,80,open window,,,,,False,,2025-12-03T21:16:17.715122,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,81,enter window,,,,,False,,2025-12-03T21:16:18.928614,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,82,look,,,,,False,,2025-12-03T21:16:20.748120,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,83,get all,,,,,False,,2025-12-03T21:16:21.772259,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,84,inventory,,,,,False,,2025-12-03T21:16:22.656486,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,85,north,,,,,False,,2025-12-03T21:16:23.712849,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,86,east,,,,,False,,2025-12-03T21:16:24.680132,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,87,open window,,,,,False,,2025-12-03T21:16:25.770624,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,88,enter window,,,,,False,,2025-12-03T21:16:26.934859,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,89,look,,,,,False,,2025-12-03T21:16:28.109580,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,90,inventory,,,,,False,,2025-12-03T21:16:29.257385,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,91,take all,,,,,False,,2025-12-03T21:16:30.332984,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,92,look,,,,,False,,2025-12-03T21:16:31.478743,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,93,open door,,,,,False,,2025-12-03T21:16:32.373190,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,94,open window,,,,,False,,2025-12-03T21:16:33.688577,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,95,enter window,,,,,False,,2025-12-03T21:16:37.331523,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,96,look,,,,,False,,2025-12-03T21:16:38.357387,700,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,97,get all,,,,,False,,2025-12-03T21:16:39.322365,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,98,inventory,,,,,False,,2025-12-03T21:16:40.511244,700,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,99,west,,,,,False,,2025-12-03T21:16:41.415244,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,100,south,,,,,False,,2025-12-03T21:16:42.368756,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,101,look,,,,,False,,2025-12-03T21:16:43.312384,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,102,open window,,,,,False,,2025-12-03T21:16:44.609474,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,103,enter,,,,,False,,2025-12-03T21:16:45.606865,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,104,look,,,,,False,,2025-12-03T21:16:46.473843,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,105,get all,,,,,False,,2025-12-03T21:16:47.717972,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,106,inventory,,,,,False,,2025-12-03T21:16:48.818306,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,107,north,,,,,False,,2025-12-03T21:16:49.972695,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,108,open window,,,,,False,,2025-12-03T21:16:51.176698,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,109,enter window,,,,,False,,2025-12-03T21:16:52.347262,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,110,look,,,,,False,,2025-12-03T21:16:53.310648,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,111,get all,,,,,False,,2025-12-03T21:16:54.331655,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,112,inventory,,,,,False,,2025-12-03T21:16:55.293956,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,113,west,,,,,False,,2025-12-03T21:16:56.375194,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,114,look,,,,,False,,2025-12-03T21:16:57.422668,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,115,open window,,,,,False,,2025-12-03T21:16:58.448169,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,116,enter window,,,,,False,,2025-12-03T21:16:59.392274,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,117,look,,,,,False,,2025-12-03T21:17:00.400263,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,118,take all,,,,,False,,2025-12-03T21:17:01.507440,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,119,inventory,,,,,False,,2025-12-03T21:17:02.642552,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,120,look,,,,,False,,2025-12-03T21:17:03.780005,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,121,open door,,,,,False,,2025-12-03T21:17:04.891193,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,122,open window,,,,,False,,2025-12-03T21:17:05.808048,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,123,enter window,,,,,False,,2025-12-03T21:17:06.867209,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,124,look,,,,,False,,2025-12-03T21:17:08.324809,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,125,inventory,,,,,False,,2025-12-03T21:17:09.272298,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,126,take all,,,,,False,,2025-12-03T21:17:10.399294,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,127,look,,,,,False,,2025-12-03T21:17:11.437073,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,128,open door,,,,,False,,2025-12-03T21:17:12.353611,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,129,open window,,,,,False,,2025-12-03T21:17:13.289200,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,130,enter window,,,,,False,,2025-12-03T21:17:14.214036,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,131,look,,,,,False,,2025-12-03T21:17:15.262902,700,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,132,inventory,,,,,False,,2025-12-03T21:17:16.200877,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,133,west,,,,,False,,2025-12-03T21:17:17.296068,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,134,look,,,,,False,,2025-12-03T21:17:18.292518,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,135,get all,,,,,False,,2025-12-03T21:17:19.362452,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,136,east,,,,,False,,2025-12-03T21:17:20.533154,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,137,south,,,,,False,,2025-12-03T21:17:21.436977,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,138,look,,,,,False,,2025-12-03T21:17:22.612467,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,139,open window,,,,,False,,2025-12-03T21:17:23.579020,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,140,enter,,,,,False,,2025-12-03T21:17:24.658732,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,141,look,,,,,False,,2025-12-03T21:17:25.658849,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,142,west,,,,,False,,2025-12-03T21:17:26.625201,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,143,look,,,,,False,,2025-12-03T21:17:27.767785,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,144,inventory,,,,,False,,2025-12-03T21:17:28.649057,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,145,north,,,,,False,,2025-12-03T21:17:29.813540,696,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,146,open window,,,,,False,,2025-12-03T21:17:30.774562,696,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,147,enter window,,,,,False,,2025-12-03T21:17:31.732374,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,148,look,,,,,False,,2025-12-03T21:17:32.746640,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,149,get all,,,,,False,,2025-12-03T21:17:33.715279,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,150,inventory,,,,,False,,2025-12-03T21:17:34.667033,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,151,west,,,,,False,,2025-12-03T21:17:35.697661,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,152,look,,,,,False,,2025-12-03T21:17:36.771126,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,153,open window,,,,,False,,2025-12-03T21:17:38.560406,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,154,enter window,,,,,False,,2025-12-03T21:17:39.722393,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,155,look,,,,,False,,2025-12-03T21:17:40.730179,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,156,get all,,,,,False,,2025-12-03T21:17:41.793614,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,157,inventory,,,,,False,,2025-12-03T21:17:42.935873,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,158,west,,,,,False,,2025-12-03T21:17:43.888576,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,159,open window,,,,,False,,2025-12-03T21:17:44.989449,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,160,enter window,,,,,False,,2025-12-03T21:17:46.179983,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,161,look,,,,,False,,2025-12-03T21:17:47.090762,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,162,take all,,,,,False,,2025-12-03T21:17:48.005192,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,163,inventory,,,,,False,,2025-12-03T21:17:48.981690,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,164,east,,,,,False,,2025-12-03T21:17:49.994941,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,165,open window,,,,,False,,2025-12-03T21:17:51.036337,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,166,enter window,,,,,False,,2025-12-03T21:17:52.645180,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,167,look,,,,,False,,2025-12-03T21:17:53.756527,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,168,take all,,,,,False,,2025-12-03T21:17:54.899391,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,169,inventory,,,,,False,,2025-12-03T21:17:55.890835,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,170,west,,,,,False,,2025-12-03T21:17:56.850847,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,171,open window,,,,,False,,2025-12-03T21:17:58.042278,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,172,enter window,,,,,False,,2025-12-03T21:17:59.622501,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,173,look,,,,,False,,2025-12-03T21:18:00.594260,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,174,take all,,,,,False,,2025-12-03T21:18:01.942722,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,175,inventory,,,,,False,,2025-12-03T21:18:03.856161,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,176,west,,,,,False,,2025-12-03T21:18:04.893604,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,177,open window,,,,,False,,2025-12-03T21:18:06.086796,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,178,enter window,,,,,False,,2025-12-03T21:18:07.211715,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,179,look,,,,,False,,2025-12-03T21:18:08.402598,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,180,take all,,,,,False,,2025-12-03T21:18:09.632790,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,181,inventory,,,,,False,,2025-12-03T21:18:10.630453,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,182,look,,,,,False,,2025-12-03T21:18:11.523539,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,183,open door,,,,,False,,2025-12-03T21:18:12.516052,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,184,open window,,,,,False,,2025-12-03T21:18:13.658671,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,185,enter window,,,,,False,,2025-12-03T21:18:14.862261,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,186,look,,,,,False,,2025-12-03T21:18:15.921317,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,187,take all,,,,,False,,2025-12-03T21:18:16.999702,699,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,188,inventory,,,,,False,,2025-12-03T21:18:18.109593,700,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,189,east,,,,,False,,2025-12-03T21:18:19.003548,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,190,open window,,,,,False,,2025-12-03T21:18:19.989868,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,191,enter window,,,,,False,,2025-12-03T21:18:20.962676,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,192,look,,,,,False,,2025-12-03T21:18:22.348535,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,193,get all,,,,,False,,2025-12-03T21:18:23.305835,698,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,194,inventory,,,,,False,,2025-12-03T21:18:24.582098,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,195,west,,,,,False,,2025-12-03T21:18:25.455830,699,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,196,look,,,,,False,,2025-12-03T21:18:26.500736,698,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,197,north,,,,,False,,2025-12-03T21:18:27.651457,697,1
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,198,open window,,,,,False,,2025-12-03T21:18:29.140432,697,2
+94bdb640-ba59-48a3-baaf-1fbcdacefc82,dd16ccfc-e451-4c55-96fe-24003b5cb683,0,gpt-4.1,199,enter window,,,,,False,,2025-12-03T21:18:30.088868,697,2

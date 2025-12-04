@@ -50,12 +50,22 @@ def generate_action(model_name: str, prompt: str) -> LLMGeneration:
         from openai import OpenAI
 
         client = OpenAI(api_key=api_key)
-        response = client.chat.completions.create(
-            model=model_name,
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.6,
-            max_tokens=32,
-        )
+
+        if (model_name.upper().find("GPT-5") > -1):
+            response = client.chat.completions.create(
+                model=model_name,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=1,
+                max_completion_tokens=10000,
+            )
+        else:
+            response = client.chat.completions.create(
+                model=model_name,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.6,
+                max_tokens=10000,
+            )
+
         content = response.choices[0].message.content if response.choices else ""
         action = _clean_action(content or "")
         usage = response.usage

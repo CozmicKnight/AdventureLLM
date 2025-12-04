@@ -1,0 +1,32 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,0,look,,,,,False,,2025-12-03T21:40:30.419547,689,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,1,north,,,,,False,,2025-12-03T21:40:32.740667,693,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,2,open window,,,,,False,,2025-12-03T21:40:34.889810,701,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,3,enter window,,,,,False,,2025-12-03T21:40:37.059462,710,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,4,west,,,,,False,,2025-12-03T21:40:39.295108,719,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,5,look,,,,,False,,2025-12-03T21:40:41.504547,727,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,6,get all,,,,,False,,2025-12-03T21:40:43.688024,727,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,7,east,,,,,False,,2025-12-03T21:40:45.875502,728,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,8,south,,,,,False,,2025-12-03T21:40:48.065614,727,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,9,score,,,,,False,,2025-12-03T21:40:50.180525,726,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,10,look,,,,,False,,2025-12-03T21:40:53.044033,726,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,11,open window,,,,,False,,2025-12-03T21:40:55.933393,726,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,12,enter window,,,,,False,,2025-12-03T21:40:58.823393,726,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,13,look,,,,,False,,2025-12-03T21:41:01.179024,727,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,14,get all,,,,,False,,2025-12-03T21:41:03.353346,727,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,15,west,,,,,False,,2025-12-03T21:41:05.838188,728,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,16,south,,,,,False,,2025-12-03T21:41:08.049420,728,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,17,look,,,,,False,,2025-12-03T21:41:10.362673,727,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,18,score,,,,,False,,2025-12-03T21:41:12.441292,726,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,19,east,,,,,False,,2025-12-03T21:41:14.728897,726,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,20,look,,,,,False,,2025-12-03T21:41:16.859078,725,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,21,north,,,,,False,,2025-12-03T21:41:18.986269,725,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,22,look,,,,,False,,2025-12-03T21:41:21.137603,725,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,23,open window,,,,,False,,2025-12-03T21:41:23.378191,725,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,24,enter window,,,,,False,,2025-12-03T21:41:25.473443,726,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,25,look,,,,,False,,2025-12-03T21:41:27.600388,727,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,26,get all,,,,,False,,2025-12-03T21:41:29.965425,727,2
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,27,west,,,,,False,,2025-12-03T21:41:32.101340,728,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,28,south,,,,,False,,2025-12-03T21:41:34.188776,728,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,29,score,,,,,False,,2025-12-03T21:41:36.312782,727,1
+c4024c1f-f9ac-47ab-964c-1fbdb6bf9aca,5dd87eb0-4a65-4612-b66e-97df978dc938,0,gpt-4.1,30,look,,,,,False,,2025-12-03T21:41:38.582949,726,1

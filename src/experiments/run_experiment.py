@@ -8,6 +8,8 @@ from game_manager.manager import GameManager
 from state.logger import LogManager
 from zork_api_adapter.client import ZorkEnv
 
+from pprint import pprint as pp
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run Zork LLM experiments")
@@ -56,6 +58,7 @@ def main() -> None:
         results.append(result)
 
     print("=== Run summary ===")
+    pp(results)
     for idx, res in enumerate(results, start=1):
         end_state = "natural" if res.ended_naturally else "max_moves"
         print(f"Episode {idx}: score={res.final_score} moves={res.moves} end={end_state} log={res.log_path}")

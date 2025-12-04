@@ -1,0 +1,89 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,0,open window,"open window
+
+
+You can't see any window here!
+
+",,,,False,,2025-12-04T00:12:36.928807,644,2
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,1,west,"west
+
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",,,,False,,2025-12-04T00:12:38.845696,658,1
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,2,east,"east
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T00:12:40.766050,693,1
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,3,look,"look
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",,,,False,,2025-12-04T00:12:42.722814,744,1
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,4,climb tree,"climb tree
+
+
+Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The
+nearest branch above you is above your reach.
+Beside you on the branch is a small bird's nest.
+In the bird's nest is a large egg encrusted with precious jewels, apparently
+scavenged by a childless songbird. The egg is covered with fine gold inlay, and
+ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is
+hinged and closed with a delicate looking clasp. The egg appears extremely
+fragile.
+
+",,,,False,,2025-12-04T00:12:44.782956,795,3
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,5,open egg,"open egg
+
+
+You have neither the tools nor the expertise.
+
+",,,,False,,2025-12-04T00:12:46.730417,930,2
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,6,take egg,"take egg
+
+
+Taken.
+
+",,,,False,,2025-12-04T00:12:48.628951,932,2
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,7,climb down,"climb down
+
+
+(down the tree)
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",,,,False,,2025-12-04T00:12:50.655843,911,3
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,8,north,"north
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+On the ground is a pile of leaves.
+
+",,,,False,,2025-12-04T00:12:52.795547,893,1
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,9,take leaves,"take leaves
+
+
+In disturbing the pile of leaves, a grating is revealed.
+Taken.
+
+",,,,False,,2025-12-04T00:12:54.870530,885,2
+62cec794-ad06-42b6-ac0e-57b1c4f9f080,47b47cbc-8a88-4eee-bdf5-89d53a7387fc,0,gpt-4.1-mini,10,open grating,"open grating
+
+
+The grating is locked.
+
+",,,,False,,2025-12-04T00:12:56.762959,777,3
