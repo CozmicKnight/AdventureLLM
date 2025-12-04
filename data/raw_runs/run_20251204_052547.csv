@@ -1,0 +1,481 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T05:25:54.896244,743,138
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T05:25:59.811224,779,203
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,2,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T05:26:10.355386,799,458
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,3,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,0,,False,,2025-12-04T05:26:21.486074,850,458
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,4,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,0,,False,,2025-12-04T05:26:31.805776,898,395
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,5,score,"score
+Your score is 0 (total of 350 points), in 5 moves.
+This gives you the rank of Beginner.
+
+",0,5,,False,,2025-12-04T05:26:37.248185,924,138
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,6,enter,"enter
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,5,,False,,2025-12-04T05:26:47.807388,959,330
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,7,take all,"take all
+
+
+brown sack: Taken.
+glass bottle: Taken.
+
+",0,5,,False,,2025-12-04T05:26:53.562571,1067,139
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,8,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",0,5,,False,,2025-12-04T05:27:16.246839,1089,330
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,9,take lantern,"take lantern
+
+
+Taken.
+
+",0,5,,False,,2025-12-04T05:27:24.427587,1180,203
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,10,score,"score
+Your score is 10 (total of 350 points), in 9 moves.
+This gives you the rank of Beginner.
+
+",10,9,,False,,2025-12-04T05:27:33.300620,1194,331
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,11,take sword,"take sword
+
+
+Taken.
+
+",10,9,,False,,2025-12-04T05:27:40.702439,1229,203
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,12,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",10,9,,False,,2025-12-04T05:27:48.901127,1243,267
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,13,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",10,9,,False,,2025-12-04T05:27:56.715884,1283,268
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,14,turn on lantern,"turn on lantern
+
+
+The brass lantern is now on.
+
+",10,9,,False,,2025-12-04T05:28:15.194606,1314,524
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,15,score,"score
+Your score is 10 (total of 350 points), in 13 moves.
+This gives you the rank of Beginner.
+
+",10,13,,False,,2025-12-04T05:28:20.511469,1335,138
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,16,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+Your sword is glowing with a faint blue glow.
+
+",10,13,,False,,2025-12-04T05:28:26.710581,1370,138
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,17,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+The troll swings his axe, but it misses.
+
+",10,13,,False,,2025-12-04T05:28:43.714701,1451,714
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,18,attack troll with sword,"attack troll with sword
+
+
+The troll is confused and can't fight back.
+The troll slowly regains his feet.
+
+",10,13,,False,,2025-12-04T05:28:51.728027,1543,269
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,19,attack troll with sword,"attack troll with sword
+
+
+It's curtains for the troll as your sword removes his head.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+",10,13,,False,,2025-12-04T05:28:59.447517,1576,269
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,20,score,"score
+Your score is 35 (total of 350 points), in 17 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,17,,False,,2025-12-04T05:29:28.067186,1646,906
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,21,east,"east
+
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+",35,17,,False,,2025-12-04T05:29:46.752680,1683,778
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,22,down,"down
+
+
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the
+south side of the chasm, where a crack opens into a passage.
+
+",35,17,,False,,2025-12-04T05:30:13.365840,1723,1098
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,23,southwest,"southwest
+
+
+East-West Passage
+
+",35,17,,False,,2025-12-04T05:30:45.017035,1769,1163
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,24,east,"east
+
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+",35,17,,False,,2025-12-04T05:31:30.180044,1783,1738
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,25,score,"score
+Your score is 40 (total of 350 points), in 21 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,21,,False,,2025-12-04T05:31:45.414831,1820,586
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,26,north,"north
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",40,21,,False,,2025-12-04T05:32:08.782267,1857,1162
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,27,northeast,"northeast
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",40,21,,False,,2025-12-04T05:32:57.833544,1887,1292
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,28,down,"down
+
+
+Loud Room
+This is a large room with a ceiling which cannot be detected from the ground.
+There is a narrow passage from east to west and a stone stairway leading upward.
+The room is deafeningly loud with an undetermined rushing sound. The sound seems
+to reverberate from all of the walls, making it difficult even to think.
+On the ground is a large platinum bar.
+
+",40,21,,False,,2025-12-04T05:33:06.483469,1943,330
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,29,up,"up
+
+
+Deep Canyon
+
+",40,21,,False,,2025-12-04T05:33:28.584910,2034,906
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,30,score,"score
+Your score is 40 (total of 350 points), in 24 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,24,,False,,2025-12-04T05:33:39.957394,2047,394
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,31,east,"east
+
+
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a
+tourist attraction in times far distant. There are paths to the north, south,
+and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide
+reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly
+above the bolt is a small green plastic bubble.
+
+",40,24,,False,,2025-12-04T05:33:56.729425,2084,778
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,32,north,"north
+
+
+Dam Lobby
+This room appears to have been the waiting room for groups touring the dam.
+There are open doorways here to the north and east marked ""Private"", and there
+is a path leading south over the top of the dam.
+Some guidebooks entitled ""Flood Control Dam #3"" are on the reception desk.
+There is a matchbook whose cover says ""Visit Beautiful FCD#3"" here.
+
+",40,24,,False,,2025-12-04T05:34:26.466962,2205,1034
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,33,take matchbook,"take matchbook
+
+
+Taken.
+
+",40,24,,False,,2025-12-04T05:35:00.537797,2298,1036
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,34,east,"east
+
+
+Maintenance Room
+This is what appears to have been the maintenance room for Flood Control Dam #3.
+Apparently, this room has been ransacked recently, for most of the valuable
+equipment is gone. On the wall in front of you is a group of buttons colored
+blue, yellow, brown, and red. There are doorways to the west and south.
+There is a group of tool chests here.
+There is a wrench here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+
+",40,24,,False,,2025-12-04T05:35:56.721187,2314,1162
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,35,score,"score
+Your score is 40 (total of 350 points), in 28 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,28,,False,,2025-12-04T05:36:12.026865,2433,651
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,36,take all,"take all
+
+
+group of tool chests: The chests are so rusty and corroded that they crumble
+when you touch them.
+wrench: Taken.
+tube: Taken.
+screwdriver: Taken.
+
+",40,28,,False,,2025-12-04T05:36:46.090537,2470,1291
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,37,west,"west
+
+
+Dam Lobby
+Some guidebooks entitled ""Flood Control Dam #3"" are on the reception desk.
+
+",40,28,,False,,2025-12-04T05:37:24.983633,2522,1226
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,38,read guidebook,"read guidebook
+
+
+"" Flood Control Dam #3
+
+FCD#3 was constructed in year 783 of the Great Underground Empire to harness the
+mighty Frigid River. This work was supported by a grant of 37 million zorkmids
+from your omnipotent local tyrant Lord Dimwit Flathead the Excessive. This
+impressive structure is composed of 370,000 cubic feet of concrete, is 256 feet
+tall at the center, and 193 feet wide at the top. The lake created behind the
+dam has a volume of 1.7 billion cubic feet, an area of 12 million square feet,
+and a shore line of 36 thousand feet.
+
+We will now point out some of the more interesting features of FCD#3 as we
+conduct you on a guided tour of the facilities:
+        1) You start your tour here in the Dam Lobby. You will notice on your
+right that....
+
+",40,28,,False,,2025-12-04T05:37:36.627390,2552,396
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,39,south,"south
+
+
+Dam
+
+",40,28,,False,,2025-12-04T05:38:26.317383,2759,1866
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,40,score,"score
+Your score is 40 (total of 350 points), in 32 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,32,,False,,2025-12-04T05:39:03.357441,2771,1546
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,41,turn bolt with wrench,"turn bolt with wrench
+
+
+The bolt won't turn with your best effort.
+
+",40,32,,False,,2025-12-04T05:39:36.378605,2808,845
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,42,open tube,"open tube
+
+
+Opening the tube reveals a viscous material.
+
+",40,32,,False,,2025-12-04T05:40:03.619492,2833,1099
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,43,north,"north
+
+
+Dam Lobby
+Some guidebooks entitled ""Flood Control Dam #3"" are on the reception desk.
+
+",40,32,,False,,2025-12-04T05:40:36.972315,2854,1354
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,44,east,"east
+
+
+Maintenance Room
+
+",40,32,,False,,2025-12-04T05:41:21.867513,2884,1482
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,45,score,"score
+Your score is 40 (total of 350 points), in 36 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,36,,False,,2025-12-04T05:42:09.289279,2897,1546
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,46,west,"west
+
+
+Dam Lobby
+Some guidebooks entitled ""Flood Control Dam #3"" are on the reception desk.
+
+",40,36,,False,,2025-12-04T05:43:16.150881,2934,2058
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,47,south,"south
+
+
+Dam
+
+",40,36,,False,,2025-12-04T05:44:19.345480,2964,1866
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,48,down,"down
+
+
+Dam Base
+You are at the base of Flood Control Dam #3, which looms above you and to the
+north. The river Frigid is flowing by here. Along the river are the White Cliffs
+which seem to form giant walls stretching from north to south along the shores
+of the river as it winds its way downstream.
+There is a folded pile of plastic here which has a small valve attached.
+
+",40,36,,False,,2025-12-04T05:45:23.169352,2976,1674
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,49,take pile of plastic,"take pile of plastic
+
+
+Your load is too heavy.
+
+",40,36,,False,,2025-12-04T05:45:46.758626,3070,973
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,50,score,"score
+Your score is 40 (total of 350 points), in 40 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,40,,False,,2025-12-04T05:46:47.583077,3092,2123
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,51,drop screwdriver,"drop screwdriver
+
+
+Dropped.
+
+",40,40,,False,,2025-12-04T05:47:37.416492,3129,1867
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,52,take pile of plastic,"take pile of plastic
+
+
+Your load is too heavy.
+
+",40,40,,False,,2025-12-04T05:48:03.362520,3143,845
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,53,drop wrench,"drop wrench
+
+
+Dropped.
+
+",40,40,,False,,2025-12-04T05:48:50.543185,3165,1547
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,54,take wrench,"take wrench
+
+
+Taken.
+
+",40,40,,False,,2025-12-04T05:49:34.088500,3179,1995
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,55,score,"score
+Your score is 40 (total of 350 points), in 44 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,44,,False,,2025-12-04T05:51:15.243834,3193,2378
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,56,drop tube,"drop tube
+
+
+Dropped.
+
+",40,44,,False,,2025-12-04T05:52:13.865775,3230,1739
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,57,drop brown sack,"drop brown sack
+
+
+Dropped.
+
+",40,44,,False,,2025-12-04T05:52:59.511361,3244,1612
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,58,take pile of plastic,"take pile of plastic
+
+
+Taken.
+
+",40,44,,False,,2025-12-04T05:53:28.212034,3260,653
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,59,up,"up
+
+
+Dam
+
+",40,44,,False,,2025-12-04T05:54:02.154486,3278,1546
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,60,score,"score
+Your score is 40 (total of 350 points), in 48 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,48,,False,,2025-12-04T05:54:44.940784,3290,2122
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,61,north,"north
+
+
+Dam Lobby
+Some guidebooks entitled ""Flood Control Dam #3"" are on the reception desk.
+
+",40,48,,False,,2025-12-04T05:55:29.167796,3327,1994
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,62,south,"south
+
+
+Dam
+
+",40,48,,False,,2025-12-04T05:55:59.538526,3357,1162
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,63,north,"north
+
+
+Dam Lobby
+Some guidebooks entitled ""Flood Control Dam #3"" are on the reception desk.
+
+",40,48,,False,,2025-12-04T05:56:30.258209,3369,842
+803088f3-b946-40b7-963f-0d896804cd81,a0b2c8b5-34a8-4cc8-aac2-68f4a69274d3,0,gpt-5,64,north,"north
+
+
+Maintenance Room
+
+",40,48,,False,,2025-12-04T05:57:01.495092,3399,1226

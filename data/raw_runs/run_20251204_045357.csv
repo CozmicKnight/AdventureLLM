@@ -1,0 +1,487 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T04:54:09.326671,748,74
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T04:54:14.264460,784,139
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,2,read leaflet,"read leaflet
+
+
+(Taken)
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",0,0,,False,,2025-12-04T04:54:21.910696,804,203
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,3,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T04:54:28.828162,867,202
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,4,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,0,,False,,2025-12-04T04:54:42.121561,918,586
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,5,score,"score
+Your score is 0 (total of 350 points), in 5 moves.
+This gives you the rank of Beginner.
+
+",0,5,,False,,2025-12-04T04:55:02.156215,966,715
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,6,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,5,,False,,2025-12-04T04:55:08.759198,1001,267
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,7,enter,"enter
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,5,,False,,2025-12-04T04:55:14.095396,1027,138
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,8,take all,"take all
+
+
+brown sack: Taken.
+glass bottle: Taken.
+
+",0,5,,False,,2025-12-04T04:55:34.977339,1135,779
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,9,open sack,"open sack
+
+
+Opening the brown sack reveals a lunch, and a clove of garlic.
+
+",0,5,,False,,2025-12-04T04:55:39.614576,1157,139
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,10,score,"score
+Your score is 10 (total of 350 points), in 9 moves.
+This gives you the rank of Beginner.
+
+",10,9,,False,,2025-12-04T04:55:49.687864,1184,394
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,11,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",10,9,,False,,2025-12-04T04:55:56.119886,1219,202
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,12,take all,"take all
+
+
+trophy case: The trophy case is securely fastened to the wall.
+sword: Taken.
+brass lantern: Taken.
+carpet: The rug is extremely heavy and cannot be carried.
+
+",10,9,,False,,2025-12-04T04:56:17.467196,1310,843
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,13,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",10,9,,False,,2025-12-04T04:56:23.233537,1361,139
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,14,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",10,9,,False,,2025-12-04T04:56:36.371809,1401,460
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,15,score,"score
+Your score is 10 (total of 350 points), in 13 moves.
+This gives you the rank of Beginner.
+
+",10,13,,False,,2025-12-04T04:56:45.795394,1432,332
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,16,turn on lantern,"turn on lantern
+
+
+The brass lantern is now on.
+
+",10,13,,False,,2025-12-04T04:56:59.129977,1467,652
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,17,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+Your sword is glowing with a faint blue glow.
+
+",10,13,,False,,2025-12-04T04:57:06.078731,1488,138
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,18,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",10,13,,False,,2025-12-04T04:57:19.668884,1569,522
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,19,attack troll with sword,"attack troll with sword
+
+
+Clang! Crash! The troll parries.
+The axe sweeps past as you jump aside.
+
+",10,13,,False,,2025-12-04T04:57:28.155064,1651,333
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,20,score,"score
+Your score is 35 (total of 350 points), in 17 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,17,,False,,2025-12-04T04:57:35.586139,1687,269
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,21,attack troll with sword,"attack troll with sword
+
+
+A good slash, but it misses the troll by a mile.
+The axe crashes against the rock, throwing sparks!
+
+",35,17,,False,,2025-12-04T04:57:48.543100,1724,589
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,22,attack troll with sword,"attack troll with sword
+
+
+A furious exchange, and the troll is knocked out!
+
+",35,17,,False,,2025-12-04T04:58:06.871847,1763,525
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,23,east,"east
+
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+Your sword is glowing with a faint blue glow.
+
+",35,17,,False,,2025-12-04T04:58:22.397649,1790,650
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,24,east,"east
+
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+Your sword is no longer glowing.
+
+",35,17,,False,,2025-12-04T04:58:52.754117,1840,1162
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,25,score,"score
+Your score is 40 (total of 350 points), in 21 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,21,,False,,2025-12-04T04:59:19.776610,1884,1162
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,26,north,"north
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",40,21,,False,,2025-12-04T04:59:42.122491,1921,1162
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,27,northeast,"northeast
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",40,21,,False,,2025-12-04T04:59:59.200170,1951,780
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,28,down,"down
+
+
+Loud Room
+This is a large room with a ceiling which cannot be detected from the ground.
+There is a narrow passage from east to west and a stone stairway leading upward.
+The room is deafeningly loud with an undetermined rushing sound. The sound seems
+to reverberate from all of the walls, making it difficult even to think.
+On the ground is a large platinum bar.
+
+",40,21,,False,,2025-12-04T05:00:15.692133,2007,842
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,29,west,"west
+
+
+Round Room
+
+",40,21,,False,,2025-12-04T05:00:52.410514,2098,1610
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,30,score,"score
+Your score is 40 (total of 350 points), in 24 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,24,,False,,2025-12-04T05:01:16.750363,2111,1226
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,31,south,"south
+
+
+Narrow Passage
+This is a long and narrow corridor where a long north-south passageway briefly
+narrows even further.
+
+",40,24,,False,,2025-12-04T05:02:01.374749,2148,2698
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,32,south,"south
+
+
+Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an
+enormous mirror which fills the entire wall. There are exits on the other three
+sides of the room.
+
+",40,24,,False,,2025-12-04T05:02:18.589552,2184,650
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,33,examine mirror,"examine mirror
+
+
+There is an ugly person staring back at you.
+
+",40,24,,False,,2025-12-04T05:02:54.596620,2239,1036
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,34,west,"west
+
+
+Winding Passage
+This is a winding passage. It seems that there are only exits on the east and
+north.
+
+",40,24,,False,,2025-12-04T05:03:10.710134,2261,522
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,35,score,"score
+Your score is 40 (total of 350 points), in 28 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,28,,False,,2025-12-04T05:03:21.312391,2295,330
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,36,north,"north
+
+
+Mirror Room
+
+",40,28,,False,,2025-12-04T05:03:32.154529,2332,330
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,37,east,"east
+
+
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+Your sword is glowing with a faint blue glow.
+
+",40,28,,False,,2025-12-04T05:03:46.057017,2345,650
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,38,down,"down
+
+
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+The way through the gate is barred by evil spirits, who jeer at your attempts to
+pass.
+Your sword has begun to glow very brightly.
+
+",40,28,,False,,2025-12-04T05:04:01.873618,2392,587
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,39,up,"up
+
+
+Cave
+Your sword is glowing with a faint blue glow.
+
+",40,28,,False,,2025-12-04T05:04:11.519504,2505,458
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,40,score,"score
+Your score is 40 (total of 350 points), in 32 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,32,,False,,2025-12-04T05:04:23.991501,2528,522
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,41,north,"north
+
+
+Mirror Room
+Your sword is no longer glowing.
+
+",40,32,,False,,2025-12-04T05:05:04.691763,2565,1483
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,42,north,"north
+
+
+Narrow Passage
+
+",40,32,,False,,2025-12-04T05:05:41.933638,2585,1354
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,43,north,"north
+
+
+Round Room
+
+",40,32,,False,,2025-12-04T05:05:56.047420,2599,458
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,44,southeast,"southeast
+
+
+Engravings Cave
+You have entered a low cave with passages leading northwest and east.
+There are old engravings on the walls here.
+
+",40,32,,False,,2025-12-04T05:06:29.355473,2612,1548
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,45,score,"score
+Your score is 40 (total of 350 points), in 36 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,36,,False,,2025-12-04T05:06:36.162018,2650,204
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,46,east,"east
+
+
+Dome Room
+You are at the periphery of a large dome, which forms the ceiling of another
+room below. Protecting you from a precipitous drop is a wooden railing which
+circles the dome.
+
+",40,36,,False,,2025-12-04T05:06:54.912121,2687,842
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,47,west,"west
+
+
+Engravings Cave
+There are old engravings on the walls here.
+
+",40,36,,False,,2025-12-04T05:07:23.195580,2741,1546
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,48,read engravings,"read engravings
+
+
+The engravings were incised in the living rock of the cave wall by an unknown
+hand. They depict, in symbolic form, the beliefs of the ancient Zorkers.
+Skillfully interwoven with the bas reliefs are excerpts illustrating the major
+religious tenets of that time. Unfortunately, a later age seems to have
+considered them blasphemous and just as skillfully excised them.
+
+",40,36,,False,,2025-12-04T05:07:41.757698,2766,716
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,49,northwest,"northwest
+
+
+Round Room
+
+",40,36,,False,,2025-12-04T05:08:20.939685,2864,1099
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,50,score,"score
+Your score is 40 (total of 350 points), in 40 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,40,,False,,2025-12-04T05:09:00.522341,2877,1354
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,51,northeast,"northeast
+
+
+You can't go that way.
+
+",40,40,,False,,2025-12-04T05:09:17.774596,2914,716
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,52,north,"north
+
+
+North-South Passage
+
+",40,40,,False,,2025-12-04T05:10:35.981796,2930,2314
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,53,north,"north
+
+
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the
+south side of the chasm, where a crack opens into a passage.
+
+",40,40,,False,,2025-12-04T05:10:53.674228,2945,778
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,54,northeast,"northeast
+
+
+Reservoir South
+You are in a long room on the south shore of a large lake, far too deep and wide
+for crossing.
+There is a path along the stream to the east or west, a steep pathway climbing
+southwest along the edge of a chasm, and a path leading into a canyon to the
+southeast.
+
+",40,40,,False,,2025-12-04T05:11:25.672106,2991,1164
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,55,score,"score
+Your score is 40 (total of 350 points), in 44 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,44,,False,,2025-12-04T05:11:42.547513,3071,586
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,56,southeast,"southeast
+
+
+Deep Canyon
+
+",40,44,,False,,2025-12-04T05:12:04.364784,3108,844
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,57,down,"down
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",40,44,,False,,2025-12-04T05:12:31.922389,3121,1098
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,58,east,"east
+
+
+Damp Cave
+This cave has exits to the west and east, and narrows to a crack toward the
+south. The earth is particularly damp here.
+
+",40,44,,False,,2025-12-04T05:12:52.542495,3144,970
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,59,east,"east
+
+
+White Cliffs Beach
+You are on a narrow strip of beach which runs along the base of the White
+Cliffs. There is a narrow path heading south along the Cliffs and a tight
+passage leading west into the cliffs themselves.
+
+",40,44,,False,,2025-12-04T05:13:13.104011,3186,650
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,60,score,"score
+Your score is 40 (total of 350 points), in 47 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,47,,False,,2025-12-04T05:13:34.741899,3245,1226
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,61,south,"south
+
+
+White Cliffs Beach
+You are on a rocky, narrow strip of beach beside the Cliffs. A narrow path leads
+north along the shore.
+
+",40,47,,False,,2025-12-04T05:13:43.418136,3282,394
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,62,north,"north
+
+
+White Cliffs Beach
+
+",40,47,,False,,2025-12-04T05:14:27.177253,3322,1226
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,63,west,"west
+
+
+Damp Cave
+
+",40,47,,False,,2025-12-04T05:15:08.613897,3337,1418
+bb9cad43-b415-4164-953c-4808d60711a7,e496b95c-b868-40fd-ac51-a7aeaa30c5c2,0,gpt-5,64,west,"west
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",40,47,,False,,2025-12-04T05:15:41.423288,3351,1418

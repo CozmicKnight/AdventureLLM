@@ -1,0 +1,4634 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,0,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T05:57:39.786636,782,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,1,enter window,"enter window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T05:57:43.214662,796,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,2,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T05:57:46.556493,815,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,3,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T05:57:49.599777,856,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,4,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T05:57:52.985568,876,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,5,score,"score
+Your score is 0 (total of 350 points), in 5 moves.
+This gives you the rank of Beginner.
+
+",0,5,,False,,2025-12-04T05:57:55.993676,890,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,6,open door,"open door
+
+
+The door cannot be opened.
+
+",0,5,,False,,2025-12-04T05:57:59.043220,925,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,7,look at door,"look at door
+
+
+The door is closed.
+
+",0,5,,False,,2025-12-04T05:58:02.406515,943,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,8,look at window,"look at window
+
+
+You can't see any window here!
+
+",0,5,,False,,2025-12-04T05:58:05.392506,962,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,9,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,5,,False,,2025-12-04T05:58:08.376173,983,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,10,score,"score
+Your score is 0 (total of 350 points), in 9 moves.
+This gives you the rank of Beginner.
+
+",0,9,,False,,2025-12-04T05:58:11.368664,1034,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,11,south,"south
+
+
+The windows are all boarded.
+
+",0,9,,False,,2025-12-04T05:58:14.404741,1069,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,12,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,9,,False,,2025-12-04T05:58:17.383605,1085,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,13,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,9,,False,,2025-12-04T05:58:20.254431,1133,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,14,enter window,"enter window
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,9,,False,,2025-12-04T05:58:23.252073,1159,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,15,score,"score
+Your score is 10 (total of 350 points), in 13 moves.
+This gives you the rank of Beginner.
+
+",10,13,,False,,2025-12-04T05:58:26.199464,1269,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,16,get sack,"get sack
+
+
+Taken.
+
+",10,13,,False,,2025-12-04T05:58:29.646633,1304,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,17,get bottle,"get bottle
+
+
+Taken.
+
+",10,13,,False,,2025-12-04T05:58:32.687132,1318,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,18,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",10,13,,False,,2025-12-04T05:58:36.118494,1332,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,19,down,"down
+
+
+Kitchen
+
+",10,13,,False,,2025-12-04T05:58:39.471348,1366,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,20,score,"score
+Your score is 10 (total of 350 points), in 17 moves.
+This gives you the rank of Beginner.
+
+",10,17,,False,,2025-12-04T05:58:42.896688,1378,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,21,light bottle,"light bottle
+
+
+You can't turn that on.
+
+",10,17,,False,,2025-12-04T05:58:45.981381,1413,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,22,light sack,"light sack
+
+
+You can't turn that on.
+
+",10,17,,False,,2025-12-04T05:58:49.043689,1431,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,23,examine sack,"examine sack
+
+
+The brown sack is closed.
+
+",10,17,,False,,2025-12-04T05:58:52.068447,1449,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,24,open sack,"open sack
+
+
+Opening the brown sack reveals a lunch, and a clove of garlic.
+
+",10,17,,False,,2025-12-04T05:58:55.055951,1467,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,25,score,"score
+Your score is 10 (total of 350 points), in 21 moves.
+This gives you the rank of Beginner.
+
+",10,21,,False,,2025-12-04T05:58:58.116603,1494,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,26,get lunch,"get lunch
+
+
+Taken.
+
+",10,21,,False,,2025-12-04T05:59:01.478024,1529,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,27,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",10,21,,False,,2025-12-04T05:59:04.914304,1543,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,28,down,"down
+
+
+Kitchen
+
+",10,21,,False,,2025-12-04T05:59:08.445569,1577,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,29,light lunch,"light lunch
+
+
+You can't turn that on.
+
+",10,21,,False,,2025-12-04T05:59:11.511817,1589,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,30,score,"score
+Your score is 10 (total of 350 points), in 25 moves.
+This gives you the rank of Beginner.
+
+",10,25,,False,,2025-12-04T05:59:14.547431,1607,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,31,light bottle,"light bottle
+
+
+You can't turn that on.
+
+",10,25,,False,,2025-12-04T05:59:17.661586,1642,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,32,light lamp,"light lamp
+You don't have that!
+
+",10,25,,False,,2025-12-04T05:59:21.111845,1660,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,33,inventory,"inventory
+
+
+You are carrying:
+  A lunch
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A leaflet
+
+",10,25,,False,,2025-12-04T05:59:24.151539,1677,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,34,open sack,"open sack
+
+
+It is already open.
+
+",10,25,,False,,2025-12-04T05:59:27.453768,1734,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,35,score,"score
+Your score is 10 (total of 350 points), in 28 moves.
+This gives you the rank of Beginner.
+
+",10,28,,False,,2025-12-04T05:59:30.390552,1751,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,36,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",10,28,,False,,2025-12-04T05:59:33.334442,1786,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,37,get lantern,"get lantern
+
+
+Taken.
+
+",10,28,,False,,2025-12-04T05:59:36.329031,1877,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,38,light lantern,"light lantern
+
+
+The brass lantern is now on.
+
+",10,28,,False,,2025-12-04T05:59:39.411517,1891,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,39,up,"up
+
+
+You can't go that way.
+
+",10,28,,False,,2025-12-04T05:59:42.421558,1910,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,40,score,"score
+Your score is 10 (total of 350 points), in 32 moves.
+This gives you the rank of Beginner.
+
+",10,32,,False,,2025-12-04T05:59:45.467113,1926,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,41,east,"east
+
+
+Kitchen
+
+",10,32,,False,,2025-12-04T05:59:48.510236,1961,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,42,up,"up
+
+
+Attic
+This is the attic. The only exit is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+
+",10,32,,False,,2025-12-04T05:59:51.544353,1973,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,43,get rope,"get rope
+
+
+Taken.
+
+",10,32,,False,,2025-12-04T05:59:54.506115,2021,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,44,get knife,"get knife
+
+
+Taken.
+
+",10,32,,False,,2025-12-04T05:59:57.560751,2035,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,45,score,"score
+Your score is 10 (total of 350 points), in 36 moves.
+This gives you the rank of Beginner.
+
+",10,36,,False,,2025-12-04T06:00:00.532710,2049,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,46,down,"down
+
+
+Kitchen
+
+",10,36,,False,,2025-12-04T06:00:03.573728,2084,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,47,west,"west
+
+
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+
+",10,36,,False,,2025-12-04T06:00:06.585082,2096,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,48,get sword,"get sword
+
+
+Taken.
+
+",10,36,,False,,2025-12-04T06:00:09.569451,2124,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,49,west,"west
+
+
+The door is nailed shut.
+
+",10,36,,False,,2025-12-04T06:00:12.537864,2138,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,50,score,"score
+Your score is 10 (total of 350 points), in 40 moves.
+This gives you the rank of Beginner.
+
+",10,40,,False,,2025-12-04T06:00:16.055310,2154,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,51,move door,"move door
+
+
+You can't move the wooden door.
+
+",10,40,,False,,2025-12-04T06:00:19.106961,2189,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,52,attack door with knife,"attack door with knife
+
+
+I've known strange people, but fighting a wooden door?
+
+",10,40,,False,,2025-12-04T06:00:22.299681,2208,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,53,examine rug,"examine rug
+
+
+There's nothing special about the carpet.
+
+",10,40,,False,,2025-12-04T06:00:25.370312,2235,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,54,move trophy case,"move trophy case
+
+
+You can't move the trophy case.
+
+",10,40,,False,,2025-12-04T06:00:28.491580,2254,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,55,score,"score
+Your score is 10 (total of 350 points), in 44 moves.
+This gives you the rank of Beginner.
+
+",10,44,,False,,2025-12-04T06:00:31.564131,2275,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,56,examine sword,"examine sword
+
+
+There's nothing special about the sword.
+
+",10,44,,False,,2025-12-04T06:00:35.009857,2310,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,57,look at rug,"look at rug
+
+
+There's nothing special about the carpet.
+
+",10,44,,False,,2025-12-04T06:00:38.560286,2329,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,58,west,"west
+
+
+The door is nailed shut.
+
+",10,44,,False,,2025-12-04T06:00:41.560678,2350,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,59,attack door with sword,"attack door with sword
+
+
+I've known strange people, but fighting a wooden door?
+
+",10,44,,False,,2025-12-04T06:00:44.554175,2366,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,60,score,"score
+Your score is 10 (total of 350 points), in 48 moves.
+This gives you the rank of Beginner.
+
+",10,48,,False,,2025-12-04T06:00:47.595419,2393,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,61,southwest,"southwest
+
+
+You can't go that way.
+
+",10,48,,False,,2025-12-04T06:00:50.675436,2428,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,62,down,"down
+
+
+You can't go that way.
+
+",10,48,,False,,2025-12-04T06:00:53.623520,2444,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,63,east,"east
+
+
+Kitchen
+
+",10,48,,False,,2025-12-04T06:00:56.633662,2460,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,64,northwest,"northwest
+
+
+You can't go that way.
+
+",10,48,,False,,2025-12-04T06:00:59.498637,2472,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,65,score,"score
+Your score is 10 (total of 350 points), in 52 moves.
+This gives you the rank of Beginner.
+
+",10,52,,False,,2025-12-04T06:01:03.620506,2488,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,66,southwest,"southwest
+
+
+You can't go that way.
+
+",10,52,,False,,2025-12-04T06:01:06.698973,2523,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,67,north,"north
+
+
+You can't go that way.
+
+",10,52,,False,,2025-12-04T06:01:09.786687,2539,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,68,open bottle,"open bottle
+
+
+Opened.
+
+",10,52,,False,,2025-12-04T06:01:13.213487,2555,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,69,put garlic in bottle,"put garlic in bottle
+
+
+There's no room.
+
+",10,52,,False,,2025-12-04T06:01:16.263219,2569,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,70,score,"score
+Your score is 10 (total of 350 points), in 56 moves.
+This gives you the rank of Beginner.
+
+",10,56,,False,,2025-12-04T06:01:19.279425,2589,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,71,drop garlic,"drop garlic
+
+
+Dropped.
+
+",10,56,,False,,2025-12-04T06:01:22.846843,2624,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,72,get garlic,"get garlic
+
+
+You're holding too many things already!
+
+",10,56,,False,,2025-12-04T06:01:25.875183,2638,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,73,drop lunch,"drop lunch
+
+
+Dropped.
+
+",10,56,,False,,2025-12-04T06:01:28.873297,2657,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,74,drop sack,"drop sack
+
+
+Dropped.
+
+",10,56,,False,,2025-12-04T06:01:31.901488,2671,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,75,score,"score
+Your score is 10 (total of 350 points), in 60 moves.
+This gives you the rank of Beginner.
+
+",10,60,,False,,2025-12-04T06:01:34.890729,2685,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,76,put garlic in bottle,"put garlic in bottle
+You don't have the clove of garlic.
+
+",10,60,,False,,2025-12-04T06:01:38.218488,2720,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,77,get garlic,"get garlic
+
+
+Taken.
+
+",10,60,,False,,2025-12-04T06:01:41.236603,2745,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,78,put garlic in bottle,"put garlic in bottle
+
+
+There's no room.
+
+",10,60,,False,,2025-12-04T06:01:44.338415,2759,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,79,drop bottle,"drop bottle
+
+
+Dropped.
+
+",10,60,,False,,2025-12-04T06:01:47.366665,2779,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,80,score,"score
+Your score is 10 (total of 350 points), in 63 moves.
+This gives you the rank of Beginner.
+
+",10,63,,False,,2025-12-04T06:01:50.362166,2793,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,81,put garlic in sack,"put garlic in sack
+
+
+Done.
+
+",10,63,,False,,2025-12-04T06:01:53.385608,2828,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,82,get bottle,"get bottle
+
+
+Taken.
+
+",10,63,,False,,2025-12-04T06:01:56.454902,2846,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,83,west,"west
+
+
+Living Room
+
+",10,63,,False,,2025-12-04T06:01:59.464475,2860,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,84,open lantern,"open lantern
+
+
+You must tell me how to do that to a brass lantern.
+
+",10,63,,False,,2025-12-04T06:02:02.508734,2873,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,85,score,"score
+Your score is 10 (total of 350 points), in 67 moves.
+This gives you the rank of Beginner.
+
+",10,67,,False,,2025-12-04T06:02:05.608525,2898,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,86,west,"west
+
+
+The door is nailed shut.
+
+",10,67,,False,,2025-12-04T06:02:08.616772,2933,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,87,examine trophy case,"examine trophy case
+
+
+The trophy case is empty.
+
+",10,67,,False,,2025-12-04T06:02:11.645255,2949,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,88,southwest,"southwest
+
+
+You can't go that way.
+
+",10,67,,False,,2025-12-04T06:02:14.694357,2969,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,89,down,"down
+
+
+You can't go that way.
+
+",10,67,,False,,2025-12-04T06:02:17.717600,2985,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,90,score,"score
+Your score is 10 (total of 350 points), in 71 moves.
+This gives you the rank of Beginner.
+
+",10,71,,False,,2025-12-04T06:02:20.731571,3001,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,91,inventory,"inventory
+
+
+You are carrying:
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A sword
+  A nasty knife
+  A rope
+  A brass lantern (providing light)
+  A leaflet
+
+",10,71,,False,,2025-12-04T06:02:24.114353,3036,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,92,east,"east
+
+
+Kitchen
+There is a brown sack here.
+The brown sack contains:
+  A clove of garlic
+A hot pepper sandwich is here.
+
+",10,71,,False,,2025-12-04T06:02:27.221081,3093,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,93,get sandwich,"get sandwich
+
+
+Taken.
+
+",10,71,,False,,2025-12-04T06:02:30.386532,3131,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,94,eat sandwich,"eat sandwich
+
+
+Thank you very much. It really hit the spot.
+
+",10,71,,False,,2025-12-04T06:02:33.389396,3145,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,95,score,"score
+Your score is 10 (total of 350 points), in 75 moves.
+This gives you the rank of Beginner.
+
+",10,75,,False,,2025-12-04T06:02:36.371206,3168,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,96,up,"up
+
+
+Attic
+There is a table here.
+
+",10,75,,False,,2025-12-04T06:02:39.807680,3203,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,97,examine table,"examine table
+
+
+The table is empty.
+
+",10,75,,False,,2025-12-04T06:02:42.923674,3222,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,98,down,"down
+
+
+Kitchen
+There is a brown sack here.
+The brown sack contains:
+  A clove of garlic
+
+",10,75,,False,,2025-12-04T06:02:46.537793,3239,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,99,get sack,"get sack
+
+
+Taken.
+
+",10,75,,False,,2025-12-04T06:02:49.770527,3270,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,100,score,"score
+Your score is 10 (total of 350 points), in 79 moves.
+This gives you the rank of Beginner.
+
+",10,79,,False,,2025-12-04T06:02:53.145835,3284,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,101,west,"west
+
+
+Living Room
+
+",10,79,,False,,2025-12-04T06:02:56.040867,3319,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,102,open lantern,"open lantern
+
+
+You must tell me how to do that to a brass lantern.
+
+",10,79,,False,,2025-12-04T06:02:59.066173,3332,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,103,west,"west
+
+
+The door is nailed shut.
+
+",10,79,,False,,2025-12-04T06:03:02.486320,3357,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,104,attack door with sword,"attack door with sword
+
+
+I've known strange people, but fighting a wooden door?
+
+",10,79,,False,,2025-12-04T06:03:05.952527,3373,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,105,score,"score
+Your score is 10 (total of 350 points), in 83 moves.
+This gives you the rank of Beginner.
+
+",10,83,,False,,2025-12-04T06:03:08.932485,3400,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,106,throw rope at door,"throw rope at door
+
+
+Thrown.
+
+",10,83,,False,,2025-12-04T06:03:12.020274,3435,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,107,west,"west
+
+
+The door is nailed shut.
+
+",10,83,,False,,2025-12-04T06:03:15.037186,3453,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,108,examine door,"examine door
+
+
+The engravings translate to ""This space intentionally left blank.""
+
+",10,83,,False,,2025-12-04T06:03:18.091509,3469,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,109,look at trophy case,"look at trophy case
+
+
+The trophy case is empty.
+
+",10,83,,False,,2025-12-04T06:03:21.152760,3493,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,110,score,"score
+Your score is 10 (total of 350 points), in 87 moves.
+This gives you the rank of Beginner.
+
+",10,87,,False,,2025-12-04T06:03:24.146435,3515,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,111,north,"north
+
+
+You can't go that way.
+
+",10,87,,False,,2025-12-04T06:03:27.287156,3550,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,112,east,"east
+
+
+Kitchen
+
+",10,87,,False,,2025-12-04T06:03:30.337322,3566,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,113,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,87,,False,,2025-12-04T06:03:49.632684,3578,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,114,up,"up
+
+
+Attic
+There is a table here.
+
+",10,87,,False,,2025-12-04T06:03:53.319407,3596,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,115,score,"score
+Your score is 10 (total of 350 points), in 91 moves.
+This gives you the rank of Beginner.
+
+",10,91,,False,,2025-12-04T06:03:56.293273,3615,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,116,throw sword at door,"throw sword at door
+
+
+You can't see any door here!
+
+",10,91,,False,,2025-12-04T06:03:59.348311,3650,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,117,east,"east
+
+
+You can't go that way.
+
+",10,91,,False,,2025-12-04T06:04:02.662971,3673,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,118,west,"west
+
+
+You can't go that way.
+
+",10,91,,False,,2025-12-04T06:04:05.697519,3689,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,119,down,"down
+
+
+Kitchen
+
+",10,91,,False,,2025-12-04T06:04:09.273775,3705,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,120,score,"score
+Your score is 10 (total of 350 points), in 95 moves.
+This gives you the rank of Beginner.
+
+",10,95,,False,,2025-12-04T06:04:12.399556,3717,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,121,south,"south
+
+
+You can't go that way.
+
+",10,95,,False,,2025-12-04T06:04:15.856055,3752,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,122,open brown sack,"open brown sack
+
+
+It is already open.
+
+",10,95,,False,,2025-12-04T06:04:19.138341,3768,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,123,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,95,,False,,2025-12-04T06:04:22.473562,3787,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,124,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,95,,False,,2025-12-04T06:04:25.917233,3805,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,125,score,"score
+Your score is 10 (total of 350 points), in 98 moves.
+This gives you the rank of Beginner.
+
+",10,98,,False,,2025-12-04T06:04:29.268357,3825,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,126,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,98,,False,,2025-12-04T06:04:32.349624,3860,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,127,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,98,,False,,2025-12-04T06:04:35.735701,3878,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,128,look at chimney,"look at chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",10,98,,False,,2025-12-04T06:04:38.869388,3898,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,129,climb chimney,"climb chimney
+
+
+The chimney doesn't lead upward.
+
+",10,98,,False,,2025-12-04T06:04:41.879202,3922,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,130,score,"score
+Your score is 10 (total of 350 points), in 101 moves.
+This gives you the rank of Beginner.
+
+",10,101,,False,,2025-12-04T06:04:44.903774,3940,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,131,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,101,,False,,2025-12-04T06:04:47.890456,3975,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,132,light lantern,"light lantern
+
+
+It is already on.
+
+",10,101,,False,,2025-12-04T06:04:52.000478,3993,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,133,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,101,,False,,2025-12-04T06:04:56.768735,4010,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,134,enter chimney,"enter chimney
+
+
+You hit your head against the chimney as you attempt this feat.
+
+",10,101,,False,,2025-12-04T06:04:59.802342,4030,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,135,score,"score
+Your score is 10 (total of 350 points), in 104 moves.
+This gives you the rank of Beginner.
+
+",10,104,,False,,2025-12-04T06:05:02.805118,4055,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,136,look at chimney,"look at chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",10,104,,False,,2025-12-04T06:05:05.821243,4090,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,137,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,104,,False,,2025-12-04T06:05:09.049386,4114,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,138,climb down chimney,"climb down chimney
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,104,,False,,2025-12-04T06:05:12.137227,4134,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,139,light lantern,"light lantern
+
+
+It is already on.
+
+",10,104,,False,,2025-12-04T06:05:15.464252,4156,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,140,score,"score
+Your score is 10 (total of 350 points), in 107 moves.
+This gives you the rank of Beginner.
+
+",10,107,,False,,2025-12-04T06:05:18.525504,4173,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,141,examine bottle,"examine bottle
+
+
+The glass bottle contains:
+  A quantity of water
+
+",10,107,,False,,2025-12-04T06:05:22.100489,4208,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,142,west,"west
+
+
+Living Room
+There is a rope here.
+
+",10,107,,False,,2025-12-04T06:05:25.194049,4231,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,143,get rope,"get rope
+
+
+Taken.
+
+",10,107,,False,,2025-12-04T06:05:28.346750,4250,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,144,throw rope at trophy case,"throw rope at trophy case
+
+
+Thrown.
+
+",10,107,,False,,2025-12-04T06:05:31.534998,4264,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,145,score,"score
+Your score is 10 (total of 350 points), in 111 moves.
+This gives you the rank of Beginner.
+
+",10,111,,False,,2025-12-04T06:05:34.589869,4284,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,146,north,"north
+
+
+You can't go that way.
+
+",10,111,,False,,2025-12-04T06:05:37.700579,4319,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,147,open sack,"open sack
+
+
+It is already open.
+
+",10,111,,False,,2025-12-04T06:05:41.054293,4335,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,148,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,111,,False,,2025-12-04T06:05:44.408156,4352,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,149,light lantern,"light lantern
+
+
+It is already on.
+
+",10,111,,False,,2025-12-04T06:05:47.652002,4372,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,150,score,"score
+Your score is 10 (total of 350 points), in 114 moves.
+This gives you the rank of Beginner.
+
+",10,114,,False,,2025-12-04T06:05:50.672019,4389,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,151,down,"down
+
+
+You can't go that way.
+
+",10,114,,False,,2025-12-04T06:05:53.611744,4424,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,152,examine rope,"examine rope
+
+
+There's nothing special about the rope.
+
+",10,114,,False,,2025-12-04T06:05:57.065470,4440,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,153,east,"east
+
+
+Kitchen
+
+",10,114,,False,,2025-12-04T06:06:00.296992,4459,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,154,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,114,,False,,2025-12-04T06:06:03.357704,4471,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,155,score,"score
+Your score is 10 (total of 350 points), in 117 moves.
+This gives you the rank of Beginner.
+
+",10,117,,False,,2025-12-04T06:06:06.370258,4491,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,156,light lantern,"light lantern
+
+
+It is already on.
+
+",10,117,,False,,2025-12-04T06:06:09.861149,4526,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,157,look at chimney,"look at chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",10,117,,False,,2025-12-04T06:06:13.315673,4543,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,158,climb down chimney,"climb down chimney
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,117,,False,,2025-12-04T06:06:16.405598,4567,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,159,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,117,,False,,2025-12-04T06:06:19.390594,4589,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,160,score,"score
+Your score is 10 (total of 350 points), in 121 moves.
+This gives you the rank of Beginner.
+
+",10,121,,False,,2025-12-04T06:06:22.436685,4607,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,161,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,121,,False,,2025-12-04T06:06:25.440000,4642,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,162,enter chimney,"enter chimney
+
+
+You hit your head against the chimney as you attempt this feat.
+
+",10,121,,False,,2025-12-04T06:06:28.521736,4660,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,163,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,121,,False,,2025-12-04T06:06:31.945471,4685,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,164,climb down,"climb down
+What do you want to climb down?
+
+",10,121,,False,,2025-12-04T06:06:34.954316,4705,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,165,score,"score
+Your score is 10 (total of 350 points), in 123 moves.
+This gives you the rank of Beginner.
+
+",10,123,,False,,2025-12-04T06:06:38.293019,4725,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,166,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,123,,False,,2025-12-04T06:06:41.299772,4760,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,167,open sack,"open sack
+
+
+It is already open.
+
+",10,123,,False,,2025-12-04T06:06:44.371679,4778,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,168,east,"east
+
+
+Behind House
+
+",10,123,,False,,2025-12-04T06:06:47.338261,4795,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,169,enter window,"enter window
+
+
+Kitchen
+
+",10,123,,False,,2025-12-04T06:06:50.970152,4808,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,170,score,"score
+Your score is 10 (total of 350 points), in 127 moves.
+This gives you the rank of Beginner.
+
+",10,127,,False,,2025-12-04T06:06:53.934203,4822,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,171,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,127,,False,,2025-12-04T06:06:57.022005,4857,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,172,light lantern,"light lantern
+
+
+It is already on.
+
+",10,127,,False,,2025-12-04T06:07:00.448109,4877,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,173,look at chimney,"look at chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",10,127,,False,,2025-12-04T06:07:03.455685,4894,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,174,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,127,,False,,2025-12-04T06:07:06.512867,4918,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,175,score,"score
+Your score is 10 (total of 350 points), in 130 moves.
+This gives you the rank of Beginner.
+
+",10,130,,False,,2025-12-04T06:07:09.896572,4936,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,176,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,130,,False,,2025-12-04T06:07:13.366460,4971,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,177,open window,"open window
+
+
+Too late for that.
+
+",10,130,,False,,2025-12-04T06:07:16.398214,4989,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,178,south,"south
+
+
+You can't go that way.
+
+",10,130,,False,,2025-12-04T06:07:19.549613,5006,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,179,east,"east
+
+
+Behind House
+
+",10,130,,False,,2025-12-04T06:07:23.188361,5022,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,180,score,"score
+Your score is 10 (total of 350 points), in 134 moves.
+This gives you the rank of Beginner.
+
+",10,134,,False,,2025-12-04T06:07:26.278533,5035,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,181,look at elvish sword,"look at elvish sword
+
+
+There's nothing special about the sword.
+
+",10,134,,False,,2025-12-04T06:07:29.857874,5070,6
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,182,open sack,"open sack
+
+
+It is already open.
+
+",10,134,,False,,2025-12-04T06:07:33.347825,5097,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,183,throw rope at chimney,"throw rope at chimney
+You don't have that!
+
+",10,134,,False,,2025-12-04T06:07:36.392297,5114,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,184,drop rope,"drop rope
+You don't have that!
+
+",10,134,,False,,2025-12-04T06:07:39.397551,5135,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,185,score,"score
+Your score is 10 (total of 350 points), in 136 moves.
+This gives you the rank of Beginner.
+
+",10,136,,False,,2025-12-04T06:07:42.446395,5152,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,186,down,"down
+
+
+You can't go that way.
+
+",10,136,,False,,2025-12-04T06:07:45.973830,5187,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,187,west,"west
+
+
+Kitchen
+
+",10,136,,False,,2025-12-04T06:07:48.920185,5203,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,188,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,136,,False,,2025-12-04T06:07:52.079729,5215,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,189,light lantern,"light lantern
+
+
+It is already on.
+
+",10,136,,False,,2025-12-04T06:07:55.103604,5235,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,190,score,"score
+Your score is 10 (total of 350 points), in 139 moves.
+This gives you the rank of Beginner.
+
+",10,139,,False,,2025-12-04T06:07:58.658553,5252,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,191,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,139,,False,,2025-12-04T06:08:01.828752,5287,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,192,open bottle,"open bottle
+
+
+It is already open.
+
+",10,139,,False,,2025-12-04T06:08:05.322141,5305,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,193,look at chimney,"look at chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",10,139,,False,,2025-12-04T06:08:08.410956,5322,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,194,climb chimney,"climb chimney
+
+
+The chimney doesn't lead upward.
+
+",10,139,,False,,2025-12-04T06:08:11.808526,5346,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,195,score,"score
+Your score is 10 (total of 350 points), in 143 moves.
+This gives you the rank of Beginner.
+
+",10,143,,False,,2025-12-04T06:08:14.816185,5364,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,196,light lantern,"light lantern
+
+
+It is already on.
+
+",10,143,,False,,2025-12-04T06:08:17.882793,5399,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,197,up,"up
+
+
+Attic
+There is a table here.
+
+",10,143,,False,,2025-12-04T06:08:20.853643,5416,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,198,examine table,"examine table
+
+
+The table is empty.
+
+",10,143,,False,,2025-12-04T06:08:23.871780,5435,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,199,look at rope,"look at rope
+
+
+You can't see any rope here!
+
+",10,143,,False,,2025-12-04T06:08:26.975544,5452,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,200,score,"score
+Your score is 10 (total of 350 points), in 147 moves.
+This gives you the rank of Beginner.
+
+",10,147,,False,,2025-12-04T06:08:30.024441,5473,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,201,down,"down
+
+
+Kitchen
+
+",10,147,,False,,2025-12-04T06:08:33.135208,5508,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,202,south,"south
+
+
+You can't go that way.
+
+",10,147,,False,,2025-12-04T06:08:36.160415,5520,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,203,open sack,"open sack
+
+
+It is already open.
+
+",10,147,,False,,2025-12-04T06:08:39.217200,5536,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,204,west,"west
+
+
+Living Room
+There is a rope here.
+
+",10,147,,False,,2025-12-04T06:08:42.665221,5553,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,205,score,"score
+Your score is 10 (total of 350 points), in 151 moves.
+This gives you the rank of Beginner.
+
+",10,151,,False,,2025-12-04T06:08:45.748568,5572,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,206,get rope,"get rope
+
+
+Taken.
+
+",10,151,,False,,2025-12-04T06:08:48.661251,5607,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,207,west,"west
+
+
+The door is nailed shut.
+
+",10,151,,False,,2025-12-04T06:08:51.752723,5621,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,208,throw rope at door,"throw rope at door
+
+
+Thrown.
+
+",10,151,,False,,2025-12-04T06:08:54.761637,5637,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,209,attack door with rope,"attack door with rope
+You don't have the rope.
+
+",10,151,,False,,2025-12-04T06:08:57.772902,5655,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,210,score,"score
+Your score is 10 (total of 350 points), in 154 moves.
+This gives you the rank of Beginner.
+
+",10,154,,False,,2025-12-04T06:09:01.436662,5677,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,211,inventory,"inventory
+
+
+You are carrying:
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A sword
+  A nasty knife
+  A brass lantern (providing light)
+  A leaflet
+
+",10,154,,False,,2025-12-04T06:09:04.906608,5712,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,212,drop brown sack,"drop brown sack
+
+
+Dropped.
+
+",10,154,,False,,2025-12-04T06:09:07.889428,5783,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,213,get rope,"get rope
+
+
+Taken.
+
+",10,154,,False,,2025-12-04T06:09:10.861405,5799,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,214,attack door with rope,"attack door with rope
+
+
+I've known strange people, but fighting a wooden door?
+
+",10,154,,False,,2025-12-04T06:09:14.421841,5813,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,215,score,"score
+Your score is 10 (total of 350 points), in 158 moves.
+This gives you the rank of Beginner.
+
+",10,158,,False,,2025-12-04T06:09:17.456632,5840,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,216,open sack,"open sack
+
+
+It is already open.
+
+",10,158,,False,,2025-12-04T06:09:20.864252,5875,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,217,open sack,"open sack
+
+
+It is already open.
+
+",10,158,,False,,2025-12-04T06:09:24.214760,5892,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,218,west,"west
+
+
+The door is nailed shut.
+
+",10,158,,False,,2025-12-04T06:09:27.322849,5909,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,219,inventory,"inventory
+
+
+You are carrying:
+  A rope
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A sword
+  A nasty knife
+  A brass lantern (providing light)
+  A leaflet
+
+",10,158,,False,,2025-12-04T06:09:30.681439,5925,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,220,score,"score
+Your score is 10 (total of 350 points), in 162 moves.
+This gives you the rank of Beginner.
+
+",10,162,,False,,2025-12-04T06:09:34.088354,5982,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,221,east,"east
+
+
+Kitchen
+
+",10,162,,False,,2025-12-04T06:09:37.078238,6017,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,222,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,162,,False,,2025-12-04T06:09:40.132859,6029,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,223,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,162,,False,,2025-12-04T06:09:43.138870,6049,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,224,climb down,"climb down
+What do you want to climb down?
+
+",10,162,,False,,2025-12-04T06:09:47.455257,6069,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,225,score,"score
+Your score is 10 (total of 350 points), in 163 moves.
+This gives you the rank of Beginner.
+
+",10,163,,False,,2025-12-04T06:09:50.434541,6089,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,226,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,163,,False,,2025-12-04T06:09:53.430776,6124,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,227,enter chimney,"enter chimney
+
+
+You hit your head against the chimney as you attempt this feat.
+
+",10,163,,False,,2025-12-04T06:09:57.071808,6144,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,228,look at chimney,"look at chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",10,163,,False,,2025-12-04T06:10:00.150109,6169,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,229,climb chimney,"climb chimney
+
+
+The chimney doesn't lead upward.
+
+",10,163,,False,,2025-12-04T06:10:03.239260,6193,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,230,score,"score
+Your score is 10 (total of 350 points), in 166 moves.
+This gives you the rank of Beginner.
+
+",10,166,,False,,2025-12-04T06:10:06.243739,6211,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,231,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,166,,False,,2025-12-04T06:10:09.331548,6246,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,232,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,166,,False,,2025-12-04T06:10:12.326305,6266,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,233,go east,"go east
+
+
+Behind House
+
+",10,166,,False,,2025-12-04T06:10:15.326474,6286,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,234,enter window,"enter window
+
+
+Kitchen
+
+",10,166,,False,,2025-12-04T06:10:18.432822,6301,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,235,score,"score
+Your score is 10 (total of 350 points), in 168 moves.
+This gives you the rank of Beginner.
+
+",10,168,,False,,2025-12-04T06:10:21.424749,6315,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,236,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,168,,False,,2025-12-04T06:10:24.533986,6350,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,237,open bottle,"open bottle
+
+
+It is already open.
+
+",10,168,,False,,2025-12-04T06:10:27.546250,6370,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,238,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,168,,False,,2025-12-04T06:10:30.955571,6387,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,239,light lantern,"light lantern
+
+
+It is already on.
+
+",10,168,,False,,2025-12-04T06:10:34.307775,6407,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,240,score,"score
+Your score is 10 (total of 350 points), in 170 moves.
+This gives you the rank of Beginner.
+
+",10,170,,False,,2025-12-04T06:10:37.785656,6424,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,241,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,170,,False,,2025-12-04T06:10:40.773143,6459,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,242,look at chimney,"look at chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",10,170,,False,,2025-12-04T06:10:43.878068,6479,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,243,enter chimney,"enter chimney
+
+
+You hit your head against the chimney as you attempt this feat.
+
+",10,170,,False,,2025-12-04T06:10:47.066767,6503,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,244,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,170,,False,,2025-12-04T06:10:50.669894,6528,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,245,score,"score
+Your score is 10 (total of 350 points), in 173 moves.
+This gives you the rank of Beginner.
+
+",10,173,,False,,2025-12-04T06:10:53.755426,6546,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,246,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,173,,False,,2025-12-04T06:10:57.459747,6581,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,247,look at chimney,"look at chimney
+
+
+The chimney leads downward, and looks climbable.
+
+",10,173,,False,,2025-12-04T06:11:00.704324,6601,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,248,climb chimney,"climb chimney
+
+
+The chimney doesn't lead upward.
+
+",10,173,,False,,2025-12-04T06:11:04.183617,6625,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,249,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",10,173,,False,,2025-12-04T06:11:07.168403,6643,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,250,score,"score
+Your score is 10 (total of 350 points), in 176 moves.
+This gives you the rank of Beginner.
+
+",10,176,,False,,2025-12-04T06:11:10.254366,6661,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,251,light lantern,"light lantern
+
+
+It is already on.
+
+",10,176,,False,,2025-12-04T06:11:13.377573,6696,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,252,inventory,"inventory
+
+
+You are carrying:
+  A rope
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A sword
+  A nasty knife
+  A brass lantern (providing light)
+  A leaflet
+
+",10,176,,False,,2025-12-04T06:11:16.448109,6713,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,253,east,"east
+
+
+Behind House
+
+",10,176,,False,,2025-12-04T06:11:19.501525,6770,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,254,climb chimney,"climb chimney
+
+
+You can't see any chimney here!
+
+",10,176,,False,,2025-12-04T06:11:22.498109,6783,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,255,score,"score
+Your score is 10 (total of 350 points), in 180 moves.
+This gives you the rank of Beginner.
+
+",10,180,,False,,2025-12-04T06:11:25.450834,6802,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,256,east,"east
+
+
+Clearing
+You are in a small clearing in a well marked forest path that extends to the
+east and west.
+
+",10,180,,False,,2025-12-04T06:11:28.523147,6837,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,257,west,"west
+
+
+Behind House
+
+",10,180,,False,,2025-12-04T06:11:31.583838,6871,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,258,west,"west
+
+
+Kitchen
+
+",10,180,,False,,2025-12-04T06:11:34.742296,6884,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,259,up,"up
+
+
+Attic
+There is a table here.
+
+",10,180,,False,,2025-12-04T06:11:37.755568,6896,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,260,score,"score
+Your score is 10 (total of 350 points), in 184 moves.
+This gives you the rank of Beginner.
+
+",10,184,,False,,2025-12-04T06:11:40.736890,6915,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,261,take rope,"take rope
+
+
+You already have that!
+
+",10,184,,False,,2025-12-04T06:11:44.125552,6950,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,262,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,184,,False,,2025-12-04T06:11:47.146160,6967,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,263,light lantern,"light lantern
+
+
+It is already on.
+
+",10,184,,False,,2025-12-04T06:11:50.234207,6987,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,264,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,184,,False,,2025-12-04T06:11:53.427821,7004,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,265,score,"score
+Your score is 10 (total of 350 points), in 186 moves.
+This gives you the rank of Beginner.
+
+",10,186,,False,,2025-12-04T06:11:56.915231,7024,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,266,open bottle,"open bottle
+
+
+It is already open.
+
+",10,186,,False,,2025-12-04T06:11:59.942689,7059,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,267,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,186,,False,,2025-12-04T06:12:03.483043,7076,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,268,down,"down
+
+
+Kitchen
+
+",10,186,,False,,2025-12-04T06:12:06.843614,7096,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,269,open bottle,"open bottle
+
+
+It is already open.
+
+",10,186,,False,,2025-12-04T06:12:10.331354,7108,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,270,score,"score
+Your score is 10 (total of 350 points), in 189 moves.
+This gives you the rank of Beginner.
+
+",10,189,,False,,2025-12-04T06:12:13.797452,7125,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,271,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,189,,False,,2025-12-04T06:12:16.856833,7160,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,272,light lantern,"light lantern
+
+
+It is already on.
+
+",10,189,,False,,2025-12-04T06:12:19.927584,7180,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,273,open window,"open window
+
+
+Have your eyes checked.
+
+",10,189,,False,,2025-12-04T06:12:23.109464,7197,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,274,west,"west
+
+
+Living Room
+There is a brown sack here.
+The brown sack contains:
+  A clove of garlic
+
+",10,189,,False,,2025-12-04T06:12:26.126466,7214,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,275,score,"score
+Your score is 10 (total of 350 points), in 192 moves.
+This gives you the rank of Beginner.
+
+",10,192,,False,,2025-12-04T06:12:29.516254,7246,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,276,open brown sack,"open brown sack
+
+
+It is already open.
+
+",10,192,,False,,2025-12-04T06:12:33.085278,7281,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,277,get brown sack,"get brown sack
+
+
+Taken.
+
+",10,192,,False,,2025-12-04T06:12:36.121410,7300,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,278,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,192,,False,,2025-12-04T06:12:39.109229,7316,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,279,light lantern,"light lantern
+
+
+It is already on.
+
+",10,192,,False,,2025-12-04T06:12:42.165524,7336,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,280,score,"score
+Your score is 10 (total of 350 points), in 195 moves.
+This gives you the rank of Beginner.
+
+",10,195,,False,,2025-12-04T06:12:45.207848,7353,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,281,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,195,,False,,2025-12-04T06:12:48.326335,7388,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,282,examine chimney,"examine chimney
+
+
+You can't see any chimney here!
+
+",10,195,,False,,2025-12-04T06:12:51.372076,7408,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,283,west,"west
+
+
+The door is nailed shut.
+
+",10,195,,False,,2025-12-04T06:12:54.354321,7427,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,284,break door with sword,"break door with sword
+
+
+You can't seem to damage the door.
+
+",10,195,,False,,2025-12-04T06:12:57.492483,7443,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,285,score,"score
+Your score is 10 (total of 350 points), in 198 moves.
+This gives you the rank of Beginner.
+
+",10,198,,False,,2025-12-04T06:13:00.915636,7467,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,286,examine rope,"examine rope
+
+
+There's nothing special about the rope.
+
+",10,198,,False,,2025-12-04T06:13:04.049961,7502,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,287,west,"west
+
+
+The door is nailed shut.
+
+",10,198,,False,,2025-12-04T06:13:07.053873,7521,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,288,throw rope at trophy case,"throw rope at trophy case
+
+
+Thrown.
+
+",10,198,,False,,2025-12-04T06:13:10.675295,7537,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,289,look at trophy case,"look at trophy case
+
+
+The trophy case is empty.
+
+",10,198,,False,,2025-12-04T06:13:14.508041,7557,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,290,score,"score
+Your score is 10 (total of 350 points), in 202 moves.
+This gives you the rank of Beginner.
+
+",10,202,,False,,2025-12-04T06:13:18.173109,7579,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,291,open brown sack,"open brown sack
+
+
+It is already open.
+
+",10,202,,False,,2025-12-04T06:13:21.678402,7614,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,292,west,"west
+
+
+The door is nailed shut.
+
+",10,202,,False,,2025-12-04T06:13:24.822118,7633,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,293,look at rope,"look at rope
+
+
+There's nothing special about the rope.
+
+",10,202,,False,,2025-12-04T06:13:28.479784,7649,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,294,inventory,"inventory
+
+
+You are carrying:
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A sword
+  A nasty knife
+  A brass lantern (providing light)
+  A leaflet
+
+",10,202,,False,,2025-12-04T06:13:31.646647,7670,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,295,score,"score
+Your score is 10 (total of 350 points), in 206 moves.
+This gives you the rank of Beginner.
+
+",10,206,,False,,2025-12-04T06:13:34.813913,7741,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,296,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,206,,False,,2025-12-04T06:13:37.885401,7776,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,297,light lantern,"light lantern
+
+
+It is already on.
+
+",10,206,,False,,2025-12-04T06:13:40.927741,7796,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,298,open brown sack,"open brown sack
+
+
+It is already open.
+
+",10,206,,False,,2025-12-04T06:13:44.128590,7813,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,299,down,"down
+
+
+You can't go that way.
+
+",10,206,,False,,2025-12-04T06:13:47.702748,7832,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,300,score,"score
+Your score is 10 (total of 350 points), in 209 moves.
+This gives you the rank of Beginner.
+
+",10,209,,False,,2025-12-04T06:13:50.837007,7848,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,301,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,209,,False,,2025-12-04T06:13:54.123088,7883,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,302,look at chimney,"look at chimney
+
+
+You can't see any chimney here!
+
+",10,209,,False,,2025-12-04T06:13:57.664769,7903,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,303,east,"east
+
+
+Kitchen
+
+",10,209,,False,,2025-12-04T06:14:00.746629,7924,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,304,down chimney,"down chimney
+There was no verb in that sentence!
+
+",10,209,,False,,2025-12-04T06:14:03.821507,7936,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,305,score,"score
+Your score is 10 (total of 350 points), in 211 moves.
+This gives you the rank of Beginner.
+
+",10,211,,False,,2025-12-04T06:14:06.890380,7956,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,306,open brown sack,"open brown sack
+
+
+It is already open.
+
+",10,211,,False,,2025-12-04T06:14:09.933469,7991,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,307,open brown sack,"open brown sack
+
+
+It is already open.
+
+",10,211,,False,,2025-12-04T06:14:13.082902,8010,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,308,east,"east
+
+
+Behind House
+
+",10,211,,False,,2025-12-04T06:14:16.068818,8029,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,309,southwest,"southwest
+
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+",10,211,,False,,2025-12-04T06:14:19.087487,8042,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,310,score,"score
+Your score is 10 (total of 350 points), in 215 moves.
+This gives you the rank of Beginner.
+
+",10,215,,False,,2025-12-04T06:14:22.189711,8081,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,311,north,"north
+
+
+The windows are all boarded.
+
+",10,215,,False,,2025-12-04T06:14:25.733787,8116,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,312,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",10,215,,False,,2025-12-04T06:14:29.284524,8132,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,313,east,"east
+
+
+Behind House
+
+",10,215,,False,,2025-12-04T06:14:32.368108,8151,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,314,north,"north
+
+
+North of House
+
+",10,215,,False,,2025-12-04T06:14:35.864164,8164,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,315,score,"score
+Your score is 10 (total of 350 points), in 219 moves.
+This gives you the rank of Beginner.
+
+",10,219,,False,,2025-12-04T06:14:39.405533,8178,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,316,north,"north
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",10,219,,False,,2025-12-04T06:14:42.553407,8213,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,317,climb tree,"climb tree
+
+
+Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The
+nearest branch above you is above your reach.
+Beside you on the branch is a small bird's nest.
+In the bird's nest is a large egg encrusted with precious jewels, apparently
+scavenged by a childless songbird. The egg is covered with fine gold inlay, and
+ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is
+hinged and closed with a delicate looking clasp. The egg appears extremely
+fragile.
+
+",10,219,,False,,2025-12-04T06:14:45.562302,8264,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,318,open egg,"open egg
+
+
+You have neither the tools nor the expertise.
+
+",10,219,,False,,2025-12-04T06:14:48.646781,8399,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,319,take egg,"take egg
+
+
+Taken.
+
+",10,219,,False,,2025-12-04T06:14:51.661792,8420,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,320,score,"score
+Your score is 15 (total of 350 points), in 223 moves.
+This gives you the rank of Beginner.
+
+",15,223,,False,,2025-12-04T06:14:55.026036,8434,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,321,climb down tree,"climb down tree
+
+
+Forest Path
+
+",15,223,,False,,2025-12-04T06:14:58.168410,8469,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,322,southwest,"southwest
+
+
+You can't go that way.
+
+",15,223,,False,,2025-12-04T06:15:01.586018,8486,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,323,south,"south
+
+
+North of House
+
+",15,223,,False,,2025-12-04T06:15:04.566051,8502,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,324,southwest,"southwest
+
+
+West of House
+There is a small mailbox here.
+
+",15,223,,False,,2025-12-04T06:15:07.573249,8516,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,325,score,"score
+Your score is 15 (total of 350 points), in 227 moves.
+This gives you the rank of Beginner.
+
+",15,227,,False,,2025-12-04T06:15:10.552578,8537,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,326,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,227,,False,,2025-12-04T06:15:13.599180,8572,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,327,west,"west
+
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",15,227,,False,,2025-12-04T06:15:16.567277,8589,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,328,east,"east
+
+
+Forest Path
+The lamp appears a bit dimmer.
+
+",15,227,,False,,2025-12-04T06:15:19.658245,8624,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,329,north,"north
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+On the ground is a pile of leaves.
+
+",15,227,,False,,2025-12-04T06:15:22.722821,8645,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,330,score,"score
+Your score is 15 (total of 350 points), in 231 moves.
+This gives you the rank of Beginner.
+
+",15,231,,False,,2025-12-04T06:15:25.718126,8688,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,331,examine leaves,"examine leaves
+
+
+There's nothing special about the pile of leaves.
+
+",15,231,,False,,2025-12-04T06:15:28.819609,8723,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,332,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",15,231,,False,,2025-12-04T06:15:31.890511,8744,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,333,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,231,,False,,2025-12-04T06:15:35.075658,8770,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,334,get leaves,"get leaves
+
+
+In disturbing the pile of leaves, a grating is revealed.
+Your load is too heavy.
+
+",15,231,,False,,2025-12-04T06:15:38.212881,8792,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,335,score,"score
+Your score is 15 (total of 350 points), in 235 moves.
+This gives you the rank of Beginner.
+
+",15,235,,False,,2025-12-04T06:15:41.277308,8823,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,336,drop egg,"drop egg
+
+
+Dropped.
+
+",15,235,,False,,2025-12-04T06:15:44.398948,8858,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,337,drop rope,"drop rope
+You don't have that!
+
+",15,235,,False,,2025-12-04T06:15:47.488315,8872,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,338,drop sack,"drop sack
+
+
+Dropped.
+
+",15,235,,False,,2025-12-04T06:15:51.086292,8889,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,339,drop sword,"drop sword
+
+
+Dropped.
+
+",15,235,,False,,2025-12-04T06:15:54.659036,8903,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,340,score,"score
+Your score is 15 (total of 350 points), in 238 moves.
+This gives you the rank of Beginner.
+
+",15,238,,False,,2025-12-04T06:15:57.823576,8917,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,341,get leaves,"get leaves
+
+
+Taken.
+
+",15,238,,False,,2025-12-04T06:16:01.403159,8952,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,342,open grating,"open grating
+
+
+The grating is locked.
+
+",15,238,,False,,2025-12-04T06:16:05.149276,8966,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,343,unlock grating with key,"unlock grating with key
+
+
+You can't see any key here!
+
+",15,238,,False,,2025-12-04T06:16:08.361108,8986,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,344,look around,"look around
+
+
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads
+south.
+There is a grating securely fastened into the ground.
+There is a sword here.
+There is a brown sack here.
+The brown sack contains:
+  A clove of garlic
+There is a jewel-encrusted egg here.
+
+",15,238,,False,,2025-12-04T06:16:13.115256,9011,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,345,score,"score
+Your score is 15 (total of 350 points), in 242 moves.
+This gives you the rank of Beginner.
+
+",15,242,,False,,2025-12-04T06:16:16.162899,9094,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,346,get sword,"get sword
+
+
+Taken.
+
+",15,242,,False,,2025-12-04T06:16:19.343758,9129,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,347,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,242,,False,,2025-12-04T06:16:23.027592,9143,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,348,get key,"get key
+
+
+You can't see any key here!
+
+",15,242,,False,,2025-12-04T06:16:26.590072,9162,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,349,look at grating,"look at grating
+
+
+The grating is closed.
+
+",15,242,,False,,2025-12-04T06:16:29.682883,9181,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,350,score,"score
+Your score is 15 (total of 350 points), in 246 moves.
+This gives you the rank of Beginner.
+
+",15,246,,False,,2025-12-04T06:16:32.757821,9203,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,351,look under leaves,"look under leaves
+
+
+There is nothing but dust there.
+
+",15,246,,False,,2025-12-04T06:16:35.758018,9238,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,352,drop leaves,"drop leaves
+
+
+Dropped.
+
+",15,246,,False,,2025-12-04T06:16:38.814213,9259,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,353,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,246,,False,,2025-12-04T06:16:41.849048,9273,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,354,get egg,"get egg
+
+
+Taken.
+
+",15,246,,False,,2025-12-04T06:16:44.810153,9292,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,355,score,"score
+Your score is 15 (total of 350 points), in 250 moves.
+This gives you the rank of Beginner.
+
+",15,250,,False,,2025-12-04T06:16:47.874279,9306,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,356,open egg,"open egg
+
+
+You have neither the tools nor the expertise.
+
+",15,250,,False,,2025-12-04T06:16:50.980843,9341,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,357,open egg with knife,"open egg with knife
+
+
+The egg is now open, but the clumsiness of your attempt has seriously
+compromised its esthetic appeal. There is a golden clockwork canary nestled in
+the egg. It seems to have recently had a bad experience. The mountings for its
+jewel-like eyes are empty, and its silver beak is crumpled. Through a cracked
+crystal window below its left wing you can see the remains of intricate
+machinery. It is not clear what result winding it would have, as the mainspring
+seems sprung.
+
+",15,250,,False,,2025-12-04T06:16:54.558178,9362,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,358,get clockwork canary,"get clockwork canary
+
+
+Taken.
+
+",15,250,,False,,2025-12-04T06:16:57.754419,9492,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,359,west,"west
+
+
+Forest
+
+",15,250,,False,,2025-12-04T06:17:00.778824,9512,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,360,score,"score
+Your score is 15 (total of 350 points), in 254 moves.
+This gives you the rank of Beginner.
+
+",15,254,,False,,2025-12-04T06:17:04.191267,9524,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,361,south,"south
+
+
+Forest
+This is a dimly lit forest, with large trees all around.
+
+",15,254,,False,,2025-12-04T06:17:07.360944,9559,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,362,south,"south
+
+
+Storm-tossed trees block your way.
+
+",15,254,,False,,2025-12-04T06:17:10.433451,9585,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,363,northwest,"northwest
+
+
+South of House
+
+",15,254,,False,,2025-12-04T06:17:13.894117,9604,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,364,northwest,"northwest
+
+
+West of House
+There is a small mailbox here.
+
+",15,254,,False,,2025-12-04T06:17:17.060473,9618,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,365,score,"score
+Your score is 15 (total of 350 points), in 258 moves.
+This gives you the rank of Beginner.
+
+",15,258,,False,,2025-12-04T06:17:20.096377,9639,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,366,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,258,,False,,2025-12-04T06:17:23.621778,9674,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,367,west,"west
+
+
+Forest
+
+",15,258,,False,,2025-12-04T06:17:27.167331,9691,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,368,southwest,"southwest
+
+
+You can't go that way.
+You hear in the distance the chirping of a song bird.
+
+",15,258,,False,,2025-12-04T06:17:30.278722,9703,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,369,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+There is a brown sack here.
+The brown sack contains:
+  A clove of garlic
+
+",15,258,,False,,2025-12-04T06:17:33.834649,9732,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,370,score,"score
+Your score is 15 (total of 350 points), in 262 moves.
+This gives you the rank of Beginner.
+
+",15,262,,False,,2025-12-04T06:17:37.000600,9773,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,371,get sack,"get sack
+
+
+Taken.
+
+",15,262,,False,,2025-12-04T06:17:40.223322,9808,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,372,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,262,,False,,2025-12-04T06:17:43.245047,9822,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,373,open sack,"open sack
+
+
+It is already open.
+
+",15,262,,False,,2025-12-04T06:17:46.332090,9841,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,374,west,"west
+
+
+Forest
+
+",15,262,,False,,2025-12-04T06:17:49.406573,9858,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,375,score,"score
+Your score is 15 (total of 350 points), in 266 moves.
+This gives you the rank of Beginner.
+
+",15,266,,False,,2025-12-04T06:17:52.416253,9870,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,376,south,"south
+
+
+Forest
+
+",15,266,,False,,2025-12-04T06:17:55.475524,9905,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,377,north,"north
+
+
+Clearing
+
+",15,266,,False,,2025-12-04T06:17:58.917358,9917,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,378,take key,"take key
+
+
+You can't see any key here!
+
+",15,266,,False,,2025-12-04T06:18:01.992675,9930,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,379,look under grating,"look under grating
+
+
+You can't see any grating here!
+
+",15,266,,False,,2025-12-04T06:18:05.172025,9949,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,380,score,"score
+Your score is 15 (total of 350 points), in 270 moves.
+This gives you the rank of Beginner.
+
+",15,270,,False,,2025-12-04T06:18:08.229151,9973,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,381,look at sack,"look at sack
+
+
+The brown sack contains:
+  A clove of garlic
+
+",15,270,,False,,2025-12-04T06:18:11.338194,10008,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,382,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,270,,False,,2025-12-04T06:18:14.873704,10034,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,383,west,"west
+
+
+Behind House
+
+",15,270,,False,,2025-12-04T06:18:17.949428,10053,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,384,east,"east
+
+
+Clearing
+
+",15,270,,False,,2025-12-04T06:18:21.563019,10066,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,385,score,"score
+Your score is 15 (total of 350 points), in 274 moves.
+This gives you the rank of Beginner.
+
+",15,274,,False,,2025-12-04T06:18:24.613624,10079,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,386,inventory,"inventory
+
+
+You are carrying:
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A nasty knife
+  A brass lantern (providing light)
+  A leaflet
+
+",15,274,,False,,2025-12-04T06:18:27.695205,10114,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,387,south,"south
+
+
+Forest
+
+",15,274,,False,,2025-12-04T06:18:30.795927,10202,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,388,east,"east
+
+
+The rank undergrowth prevents eastward movement.
+You hear in the distance the chirping of a song bird.
+
+",15,274,,False,,2025-12-04T06:18:33.853281,10214,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,389,west,"west
+
+
+Forest
+
+",15,274,,False,,2025-12-04T06:18:36.862488,10246,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,390,score,"score
+Your score is 15 (total of 350 points), in 278 moves.
+This gives you the rank of Beginner.
+
+",15,278,,False,,2025-12-04T06:18:39.929071,10258,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,391,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,278,,False,,2025-12-04T06:18:43.513254,10293,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,392,south,"south
+
+
+Forest Path
+
+",15,278,,False,,2025-12-04T06:18:48.488270,10315,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,393,south,"south
+
+
+North of House
+
+",15,278,,False,,2025-12-04T06:18:51.502778,10328,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,394,north,"north
+
+
+Forest Path
+
+",15,278,,False,,2025-12-04T06:18:54.697239,10342,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,395,score,"score
+Your score is 15 (total of 350 points), in 282 moves.
+This gives you the rank of Beginner.
+
+",15,282,,False,,2025-12-04T06:18:57.755175,10355,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,396,south,"south
+
+
+North of House
+
+",15,282,,False,,2025-12-04T06:19:00.762591,10390,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,397,north,"north
+
+
+Forest Path
+
+",15,282,,False,,2025-12-04T06:19:03.896295,10404,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,398,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,282,,False,,2025-12-04T06:19:07.394055,10417,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,399,get sword,"get sword
+
+
+You already have that!
+
+",15,282,,False,,2025-12-04T06:19:10.539174,10439,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,400,score,"score
+Your score is 15 (total of 350 points), in 286 moves.
+This gives you the rank of Beginner.
+
+",15,286,,False,,2025-12-04T06:19:13.588209,10456,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,401,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,286,,False,,2025-12-04T06:19:16.582375,10491,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,402,open sack,"open sack
+
+
+It is already open.
+
+",15,286,,False,,2025-12-04T06:19:19.596633,10510,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,403,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,286,,False,,2025-12-04T06:19:23.041773,10527,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,404,open grating,"open grating
+
+
+The grating is locked.
+
+",15,286,,False,,2025-12-04T06:19:26.196750,10546,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,405,score,"score
+Your score is 15 (total of 350 points), in 290 moves.
+This gives you the rank of Beginner.
+
+",15,290,,False,,2025-12-04T06:19:29.287157,10566,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,406,west,"west
+
+
+Forest
+
+",15,290,,False,,2025-12-04T06:19:32.431467,10601,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,407,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,290,,False,,2025-12-04T06:19:35.589215,10613,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,408,get key,"get key
+
+
+You can't see any key here!
+
+",15,290,,False,,2025-12-04T06:19:38.579482,10635,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,409,look under pile of leaves,"look under pile of leaves
+
+
+There is nothing but dust there.
+
+",15,290,,False,,2025-12-04T06:19:41.722893,10654,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,410,score,"score
+Your score is 15 (total of 350 points), in 294 moves.
+This gives you the rank of Beginner.
+
+",15,294,,False,,2025-12-04T06:19:44.959490,10679,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,411,inventory,"inventory
+
+
+You are carrying:
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A nasty knife
+  A brass lantern (providing light)
+  A leaflet
+
+",15,294,,False,,2025-12-04T06:19:48.003554,10714,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,412,south,"south
+
+
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+",15,294,,False,,2025-12-04T06:19:51.087762,10802,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,413,south,"south
+
+
+North of House
+
+",15,294,,False,,2025-12-04T06:19:54.155841,10828,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,414,east,"east
+
+
+Behind House
+
+",15,294,,False,,2025-12-04T06:19:57.226152,10842,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,415,score,"score
+Your score is 15 (total of 350 points), in 298 moves.
+This gives you the rank of Beginner.
+
+",15,298,,False,,2025-12-04T06:20:00.255842,10855,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,416,east,"east
+
+
+Clearing
+
+",15,298,,False,,2025-12-04T06:20:03.390392,10890,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,417,west,"west
+
+
+Behind House
+
+",15,298,,False,,2025-12-04T06:20:06.527781,10903,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,418,look at sack,"look at sack
+
+
+The brown sack contains:
+  A clove of garlic
+
+",15,298,,False,,2025-12-04T06:20:09.610614,10916,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,419,west,"west
+
+
+Kitchen
+
+",15,298,,False,,2025-12-04T06:20:12.659727,10942,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,420,score,"score
+Your score is 15 (total of 350 points), in 302 moves.
+This gives you the rank of Beginner.
+
+",15,302,,False,,2025-12-04T06:20:15.715047,10954,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,421,down chimney,"down chimney
+There was no verb in that sentence!
+
+",15,302,,False,,2025-12-04T06:20:18.729433,10989,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,422,open bottle,"open bottle
+
+
+It is already open.
+
+",15,302,,False,,2025-12-04T06:20:21.844783,11009,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,423,west,"west
+
+
+Living Room
+There is a rope here.
+
+",15,302,,False,,2025-12-04T06:20:24.934764,11026,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,424,get rope,"get rope
+
+
+You're holding too many things already!
+
+",15,302,,False,,2025-12-04T06:20:28.065840,11045,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,425,score,"score
+Your score is 15 (total of 350 points), in 305 moves.
+This gives you the rank of Beginner.
+
+",15,305,,False,,2025-12-04T06:20:31.241435,11064,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,426,drop leaflet,"drop leaflet
+
+
+Dropped.
+
+",15,305,,False,,2025-12-04T06:20:34.340241,11099,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,427,drop glass bottle,"drop glass bottle
+
+
+Dropped.
+
+",15,305,,False,,2025-12-04T06:20:38.028429,11113,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,428,drop brown sack,"drop brown sack
+
+
+Dropped.
+
+",15,305,,False,,2025-12-04T06:20:41.086181,11129,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,429,get rope,"get rope
+
+
+Taken.
+
+",15,305,,False,,2025-12-04T06:20:44.121017,11145,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,430,score,"score
+Your score is 15 (total of 350 points), in 309 moves.
+This gives you the rank of Beginner.
+
+",15,309,,False,,2025-12-04T06:20:47.115192,11159,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,431,west,"west
+
+
+The door is nailed shut.
+
+",15,309,,False,,2025-12-04T06:20:50.227428,11194,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,432,inventory,"inventory
+
+
+You are carrying:
+  A rope
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A nasty knife
+  A brass lantern (providing light)
+
+",15,309,,False,,2025-12-04T06:20:53.243194,11210,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,433,throw rope at door,"throw rope at door
+
+
+Thrown.
+
+",15,309,,False,,2025-12-04T06:20:56.819525,11263,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,434,open rope,"open rope
+
+
+You must tell me how to do that to a rope.
+
+",15,309,,False,,2025-12-04T06:20:59.895599,11281,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,435,score,"score
+Your score is 15 (total of 350 points), in 313 moves.
+This gives you the rank of Beginner.
+
+",15,313,,False,,2025-12-04T06:21:02.902609,11305,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,436,southwest,"southwest
+
+
+You can't go that way.
+
+",15,313,,False,,2025-12-04T06:21:06.055513,11340,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,437,east,"east
+
+
+Kitchen
+
+",15,313,,False,,2025-12-04T06:21:09.668895,11356,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,438,down chimney,"down chimney
+There was no verb in that sentence!
+
+",15,313,,False,,2025-12-04T06:21:12.748102,11368,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,439,down chimney,"down chimney
+There was no verb in that sentence!
+
+",15,313,,False,,2025-12-04T06:21:15.783204,11388,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,440,score,"score
+Your score is 15 (total of 350 points), in 315 moves.
+This gives you the rank of Beginner.
+
+",15,315,,False,,2025-12-04T06:21:19.028410,11408,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,441,down,"down
+
+
+Only Santa Claus climbs down chimneys.
+
+",15,315,,False,,2025-12-04T06:21:22.024492,11443,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,442,open brown sack,"open brown sack
+
+
+You can't see any brown sack here!
+
+",15,315,,False,,2025-12-04T06:21:25.082819,11461,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,443,open brown sack,"open brown sack
+
+
+You can't see any brown sack here!
+
+",15,315,,False,,2025-12-04T06:21:28.085544,11483,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,444,inventory,"inventory
+
+
+You are carrying:
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A nasty knife
+  A brass lantern (providing light)
+
+",15,315,,False,,2025-12-04T06:21:31.363650,11505,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,445,score,"score
+Your score is 15 (total of 350 points), in 319 moves.
+This gives you the rank of Beginner.
+
+",15,319,,False,,2025-12-04T06:21:34.526445,11554,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,446,west,"west
+
+
+Living Room
+There is a rope here.
+There is a brown sack here.
+The brown sack contains:
+  A clove of garlic
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+A small leaflet is on the ground.
+
+",15,319,,False,,2025-12-04T06:21:37.567621,11589,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,447,get rope,"get rope
+
+
+Taken.
+
+",15,319,,False,,2025-12-04T06:21:40.667035,11653,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,448,get brown sack,"get brown sack
+
+
+Taken.
+
+",15,319,,False,,2025-12-04T06:21:43.701618,11667,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,449,open sack,"open sack
+
+
+It is already open.
+
+",15,319,,False,,2025-12-04T06:21:46.729423,11683,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,450,score,"score
+Your score is 15 (total of 350 points), in 323 moves.
+This gives you the rank of Beginner.
+
+",15,323,,False,,2025-12-04T06:21:49.987283,11700,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,451,open sack,"open sack
+
+
+It is already open.
+
+",15,323,,False,,2025-12-04T06:21:53.049393,11735,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,452,open sack,"open sack
+
+
+It is already open.
+
+",15,323,,False,,2025-12-04T06:21:56.119707,11752,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,453,open sack,"open sack
+
+
+It is already open.
+
+",15,323,,False,,2025-12-04T06:21:59.166172,11769,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,454,west,"west
+
+
+The door is nailed shut.
+
+",15,323,,False,,2025-12-04T06:22:02.322267,11786,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,455,score,"score
+Your score is 15 (total of 350 points), in 327 moves.
+This gives you the rank of Beginner.
+
+",15,327,,False,,2025-12-04T06:22:05.359398,11802,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,456,west,"west
+
+
+The door is nailed shut.
+
+",15,327,,False,,2025-12-04T06:22:08.550016,11837,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,457,inventory,"inventory
+
+
+You are carrying:
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A nasty knife
+  A brass lantern (providing light)
+
+",15,327,,False,,2025-12-04T06:22:11.559886,11853,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,458,open brown sack,"open brown sack
+
+
+It is already open.
+The lamp is definitely dimmer now.
+
+",15,327,,False,,2025-12-04T06:22:14.639557,11924,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,459,drop brass lantern,"drop brass lantern
+
+
+Dropped.
+
+",15,327,,False,,2025-12-04T06:22:17.832570,11951,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,460,score,"score
+Your score is 15 (total of 350 points), in 331 moves.
+This gives you the rank of Beginner.
+
+",15,331,,False,,2025-12-04T06:22:21.545520,11967,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,461,light lantern,"light lantern
+
+
+(Taken)
+It is already on.
+
+",15,331,,False,,2025-12-04T06:22:24.611160,12002,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,462,down chimney,"down chimney
+There was no verb in that sentence!
+
+",15,331,,False,,2025-12-04T06:22:27.702394,12022,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,463,climb down chimney,"climb down chimney
+
+
+You can't see any chimney here!
+
+",15,331,,False,,2025-12-04T06:22:30.928760,12042,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,464,open grating,"open grating
+
+
+You can't see any grating here!
+
+",15,331,,False,,2025-12-04T06:22:33.980730,12063,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,465,score,"score
+Your score is 15 (total of 350 points), in 334 moves.
+This gives you the rank of Beginner.
+
+",15,334,,False,,2025-12-04T06:22:37.096684,12085,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,466,look under egg,"look under egg
+
+
+There is nothing but dust there.
+
+",15,334,,False,,2025-12-04T06:22:40.096522,12120,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,467,west,"west
+
+
+The door is nailed shut.
+
+",15,334,,False,,2025-12-04T06:22:43.182656,12141,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,468,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern (providing light)
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A nasty knife
+
+",15,334,,False,,2025-12-04T06:22:46.305481,12157,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,469,south,"south
+
+
+You can't go that way.
+
+",15,334,,False,,2025-12-04T06:22:49.461573,12228,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,470,score,"score
+Your score is 15 (total of 350 points), in 338 moves.
+This gives you the rank of Beginner.
+
+",15,338,,False,,2025-12-04T06:22:52.442452,12244,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,471,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,338,,False,,2025-12-04T06:22:55.983633,12279,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,472,look at clockwork canary,"look at clockwork canary
+
+
+There's nothing special about the broken clockwork canary.
+
+",15,338,,False,,2025-12-04T06:22:59.612118,12298,6
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,473,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern (providing light)
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A nasty knife
+
+",15,338,,False,,2025-12-04T06:23:03.232237,12329,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,474,east,"east
+
+
+Kitchen
+
+",15,338,,False,,2025-12-04T06:23:06.298719,12400,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,475,score,"score
+Your score is 15 (total of 350 points), in 342 moves.
+This gives you the rank of Beginner.
+
+",15,342,,False,,2025-12-04T06:23:09.324740,12412,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,476,southwest,"southwest
+
+
+You can't go that way.
+
+",15,342,,False,,2025-12-04T06:23:12.375545,12447,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,477,north,"north
+
+
+You can't go that way.
+
+",15,342,,False,,2025-12-04T06:23:15.521578,12463,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,478,east,"east
+
+
+Behind House
+
+",15,342,,False,,2025-12-04T06:23:18.633502,12479,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,479,east,"east
+
+
+Clearing
+
+",15,342,,False,,2025-12-04T06:23:22.268375,12492,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,480,score,"score
+Your score is 15 (total of 350 points), in 346 moves.
+This gives you the rank of Beginner.
+
+",15,346,,False,,2025-12-04T06:23:25.316151,12505,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,481,open sack,"open sack
+
+
+It is already open.
+
+",15,346,,False,,2025-12-04T06:23:28.857037,12540,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,482,west,"west
+
+
+Behind House
+
+",15,346,,False,,2025-12-04T06:23:31.882449,12557,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,483,south,"south
+
+
+South of House
+
+",15,346,,False,,2025-12-04T06:23:34.963110,12570,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,484,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,346,,False,,2025-12-04T06:23:38.504261,12584,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,485,score,"score
+Your score is 15 (total of 350 points), in 350 moves.
+This gives you the rank of Beginner.
+
+",15,350,,False,,2025-12-04T06:23:41.565130,12603,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,486,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",15,350,,False,,2025-12-04T06:23:44.886713,12638,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,487,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,350,,False,,2025-12-04T06:23:47.973157,12659,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,488,north,"north
+
+
+North of House
+
+",15,350,,False,,2025-12-04T06:23:51.490654,12676,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,489,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,350,,False,,2025-12-04T06:23:54.565750,12690,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,490,score,"score
+Your score is 15 (total of 350 points), in 354 moves.
+This gives you the rank of Beginner.
+
+",15,354,,False,,2025-12-04T06:23:57.788712,12709,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,491,open sack,"open sack
+
+
+It is already open.
+
+",15,354,,False,,2025-12-04T06:24:01.344227,12744,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,492,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern (providing light)
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A nasty knife
+
+",15,354,,False,,2025-12-04T06:24:04.452356,12761,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,493,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern (providing light)
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A nasty knife
+
+",15,354,,False,,2025-12-04T06:24:07.844001,12832,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,494,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,354,,False,,2025-12-04T06:24:11.491988,12903,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,495,score,"score
+Your score is 15 (total of 350 points), in 358 moves.
+This gives you the rank of Beginner.
+
+",15,358,,False,,2025-12-04T06:24:14.697221,12922,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,496,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",15,358,,False,,2025-12-04T06:24:17.791380,12957,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,497,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,358,,False,,2025-12-04T06:24:20.928219,12978,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,498,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,358,,False,,2025-12-04T06:24:24.082513,12995,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,499,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,358,,False,,2025-12-04T06:24:27.072340,13012,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,500,score,"score
+Your score is 15 (total of 350 points), in 362 moves.
+This gives you the rank of Beginner.
+
+",15,362,,False,,2025-12-04T06:24:30.759254,13029,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,501,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,362,,False,,2025-12-04T06:24:34.089666,13045,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,502,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,362,,False,,2025-12-04T06:24:37.331607,13043,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,503,west,"west
+
+
+Forest
+
+",15,362,,False,,2025-12-04T06:24:40.559691,13019,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,504,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,362,,False,,2025-12-04T06:24:43.915690,13011,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,505,score,"score
+Your score is 15 (total of 350 points), in 366 moves.
+This gives you the rank of Beginner.
+
+",15,366,,False,,2025-12-04T06:24:47.213251,13019,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,506,open grating,"open grating
+
+
+The grating is locked.
+
+",15,366,,False,,2025-12-04T06:24:50.401712,13019,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,507,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern (providing light)
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A broken clockwork canary
+  A broken jewel-encrusted egg
+  A sword
+  A nasty knife
+
+",15,366,,False,,2025-12-04T06:24:53.661846,13021,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,508,west,"west
+
+
+Forest
+
+",15,366,,False,,2025-12-04T06:24:56.925056,13073,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,509,south,"south
+
+
+Forest
+
+",15,366,,False,,2025-12-04T06:25:00.679147,13064,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,510,score,"score
+Your score is 15 (total of 350 points), in 370 moves.
+This gives you the rank of Beginner.
+
+",15,370,,False,,2025-12-04T06:25:04.362332,13025,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,511,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,370,,False,,2025-12-04T06:25:07.524637,13025,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,512,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,370,,False,,2025-12-04T06:25:10.938224,13028,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,513,north,"north
+
+
+Clearing
+
+",15,370,,False,,2025-12-04T06:25:14.694008,12999,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,514,open grating with sword,"open grating with sword
+
+
+You can't see any grating here!
+
+",15,370,,False,,2025-12-04T06:25:18.733385,12986,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,515,score,"score
+Your score is 15 (total of 350 points), in 374 moves.
+This gives you the rank of Beginner.
+
+",15,374,,False,,2025-12-04T06:25:22.035370,12902,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,516,southwest,"southwest
+
+
+You can't go that way.
+
+",15,374,,False,,2025-12-04T06:25:25.257089,12902,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,517,northwest,"northwest
+
+
+You can't go that way.
+
+",15,374,,False,,2025-12-04T06:25:28.619249,12904,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,518,southwest,"southwest
+
+
+You can't go that way.
+
+",15,374,,False,,2025-12-04T06:25:32.468337,12906,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,519,southwest,"southwest
+
+
+You can't go that way.
+
+",15,374,,False,,2025-12-04T06:25:35.646141,12888,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,520,score,"score
+Your score is 15 (total of 350 points), in 378 moves.
+This gives you the rank of Beginner.
+
+",15,378,,False,,2025-12-04T06:25:39.532551,12892,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,521,southwest,"southwest
+
+
+You can't go that way.
+
+",15,378,,False,,2025-12-04T06:25:42.880691,12892,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,522,southwest,"southwest
+
+
+You can't go that way.
+
+",15,378,,False,,2025-12-04T06:25:46.710248,12890,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,523,north,"north
+
+
+Forest
+This is a dimly lit forest, with large trees all around.
+
+",15,378,,False,,2025-12-04T06:25:50.042689,12888,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,524,south,"south
+
+
+Clearing
+
+",15,378,,False,,2025-12-04T06:25:53.285156,12896,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,525,score,"score
+Your score is 15 (total of 350 points), in 382 moves.
+This gives you the rank of Beginner.
+
+",15,382,,False,,2025-12-04T06:25:56.594567,12882,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,526,look at brown sack,"look at brown sack
+
+
+The brown sack contains:
+  A clove of garlic
+
+",15,382,,False,,2025-12-04T06:25:59.955665,12882,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,527,drop broken clockwork canary,"drop broken clockwork canary
+
+
+Dropped.
+
+",15,382,,False,,2025-12-04T06:26:03.636763,12896,6
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,528,drop broken jewel-encrusted egg,"drop broken jewel-encrusted egg
+
+
+Dropped.
+
+",15,382,,False,,2025-12-04T06:26:06.828705,12884,7
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,529,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,382,,False,,2025-12-04T06:26:10.082673,12896,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,530,score,"score
+Your score is 15 (total of 350 points), in 386 moves.
+This gives you the rank of Beginner.
+
+",15,386,,False,,2025-12-04T06:26:13.352166,12897,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,531,north,"north
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",15,386,,False,,2025-12-04T06:26:16.682169,12897,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,532,south,"south
+
+
+Clearing
+There is a somewhat ruined egg here.
+There is a broken clockwork canary here.
+
+",15,386,,False,,2025-12-04T06:26:19.978867,12904,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,533,get sack,"get sack
+
+
+You already have that!
+
+",15,386,,False,,2025-12-04T06:26:23.336130,12918,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,534,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,386,,False,,2025-12-04T06:26:26.554765,12878,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,535,score,"score
+Your score is 15 (total of 350 points), in 390 moves.
+This gives you the rank of Beginner.
+
+",15,390,,False,,2025-12-04T06:26:29.919043,12880,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,536,west,"west
+
+
+Behind House
+
+",15,390,,False,,2025-12-04T06:26:33.833777,12880,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,537,northwest,"northwest
+
+
+North of House
+
+",15,390,,False,,2025-12-04T06:26:37.512735,12802,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,538,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",15,390,,False,,2025-12-04T06:26:41.257215,12802,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,539,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,390,,False,,2025-12-04T06:26:44.632875,12804,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,540,score,"score
+Your score is 15 (total of 350 points), in 394 moves.
+This gives you the rank of Beginner.
+
+",15,394,,False,,2025-12-04T06:26:48.430651,12805,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,541,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,394,,False,,2025-12-04T06:26:51.809810,12805,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,542,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,394,,False,,2025-12-04T06:26:55.039768,12810,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,543,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,394,,False,,2025-12-04T06:26:58.323680,12779,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,544,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,394,,False,,2025-12-04T06:27:01.553134,12782,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,545,score,"score
+Your score is 15 (total of 350 points), in 398 moves.
+This gives you the rank of Beginner.
+
+",15,398,,False,,2025-12-04T06:27:04.882232,12785,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,546,north,"north
+
+
+North of House
+
+",15,398,,False,,2025-12-04T06:27:08.646297,12785,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,547,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+The lamp is nearly out.
+
+",15,398,,False,,2025-12-04T06:27:12.543777,12787,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,548,light lantern,"light lantern
+
+
+It is already on.
+
+",15,398,,False,,2025-12-04T06:27:15.873805,12784,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,549,southwest,"southwest
+
+
+West of House
+There is a small mailbox here.
+
+",15,398,,False,,2025-12-04T06:27:19.338960,12787,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,550,score,"score
+Your score is 15 (total of 350 points), in 402 moves.
+This gives you the rank of Beginner.
+
+",15,402,,False,,2025-12-04T06:27:23.650381,12792,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,551,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,402,,False,,2025-12-04T06:27:29.198877,12792,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,552,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,402,,False,,2025-12-04T06:27:32.438474,12790,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,553,west,"west
+
+
+Forest
+
+",15,402,,False,,2025-12-04T06:27:36.164098,12780,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,554,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,402,,False,,2025-12-04T06:27:39.686171,12773,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,555,score,"score
+Your score is 15 (total of 350 points), in 406 moves.
+This gives you the rank of Beginner.
+
+",15,406,,False,,2025-12-04T06:27:43.150315,12774,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,556,get key,"get key
+
+
+You can't see any key here!
+
+",15,406,,False,,2025-12-04T06:27:46.485771,12774,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,557,look under pile of leaves,"look under pile of leaves
+
+
+There is nothing but dust there.
+
+",15,406,,False,,2025-12-04T06:27:50.027385,12774,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,558,west,"west
+
+
+Forest
+
+",15,406,,False,,2025-12-04T06:27:53.841641,12778,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,559,southwest,"southwest
+
+
+You can't go that way.
+You hear in the distance the chirping of a song bird.
+
+",15,406,,False,,2025-12-04T06:27:58.062768,12774,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,560,score,"score
+Your score is 15 (total of 350 points), in 410 moves.
+This gives you the rank of Beginner.
+
+",15,410,,False,,2025-12-04T06:28:01.399711,12776,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,561,south,"south
+
+
+Forest
+
+",15,410,,False,,2025-12-04T06:28:04.996838,12776,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,562,southwest,"southwest
+
+
+You can't go that way.
+
+",15,410,,False,,2025-12-04T06:28:08.925701,12772,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,563,southwest,"southwest
+
+
+You can't go that way.
+You hear in the distance the chirping of a song bird.
+
+",15,410,,False,,2025-12-04T06:28:12.910899,12772,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,564,west,"west
+
+
+Forest
+
+",15,410,,False,,2025-12-04T06:28:16.826526,12789,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,565,score,"score
+Your score is 15 (total of 350 points), in 414 moves.
+This gives you the rank of Beginner.
+
+",15,414,,False,,2025-12-04T06:28:20.735409,12785,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,566,southwest,"southwest
+
+
+You can't go that way.
+You'd better have more light than from the brass lantern.
+
+",15,414,,False,,2025-12-04T06:28:24.362722,12785,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,567,light lantern with lamp oil,"light lantern with lamp oil
+You used the word ""oil"" in a way that I don't understand.
+
+",15,414,,False,,2025-12-04T06:28:28.509339,12797,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,568,light lantern with oil,"light lantern with oil
+You used the word ""oil"" in a way that I don't understand.
+
+",15,414,,False,,2025-12-04T06:28:33.117544,12814,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,569,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A sword
+  A nasty knife
+
+",15,414,,False,,2025-12-04T06:28:36.384330,12831,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,570,score,"score
+Your score is 15 (total of 350 points), in 416 moves.
+This gives you the rank of Beginner.
+
+",15,416,,False,,2025-12-04T06:28:39.941343,12861,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,571,drop brass lantern,"drop brass lantern
+
+
+Dropped.
+
+",15,416,,False,,2025-12-04T06:28:43.823315,12861,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,572,get lamp oil,"get lamp oil
+You used the word ""oil"" in a way that I don't understand.
+
+",15,416,,False,,2025-12-04T06:28:47.551731,12863,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,573,look,"look
+
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+There is a brass lantern (battery-powered) here.
+
+",15,416,,False,,2025-12-04T06:28:51.974525,12873,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,574,get brass lantern,"get brass lantern
+
+
+Taken.
+
+",15,416,,False,,2025-12-04T06:28:55.243134,12905,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,575,score,"score
+Your score is 15 (total of 350 points), in 419 moves.
+This gives you the rank of Beginner.
+
+",15,419,,False,,2025-12-04T06:28:59.197764,12907,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,576,west,"west
+
+
+You would need a machete to go further west.
+You hear in the distance the chirping of a song bird.
+
+",15,419,,False,,2025-12-04T06:29:03.614716,12907,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,577,east,"east
+
+
+Forest Path
+
+",15,419,,False,,2025-12-04T06:29:06.872607,12916,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,578,south,"south
+
+
+North of House
+
+",15,419,,False,,2025-12-04T06:29:11.127885,12915,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,579,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,419,,False,,2025-12-04T06:29:14.682149,12909,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,580,score,"score
+Your score is 15 (total of 350 points), in 423 moves.
+This gives you the rank of Beginner.
+
+",15,423,,False,,2025-12-04T06:29:18.590113,12914,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,581,southwest,"southwest
+
+
+West of House
+There is a small mailbox here.
+
+",15,423,,False,,2025-12-04T06:29:22.376774,12914,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,582,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,423,,False,,2025-12-04T06:29:26.760309,12917,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,583,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,423,,False,,2025-12-04T06:29:30.749505,12920,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,584,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,423,,False,,2025-12-04T06:29:34.043542,12924,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,585,score,"score
+Your score is 15 (total of 350 points), in 427 moves.
+This gives you the rank of Beginner.
+
+",15,427,,False,,2025-12-04T06:29:38.399267,12916,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,586,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,427,,False,,2025-12-04T06:29:42.100481,12916,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,587,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,427,,False,,2025-12-04T06:29:45.857945,12917,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,588,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,427,,False,,2025-12-04T06:29:49.632462,12914,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,589,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,427,,False,,2025-12-04T06:29:53.570622,12915,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,590,score,"score
+Your score is 15 (total of 350 points), in 431 moves.
+This gives you the rank of Beginner.
+
+",15,431,,False,,2025-12-04T06:29:57.566469,12916,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,591,open mailbox,"open mailbox
+
+
+It is already open.
+
+",15,431,,False,,2025-12-04T06:30:01.269764,12916,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,592,west,"west
+
+
+Forest
+
+",15,431,,False,,2025-12-04T06:30:05.542496,12876,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,593,southwest,"southwest
+
+
+You can't go that way.
+You hear in the distance the chirping of a song bird.
+
+",15,431,,False,,2025-12-04T06:30:09.035093,12850,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,594,southwest,"southwest
+
+
+You can't go that way.
+
+",15,431,,False,,2025-12-04T06:30:12.942605,12865,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,595,score,"score
+Your score is 15 (total of 350 points), in 435 moves.
+This gives you the rank of Beginner.
+
+",15,435,,False,,2025-12-04T06:30:17.093228,12858,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,596,south,"south
+
+
+Forest
+
+",15,435,,False,,2025-12-04T06:30:20.859809,12858,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,597,north,"north
+
+
+Clearing
+There is a somewhat ruined egg here.
+There is a broken clockwork canary here.
+
+",15,435,,False,,2025-12-04T06:30:24.408526,12851,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,598,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,435,,False,,2025-12-04T06:30:28.284365,12865,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,599,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,435,,False,,2025-12-04T06:30:32.576107,12853,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,600,score,"score
+Your score is 15 (total of 350 points), in 439 moves.
+This gives you the rank of Beginner.
+
+",15,439,,False,,2025-12-04T06:30:36.034640,12858,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,601,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,439,,False,,2025-12-04T06:30:39.905162,12858,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,602,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,439,,False,,2025-12-04T06:30:43.800991,12864,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,603,north,"north
+
+
+Forest
+
+",15,439,,False,,2025-12-04T06:30:47.684215,12858,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,604,southwest,"southwest
+
+
+You can't go that way.
+
+",15,439,,False,,2025-12-04T06:30:51.695190,12854,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,605,score,"score
+Your score is 15 (total of 350 points), in 443 moves.
+This gives you the rank of Beginner.
+
+",15,443,,False,,2025-12-04T06:30:55.352704,12843,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,606,look at mailbox,"look at mailbox
+
+
+You can't see any mailbox here!
+
+",15,443,,False,,2025-12-04T06:30:59.438996,12843,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,607,west,"west
+
+
+Forest Path
+
+",15,443,,False,,2025-12-04T06:31:02.864416,12846,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,608,southwest,"southwest
+
+
+You can't go that way.
+
+",15,443,,False,,2025-12-04T06:31:07.034154,12843,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,609,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,443,,False,,2025-12-04T06:31:10.622235,12835,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,610,score,"score
+Your score is 15 (total of 350 points), in 447 moves.
+This gives you the rank of Beginner.
+
+",15,447,,False,,2025-12-04T06:31:14.754348,12835,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,611,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,447,,False,,2025-12-04T06:31:18.295933,12835,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,612,open grating,"open grating
+
+
+The grating is locked.
+
+",15,447,,False,,2025-12-04T06:31:22.565400,12838,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,613,unlock grating with sword,"unlock grating with sword
+
+
+Can you unlock a grating with a sword?
+
+",15,447,,False,,2025-12-04T06:31:26.792879,12846,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,614,look under leaves,"look under leaves
+
+
+There is nothing but dust there.
+
+",15,447,,False,,2025-12-04T06:31:30.123669,12856,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,615,score,"score
+Your score is 15 (total of 350 points), in 451 moves.
+This gives you the rank of Beginner.
+
+",15,451,,False,,2025-12-04T06:31:33.751477,12858,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,616,west,"west
+
+
+Forest
+
+",15,451,,False,,2025-12-04T06:31:37.622285,12858,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,617,southwest,"southwest
+
+
+You can't go that way.
+
+",15,451,,False,,2025-12-04T06:31:41.614572,12847,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,618,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,451,,False,,2025-12-04T06:31:45.474311,12847,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,619,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,451,,False,,2025-12-04T06:31:49.191634,12853,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,620,score,"score
+Your score is 15 (total of 350 points), in 455 moves.
+This gives you the rank of Beginner.
+
+",15,455,,False,,2025-12-04T06:31:53.414534,12860,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,621,west,"west
+
+
+Forest
+
+",15,455,,False,,2025-12-04T06:31:57.427490,12860,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,622,south,"south
+
+
+Forest
+
+",15,455,,False,,2025-12-04T06:32:00.609434,12856,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,623,west,"west
+
+
+Forest
+
+",15,455,,False,,2025-12-04T06:32:04.555608,12849,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,624,south,"south
+
+
+Forest
+
+",15,455,,False,,2025-12-04T06:32:08.859400,12843,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,625,score,"score
+Your score is 15 (total of 350 points), in 459 moves.
+This gives you the rank of Beginner.
+
+",15,459,,False,,2025-12-04T06:32:12.330888,12835,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,626,southwest,"southwest
+
+
+You can't go that way.
+
+",15,459,,False,,2025-12-04T06:32:16.075755,12835,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,627,southwest,"southwest
+
+
+You can't go that way.
+
+",15,459,,False,,2025-12-04T06:32:20.117555,12833,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,628,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A sword
+  A nasty knife
+
+",15,459,,False,,2025-12-04T06:32:24.024544,12829,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,629,west,"west
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",15,459,,False,,2025-12-04T06:32:27.951378,12855,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,630,score,"score
+Your score is 15 (total of 350 points), in 463 moves.
+This gives you the rank of Beginner.
+
+",15,463,,False,,2025-12-04T06:32:31.737669,12862,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,631,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,463,,False,,2025-12-04T06:32:36.479822,12862,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,632,west,"west
+
+
+You would need a machete to go further west.
+
+",15,463,,False,,2025-12-04T06:32:39.731168,12863,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,633,southwest,"southwest
+
+
+You can't go that way.
+You hear in the distance the chirping of a song bird.
+
+",15,463,,False,,2025-12-04T06:32:43.427597,12867,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,634,southwest,"southwest
+
+
+You can't go that way.
+
+",15,463,,False,,2025-12-04T06:32:47.219082,12876,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,635,score,"score
+Your score is 15 (total of 350 points), in 467 moves.
+This gives you the rank of Beginner.
+
+",15,467,,False,,2025-12-04T06:32:51.087021,12867,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,636,southwest,"southwest
+
+
+You can't go that way.
+
+",15,467,,False,,2025-12-04T06:32:54.727186,12867,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,637,southwest,"southwest
+
+
+You can't go that way.
+
+",15,467,,False,,2025-12-04T06:32:58.766715,12859,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,638,southwest,"southwest
+
+
+You can't go that way.
+
+",15,467,,False,,2025-12-04T06:33:02.606381,12855,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,639,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,467,,False,,2025-12-04T06:33:06.311771,12849,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,640,score,"score
+Your score is 15 (total of 350 points), in 471 moves.
+This gives you the rank of Beginner.
+
+",15,471,,False,,2025-12-04T06:33:11.084060,12851,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,641,southwest,"southwest
+
+
+You can't go that way.
+
+",15,471,,False,,2025-12-04T06:33:14.561985,12851,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,642,south,"south
+
+
+Forest
+
+",15,471,,False,,2025-12-04T06:33:17.881465,12844,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,643,west,"west
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",15,471,,False,,2025-12-04T06:33:21.984312,12837,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,644,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,471,,False,,2025-12-04T06:33:26.021632,12848,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,645,score,"score
+Your score is 15 (total of 350 points), in 475 moves.
+This gives you the rank of Beginner.
+
+",15,475,,False,,2025-12-04T06:33:29.782557,12847,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,646,west,"west
+
+
+You would need a machete to go further west.
+
+",15,475,,False,,2025-12-04T06:33:33.147800,12847,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,647,southwest,"southwest
+
+
+You can't go that way.
+
+",15,475,,False,,2025-12-04T06:33:37.386408,12852,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,648,southwest,"southwest
+
+
+You can't go that way.
+
+",15,475,,False,,2025-12-04T06:33:41.030613,12851,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,649,southwest,"southwest
+
+
+You can't go that way.
+You hear in the distance the chirping of a song bird.
+
+",15,475,,False,,2025-12-04T06:33:45.226253,12847,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,650,score,"score
+Your score is 15 (total of 350 points), in 479 moves.
+This gives you the rank of Beginner.
+
+",15,479,,False,,2025-12-04T06:33:49.273155,12859,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,651,west,"west
+
+
+You would need a machete to go further west.
+
+",15,479,,False,,2025-12-04T06:33:52.985483,12859,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,652,southwest,"southwest
+
+
+You can't go that way.
+
+",15,479,,False,,2025-12-04T06:33:56.563979,12864,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,653,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,479,,False,,2025-12-04T06:34:00.630241,12861,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,654,get sword,"get sword
+
+
+You already have that!
+
+",15,479,,False,,2025-12-04T06:34:04.944895,12871,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,655,score,"score
+Your score is 15 (total of 350 points), in 483 moves.
+This gives you the rank of Beginner.
+
+",15,483,,False,,2025-12-04T06:34:08.656204,12868,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,656,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,483,,False,,2025-12-04T06:34:12.390968,12868,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,657,west,"west
+
+
+Forest
+
+",15,483,,False,,2025-12-04T06:34:15.564499,12870,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,658,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,483,,False,,2025-12-04T06:34:19.426904,12858,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,659,west,"west
+
+
+You would need a machete to go further west.
+
+",15,483,,False,,2025-12-04T06:34:23.914184,12855,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,660,score,"score
+Your score is 15 (total of 350 points), in 487 moves.
+This gives you the rank of Beginner.
+
+",15,487,,False,,2025-12-04T06:34:27.541537,12858,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,661,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A sword
+  A nasty knife
+
+",15,487,,False,,2025-12-04T06:34:31.279866,12858,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,662,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,487,,False,,2025-12-04T06:34:35.045843,12890,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,663,west,"west
+
+
+You would need a machete to go further west.
+You hear in the distance the chirping of a song bird.
+
+",15,487,,False,,2025-12-04T06:34:38.734419,12884,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,664,southwest,"southwest
+
+
+You can't go that way.
+
+",15,487,,False,,2025-12-04T06:34:43.199254,12898,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,665,score,"score
+Your score is 15 (total of 350 points), in 491 moves.
+This gives you the rank of Beginner.
+
+",15,491,,False,,2025-12-04T06:34:46.603338,12894,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,666,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,491,,False,,2025-12-04T06:34:50.430029,12894,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,667,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,491,,False,,2025-12-04T06:34:54.862300,12898,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,668,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,491,,False,,2025-12-04T06:34:58.254615,12900,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,669,open grating with nasty knife,"open grating with nasty knife
+
+
+The grating is locked.
+
+",15,491,,False,,2025-12-04T06:35:02.797611,12906,6
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,670,score,"score
+Your score is 15 (total of 350 points), in 495 moves.
+This gives you the rank of Beginner.
+
+",15,495,,False,,2025-12-04T06:35:06.380077,12918,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,671,west,"west
+
+
+Forest
+
+",15,495,,False,,2025-12-04T06:35:09.925400,12918,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,672,south,"south
+
+
+Forest
+
+",15,495,,False,,2025-12-04T06:35:13.860222,12910,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,673,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,495,,False,,2025-12-04T06:35:17.784786,12905,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,674,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A sword
+  A nasty knife
+
+",15,495,,False,,2025-12-04T06:35:21.942495,12900,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,675,score,"score
+Your score is 15 (total of 350 points), in 499 moves.
+This gives you the rank of Beginner.
+
+",15,499,,False,,2025-12-04T06:35:25.235052,12932,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,676,west,"west
+
+
+Forest
+
+",15,499,,False,,2025-12-04T06:35:29.329246,12932,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,677,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,499,,False,,2025-12-04T06:35:33.688349,12926,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,678,west,"west
+
+
+Forest
+
+",15,499,,False,,2025-12-04T06:35:37.359779,12931,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,679,take sword,"take sword
+
+
+You already have that!
+You hear in the distance the chirping of a song bird.
+
+",15,499,,False,,2025-12-04T06:35:41.058971,12927,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,680,score,"score
+Your score is 15 (total of 350 points), in 503 moves.
+This gives you the rank of Beginner.
+
+",15,503,,False,,2025-12-04T06:35:44.846151,12944,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,681,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,503,,False,,2025-12-04T06:35:49.274141,12944,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,682,southwest,"southwest
+
+
+You can't go that way.
+
+",15,503,,False,,2025-12-04T06:35:52.951635,12936,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,683,open door,"open door
+
+
+You can't see any door here!
+You hear in the distance the chirping of a song bird.
+
+",15,503,,False,,2025-12-04T06:35:56.294277,12935,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,684,east,"east
+
+
+Forest Path
+
+",15,503,,False,,2025-12-04T06:36:01.540730,12946,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,685,score,"score
+Your score is 15 (total of 350 points), in 507 moves.
+This gives you the rank of Beginner.
+
+",15,507,,False,,2025-12-04T06:36:05.378386,12942,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,686,southwest,"southwest
+
+
+You can't go that way.
+You hear in the distance the chirping of a song bird.
+
+",15,507,,False,,2025-12-04T06:36:08.735898,12942,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,687,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,507,,False,,2025-12-04T06:36:12.463409,12955,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,688,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,507,,False,,2025-12-04T06:36:15.878237,12965,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,689,get key,"get key
+
+
+You can't see any key here!
+
+",15,507,,False,,2025-12-04T06:36:20.077172,12964,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,690,score,"score
+Your score is 15 (total of 350 points), in 511 moves.
+This gives you the rank of Beginner.
+
+",15,511,,False,,2025-12-04T06:36:24.424752,12966,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,691,west,"west
+
+
+Forest
+
+",15,511,,False,,2025-12-04T06:36:28.071211,12966,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,692,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,511,,False,,2025-12-04T06:36:31.394613,12960,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,693,south,"south
+
+
+Forest
+
+",15,511,,False,,2025-12-04T06:36:36.027300,12962,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,694,look under leaves,"look under leaves
+
+
+You can't see any leaves here!
+
+",15,511,,False,,2025-12-04T06:36:39.347092,12950,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,695,score,"score
+Your score is 15 (total of 350 points), in 515 moves.
+This gives you the rank of Beginner.
+
+",15,515,,False,,2025-12-04T06:36:43.512785,12953,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,696,west,"west
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",15,515,,False,,2025-12-04T06:36:46.865079,12953,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,697,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,515,,False,,2025-12-04T06:36:51.286491,12961,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,698,get pile of leaves,"get pile of leaves
+
+
+Taken.
+
+",15,515,,False,,2025-12-04T06:36:54.742055,12964,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,699,open grating,"open grating
+
+
+The grating is locked.
+
+",15,515,,False,,2025-12-04T06:36:58.918640,12965,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,700,score,"score
+Your score is 15 (total of 350 points), in 519 moves.
+This gives you the rank of Beginner.
+
+",15,519,,False,,2025-12-04T06:37:02.743631,12964,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,701,inventory,"inventory
+
+
+You are carrying:
+  A pile of leaves
+  A brass lantern
+  A brown sack
+  The brown sack contains:
+    A clove of garlic
+  A rope
+  A sword
+  A nasty knife
+
+",15,519,,False,,2025-12-04T06:37:06.414698,12964,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,702,drop pile of leaves,"drop pile of leaves
+
+
+Dropped.
+
+",15,519,,False,,2025-12-04T06:37:10.942416,13008,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,703,west,"west
+
+
+Forest
+
+",15,519,,False,,2025-12-04T06:37:14.346319,13010,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,704,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,519,,False,,2025-12-04T06:37:17.980716,13005,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,705,score,"score
+Your score is 15 (total of 350 points), in 523 moves.
+This gives you the rank of Beginner.
+
+",15,523,,False,,2025-12-04T06:37:22.058783,13008,4
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,706,look at mailbox,"look at mailbox
+
+
+You can't see any mailbox here!
+
+",15,523,,False,,2025-12-04T06:37:26.593673,13008,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,707,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,523,,False,,2025-12-04T06:37:29.950341,13015,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,708,southwest,"southwest
+
+
+You can't go that way.
+
+",15,523,,False,,2025-12-04T06:37:33.928619,13018,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,709,climb tree,"climb tree
+
+
+You can't see any tree here!
+
+",15,523,,False,,2025-12-04T06:37:38.225357,13016,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,710,score,"score
+Your score is 15 (total of 350 points), in 527 moves.
+This gives you the rank of Beginner.
+
+",15,527,,False,,2025-12-04T06:37:41.620888,13013,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,711,southwest,"southwest
+
+
+You can't go that way.
+
+",15,527,,False,,2025-12-04T06:37:45.361204,13013,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,712,south,"south
+
+
+Forest Path
+
+",15,527,,False,,2025-12-04T06:37:49.806900,12958,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,713,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,527,,False,,2025-12-04T06:37:53.926586,12955,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,714,get clove of garlic,"get clove of garlic
+
+
+Taken.
+
+",15,527,,False,,2025-12-04T06:37:57.415804,12963,5
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,715,score,"score
+Your score is 15 (total of 350 points), in 531 moves.
+This gives you the rank of Beginner.
+
+",15,531,,False,,2025-12-04T06:38:01.052629,12956,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,716,west,"west
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",15,531,,False,,2025-12-04T06:38:05.356898,12956,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,717,southwest,"southwest
+
+
+You can't go that way.
+
+",15,531,,False,,2025-12-04T06:38:09.284300,12964,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,718,west,"west
+
+
+You would need a machete to go further west.
+
+",15,531,,False,,2025-12-04T06:38:12.544096,12963,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,719,west,"west
+
+
+You would need a machete to go further west.
+
+",15,531,,False,,2025-12-04T06:38:17.622100,12968,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,720,score,"score
+Your score is 15 (total of 350 points), in 535 moves.
+This gives you the rank of Beginner.
+
+",15,535,,False,,2025-12-04T06:38:20.942386,12932,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,721,east,"east
+
+
+Forest Path
+
+",15,535,,False,,2025-12-04T06:38:24.224561,12932,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,722,southwest,"southwest
+
+
+You can't go that way.
+You hear in the distance the chirping of a song bird.
+
+",15,535,,False,,2025-12-04T06:38:28.211508,12933,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,723,southwest,"southwest
+
+
+You can't go that way.
+
+",15,535,,False,,2025-12-04T06:38:32.308063,12942,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,724,inventory,"inventory
+
+
+You are carrying:
+  A clove of garlic
+  A brass lantern
+  A brown sack
+  A rope
+  A sword
+  A nasty knife
+
+",15,535,,False,,2025-12-04T06:38:35.800175,12938,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,725,score,"score
+Your score is 15 (total of 350 points), in 539 moves.
+This gives you the rank of Beginner.
+
+",15,539,,False,,2025-12-04T06:38:40.236139,12962,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,726,west,"west
+
+
+Forest
+
+",15,539,,False,,2025-12-04T06:38:43.772063,12962,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,727,east,"east
+
+
+Forest Path
+
+",15,539,,False,,2025-12-04T06:38:47.702174,12954,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,728,southwest,"southwest
+
+
+You can't go that way.
+
+",15,539,,False,,2025-12-04T06:38:52.530894,12942,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,729,west,"west
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",15,539,,False,,2025-12-04T06:38:55.875504,12934,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,730,score,"score
+Your score is 15 (total of 350 points), in 543 moves.
+This gives you the rank of Beginner.
+
+",15,543,,False,,2025-12-04T06:38:59.814794,12941,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,731,southwest,"southwest
+
+
+You can't go that way.
+
+",15,543,,False,,2025-12-04T06:39:03.107098,12941,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,732,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,543,,False,,2025-12-04T06:39:07.679804,12937,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,733,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,543,,False,,2025-12-04T06:39:11.149435,12939,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,734,open brown sack,"open brown sack
+
+
+It is already open.
+
+",15,543,,False,,2025-12-04T06:39:15.284658,12943,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,735,score,"score
+Your score is 15 (total of 350 points), in 547 moves.
+This gives you the rank of Beginner.
+
+",15,547,,False,,2025-12-04T06:39:18.890690,12948,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,736,north,"north
+
+
+The forest becomes impenetrable to the north.
+
+",15,547,,False,,2025-12-04T06:39:22.948270,12948,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,737,south,"south
+
+
+Forest Path
+
+",15,547,,False,,2025-12-04T06:39:26.827646,12948,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,738,southwest,"southwest
+
+
+You can't go that way.
+
+",15,547,,False,,2025-12-04T06:39:30.209102,12944,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,739,open mailbox,"open mailbox
+
+
+You can't see any mailbox here!
+
+",15,547,,False,,2025-12-04T06:39:34.237646,12940,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,740,score,"score
+Your score is 15 (total of 350 points), in 551 moves.
+This gives you the rank of Beginner.
+
+",15,551,,False,,2025-12-04T06:39:38.428605,12942,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,741,west,"west
+
+
+Forest
+
+",15,551,,False,,2025-12-04T06:39:42.002778,12942,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,742,east,"east
+
+
+Forest Path
+
+",15,551,,False,,2025-12-04T06:39:45.777616,12934,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,743,southwest,"southwest
+
+
+You can't go that way.
+
+",15,551,,False,,2025-12-04T06:39:50.761436,12923,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,744,southwest,"southwest
+
+
+You can't go that way.
+
+",15,551,,False,,2025-12-04T06:39:54.025171,12914,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,745,score,"score
+Your score is 15 (total of 350 points), in 555 moves.
+This gives you the rank of Beginner.
+
+",15,555,,False,,2025-12-04T06:39:57.523758,12912,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,746,west,"west
+
+
+Forest
+
+",15,555,,False,,2025-12-04T06:40:01.342732,12912,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,747,east,"east
+
+
+Forest Path
+
+",15,555,,False,,2025-12-04T06:40:05.146515,12904,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,748,west,"west
+
+
+Forest
+
+",15,555,,False,,2025-12-04T06:40:09.186451,12893,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,749,north,"north
+
+
+Clearing
+On the ground is a pile of leaves.
+
+",15,555,,False,,2025-12-04T06:40:12.977632,12887,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,750,score,"score
+Your score is 15 (total of 350 points), in 559 moves.
+This gives you the rank of Beginner.
+
+",15,559,,False,,2025-12-04T06:40:17.485157,12891,3
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,751,open sack,"open sack
+
+
+It is already open.
+
+",15,559,,False,,2025-12-04T06:40:21.309885,12891,2
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,752,west,"west
+
+
+Forest
+You hear in the distance the chirping of a song bird.
+
+",15,559,,False,,2025-12-04T06:40:24.503348,12891,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,753,west,"west
+
+
+You would need a machete to go further west.
+
+",15,559,,False,,2025-12-04T06:40:28.457805,12859,1
+e3d44cdf-6557-40ae-b97e-acfa1ab6fa93,448d3bba-9520-49c2-a9d5-e6d19a71cb12,0,gpt-4.1-mini,754,northwest,"northwest
+
+
+You can't go that way.
+
+",15,559,,False,,2025-12-04T06:40:32.314140,12867,2

@@ -40,6 +40,10 @@ def build_prompt(game_state: "GameState", model_name: str) -> str:
         "The \'south\' command moves you in the south direction. "
         "The \'east\' command moves you in the east direction. "
         "The \'west\' command moves you in the west direction. "
+        "The \'northwest\' command moves you in the northwest direction. "
+        "The \'southwest\' command moves you in the southwest direction. "
+        "The \'northeast\' command moves you in the northeast direction. "
+        "The \'southeast\' command moves you in the southeast direction. "
         "The \'up\' command will move you up direction. "
         "The \'down\' command will move you in the down direction. "
         "The \'look\' command will give you a description of the area around you. "
@@ -69,13 +73,11 @@ def build_prompt(game_state: "GameState", model_name: str) -> str:
         "Here some clues to help you start to play: "
         "The house has one window that you can open and use it to enter the house. "
         "Use the examine command to analyze each objects you encounter. if you cannot pickup an item, you may be able to move it. "
-        "The goal of the game is to get a score of 350 in as few moves as possible. \n"
-        # "After every 5 commands, check your progress with the score command. "
-        # "If you have the \'ZORK owner\'s manual\' in your inventory, reading it might help understand gameplay.\n"
-        # f"Model: {model_name}. Current score: {score_text}. Inventory: {inventory_text}.\n"
+        "If you enter Loud Room use the command \'say \"echo\"\' before you do anything else. "
+        "The goal of the game is to get a score of 350 in as few moves as possible. "
+        "If you die, the game will restart and you can try again. Try to figure out what you did wrong and do better in the next game. \n"
         "Recent turns:\n"
         f"{history_block}\n"
-        # "Output a single text-adventure command only."
     )
     return prompt
 

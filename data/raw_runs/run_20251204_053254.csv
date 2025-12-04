@@ -1,0 +1,570 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T05:33:00.004699,744,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T05:33:03.150639,780,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T05:33:06.160220,800,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,3,open window,"open window
+
+
+You can't see any window here!
+
+",0,0,,False,,2025-12-04T05:33:09.168259,814,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,4,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T05:33:12.165547,833,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,5,score,"score
+Your score is 0 (total of 350 points), in 5 moves.
+This gives you the rank of Beginner.
+
+",0,5,,False,,2025-12-04T05:33:15.144027,884,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,6,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,5,,False,,2025-12-04T05:33:18.149735,919,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,7,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,5,,False,,2025-12-04T05:33:21.599342,967,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,8,in,"in
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,5,,False,,2025-12-04T05:33:24.633194,993,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,9,get sack,"get sack
+
+
+Taken.
+
+",0,5,,False,,2025-12-04T05:33:27.634705,1101,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,10,score,"score
+Your score is 10 (total of 350 points), in 9 moves.
+This gives you the rank of Beginner.
+
+",10,9,,False,,2025-12-04T05:33:30.688361,1115,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,11,up,"up
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",10,9,,False,,2025-12-04T05:33:34.044486,1150,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,12,down,"down
+
+
+Kitchen
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",10,9,,False,,2025-12-04T05:33:36.994824,1184,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,13,get bottle,"get bottle
+
+
+Taken.
+
+",10,9,,False,,2025-12-04T05:33:39.999536,1215,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,14,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",10,9,,False,,2025-12-04T05:33:42.960773,1229,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,15,score,"score
+Your score is 10 (total of 350 points), in 13 moves.
+This gives you the rank of Beginner.
+
+",10,13,,False,,2025-12-04T05:33:45.929150,1320,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,16,get lantern,"get lantern
+
+
+Taken.
+
+",10,13,,False,,2025-12-04T05:33:48.937270,1355,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,17,open trophy case,"open trophy case
+
+
+Opened.
+
+",10,13,,False,,2025-12-04T05:33:52.403609,1369,3
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,18,get sword,"get sword
+
+
+Taken.
+
+",10,13,,False,,2025-12-04T05:33:55.435221,1385,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,19,light lantern,"light lantern
+
+
+The brass lantern is now on.
+
+",10,13,,False,,2025-12-04T05:33:58.465978,1399,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,20,score,"score
+Your score is 10 (total of 350 points), in 17 moves.
+This gives you the rank of Beginner.
+
+",10,17,,False,,2025-12-04T05:34:01.574563,1418,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,21,west,"west
+
+
+The door is nailed shut.
+
+",10,17,,False,,2025-12-04T05:34:04.938234,1453,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,22,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",10,17,,False,,2025-12-04T05:34:08.026318,1469,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,23,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",10,17,,False,,2025-12-04T05:34:11.093952,1509,3
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,24,down,"down
+
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+Your sword is glowing with a faint blue glow.
+
+",10,17,,False,,2025-12-04T05:34:14.083743,1540,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,25,score,"score
+Your score is 35 (total of 350 points), in 21 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,21,,False,,2025-12-04T05:34:17.030888,1621,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,26,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+The troll's swing almost knocks you over as you barely parry in time.
+
+",35,21,,False,,2025-12-04T05:34:20.042387,1658,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,27,attack troll with sword,"attack troll with sword
+
+
+Your sword misses the troll by an inch.
+The troll swings, you parry, but the force of his blow knocks your sword away.
+
+",35,21,,False,,2025-12-04T05:34:23.084260,1756,4
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,28,get sword,"get sword
+
+
+Taken.
+The troll's axe barely misses your ear.
+
+",35,21,,False,,2025-12-04T05:34:26.755376,1800,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,29,attack troll with sword,"attack troll with sword
+
+
+The troll's weapon is knocked to the floor, leaving him unarmed.
+The troll, angered and humiliated, recovers his weapon. He appears to have an
+axe to grind with you.
+
+",35,21,,False,,2025-12-04T05:34:29.780503,1823,4
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,30,score,"score
+Your score is 35 (total of 350 points), in 25 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,25,,False,,2025-12-04T05:34:33.346632,1880,4
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,31,attack troll with sword,"attack troll with sword
+
+
+The troll takes a fatal blow and slumps to the floor dead.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+",35,25,,False,,2025-12-04T05:34:36.716672,1917,4
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,32,east,"east
+
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+",35,25,,False,,2025-12-04T05:34:39.780583,1989,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,33,north,"north
+
+
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the
+south side of the chasm, where a crack opens into a passage.
+
+",35,25,,False,,2025-12-04T05:34:42.845546,2029,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,34,southwest,"southwest
+
+
+East-West Passage
+
+",35,25,,False,,2025-12-04T05:34:47.684948,2075,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,35,score,"score
+Your score is 40 (total of 350 points), in 29 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,29,,False,,2025-12-04T05:34:50.909238,2089,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,36,west,"west
+
+
+The Troll Room
+There is a bloody axe here.
+
+",40,29,,False,,2025-12-04T05:34:54.330264,2126,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,37,get axe,"get axe
+
+
+Your load is too heavy, especially in light of your condition.
+
+",40,29,,False,,2025-12-04T05:34:57.454402,2147,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,38,drop sack,"drop sack
+
+
+Dropped.
+
+",40,29,,False,,2025-12-04T05:35:00.466368,2172,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,39,get axe,"get axe
+
+
+Taken.
+
+",40,29,,False,,2025-12-04T05:35:03.554437,2186,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,40,score,"score
+Your score is 40 (total of 350 points), in 33 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,33,,False,,2025-12-04T05:35:06.633501,2200,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,41,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",40,33,,False,,2025-12-04T05:35:09.771018,2237,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,42,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",40,33,,False,,2025-12-04T05:35:13.223194,2264,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,43,east,"east
+
+
+The Troll Room
+There is a brown sack here.
+
+",40,33,,False,,2025-12-04T05:35:16.214858,2291,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,44,get sack,"get sack
+
+
+Your load is too heavy, especially in light of your condition.
+
+",40,33,,False,,2025-12-04T05:35:19.690419,2312,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,45,score,"score
+Your score is 40 (total of 350 points), in 37 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,37,,False,,2025-12-04T05:35:23.146515,2337,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,46,drop axe,"drop axe
+
+
+Dropped.
+
+",40,37,,False,,2025-12-04T05:35:26.200430,2374,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,47,get sack,"get sack
+
+
+Taken.
+
+",40,37,,False,,2025-12-04T05:35:29.690902,2388,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,48,south,"south
+
+
+Cellar
+
+",40,37,,False,,2025-12-04T05:35:32.661907,2402,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,49,south,"south
+
+
+East of Chasm
+You are on the east edge of a chasm, the bottom of which cannot be seen. A
+narrow passage goes north, and the path you are on continues to the east.
+
+",40,37,,False,,2025-12-04T05:35:35.620410,2415,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,50,score,"score
+Your score is 40 (total of 350 points), in 41 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,41,,False,,2025-12-04T05:35:39.163090,2468,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,51,north,"north
+
+
+Cellar
+A ""lean and hungry"" gentleman just wandered through, carrying a large bag.
+Finding nothing of value, he left disgruntled.
+
+",40,41,,False,,2025-12-04T05:35:42.318652,2505,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,52,east,"east
+
+
+You can't go that way.
+
+",40,41,,False,,2025-12-04T05:35:45.353954,2545,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,53,west,"west
+
+
+You try to ascend the ramp, but it is impossible, and you slide back down.
+
+",40,41,,False,,2025-12-04T05:35:48.425613,2561,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,54,north,"north
+
+
+The Troll Room
+There is a bloody axe here.
+
+",40,41,,False,,2025-12-04T05:35:51.465250,2589,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,55,score,"score
+Your score is 40 (total of 350 points), in 45 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,45,,False,,2025-12-04T05:35:55.030376,2610,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,56,get axe,"get axe
+
+
+Your load is too heavy, especially in light of your condition.
+
+",40,45,,False,,2025-12-04T05:35:58.249350,2647,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,57,drop sack,"drop sack
+
+
+Dropped.
+
+",40,45,,False,,2025-12-04T05:36:01.732303,2672,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,58,get axe,"get axe
+
+
+Taken.
+
+",40,45,,False,,2025-12-04T05:36:05.146736,2686,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,59,south,"south
+
+
+Cellar
+
+",40,45,,False,,2025-12-04T05:36:08.213433,2700,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,60,score,"score
+Your score is 40 (total of 350 points), in 49 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,49,,False,,2025-12-04T05:36:11.268213,2713,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,61,west,"west
+
+
+You try to ascend the ramp, but it is impossible, and you slide back down.
+
+",40,49,,False,,2025-12-04T05:36:14.458038,2750,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,62,north,"north
+
+
+The Troll Room
+There is a brown sack here.
+
+",40,49,,False,,2025-12-04T05:36:17.495017,2778,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,63,get sack,"get sack
+
+
+Your load is too heavy, especially in light of your condition.
+
+",40,49,,False,,2025-12-04T05:36:20.484502,2799,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,64,drop bottle,"drop bottle
+
+
+Dropped.
+
+",40,49,,False,,2025-12-04T05:36:23.476713,2824,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,65,score,"score
+Your score is 40 (total of 350 points), in 53 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,53,,False,,2025-12-04T05:36:26.758913,2838,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,66,get sack,"get sack
+
+
+Taken.
+
+",40,53,,False,,2025-12-04T05:36:29.738476,2875,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,67,south,"south
+
+
+Cellar
+
+",40,53,,False,,2025-12-04T05:36:32.740342,2889,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,68,west,"west
+
+
+You try to ascend the ramp, but it is impossible, and you slide back down.
+
+",40,53,,False,,2025-12-04T05:36:35.748172,2902,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,69,north,"north
+
+
+The Troll Room
+There is a glass bottle here.
+The glass bottle contains:
+  A quantity of water
+
+",40,53,,False,,2025-12-04T05:36:38.708768,2930,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,70,score,"score
+Your score is 40 (total of 350 points), in 57 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,57,,False,,2025-12-04T05:36:41.667334,2962,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,71,get bottle,"get bottle
+
+
+Taken.
+
+",40,57,,False,,2025-12-04T05:36:44.715428,2999,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,72,east,"east
+
+
+East-West Passage
+
+",40,57,,False,,2025-12-04T05:36:48.064510,3013,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,73,north,"north
+
+
+Chasm
+
+",40,57,,False,,2025-12-04T05:36:51.063246,3027,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,74,southwest,"southwest
+
+
+East-West Passage
+
+",40,57,,False,,2025-12-04T05:36:54.118777,3040,2
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,75,score,"score
+Your score is 40 (total of 350 points), in 61 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,61,,False,,2025-12-04T05:36:57.180354,3054,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,76,south,"south
+
+
+You can't go that way.
+
+",40,61,,False,,2025-12-04T05:37:00.164396,3091,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,77,east,"east
+
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+",40,61,,False,,2025-12-04T05:37:03.714813,3107,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,78,north,"north
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",40,61,,False,,2025-12-04T05:37:07.033582,3144,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,79,northeast,"northeast
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",40,61,,False,,2025-12-04T05:37:10.078907,3174,3
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,80,score,"score
+Your score is 40 (total of 350 points), in 65 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,65,,False,,2025-12-04T05:37:13.496480,3230,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,81,down,"down
+
+
+Loud Room
+This is a large room with a ceiling which cannot be detected from the ground.
+There is a narrow passage from east to west and a stone stairway leading upward.
+The room is deafeningly loud with an undetermined rushing sound. The sound seems
+to reverberate from all of the walls, making it difficult even to think.
+On the ground is a large platinum bar.
+
+",40,65,,False,,2025-12-04T05:37:16.523205,3267,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,82,west,"west
+
+
+Round Room
+
+",40,65,,False,,2025-12-04T05:37:19.616135,3358,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,83,up,"up
+
+
+You can't go that way.
+
+",40,65,,False,,2025-12-04T05:37:22.639492,3371,1
+c1b60f8f-03d5-462f-b441-5daef078a7ca,f12bd17b-ca41-4d8c-bca9-2e616c58cc04,0,gpt-4.1-mini,84,east,"east
+
+
+Loud Room
+On the ground is a large platinum bar.
+
+",40,65,,False,,2025-12-04T05:37:25.591801,3387,1

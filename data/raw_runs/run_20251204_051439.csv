@@ -1,0 +1,1053 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T05:14:49.395586,748,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T05:14:51.932246,784,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T05:14:55.035235,804,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,3,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",0,0,,False,,2025-12-04T05:14:57.374118,818,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,4,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T05:14:59.735696,878,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,5,score,"score
+Your score is 0 (total of 350 points), in 5 moves.
+This gives you the rank of Beginner.
+
+",0,5,,False,,2025-12-04T05:15:02.447968,919,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,6,south,"south
+
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+",0,5,,False,,2025-12-04T05:15:04.991278,954,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,7,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,5,,False,,2025-12-04T05:15:08.339311,993,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,8,examine window,"examine window
+
+
+The window is slightly ajar, but not enough to allow entry.
+
+",0,5,,False,,2025-12-04T05:15:11.027816,1041,12
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,9,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,5,,False,,2025-12-04T05:15:13.400805,1067,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,10,score,"score
+Your score is 0 (total of 350 points), in 9 moves.
+This gives you the rank of Beginner.
+
+",0,9,,False,,2025-12-04T05:15:15.767491,1093,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,11,enter,"enter
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,9,,False,,2025-12-04T05:15:18.368855,1128,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,12,get all,"get all
+
+
+brown sack: Taken.
+glass bottle: Taken.
+
+",0,9,,False,,2025-12-04T05:15:20.899286,1236,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,13,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",0,9,,False,,2025-12-04T05:15:23.191402,1258,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,14,get lantern,"get lantern
+
+
+Taken.
+
+",0,9,,False,,2025-12-04T05:15:25.724527,1349,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,15,score,"score
+Your score is 10 (total of 350 points), in 13 moves.
+This gives you the rank of Beginner.
+
+",10,13,,False,,2025-12-04T05:15:28.359065,1363,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,16,get sword,"get sword
+
+
+Taken.
+
+",10,13,,False,,2025-12-04T05:15:31.063556,1398,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,17,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",10,13,,False,,2025-12-04T05:15:33.432935,1412,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,18,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",10,13,,False,,2025-12-04T05:15:35.791623,1452,12
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,19,down,"down
+
+
+You have moved into a dark place.
+The trap door crashes shut, and you hear someone barring it.
+
+It is pitch black. You are likely to be eaten by a grue.
+Your sword is glowing with a faint blue glow.
+
+",10,13,,False,,2025-12-04T05:15:38.521783,1483,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,20,score,"score
+Your score is 35 (total of 350 points), in 17 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,17,,False,,2025-12-04T05:15:40.815895,1541,12
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,21,turn on lantern,"turn on lantern
+
+
+The brass lantern is now on.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",35,17,,False,,2025-12-04T05:15:42.995359,1578,12
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,22,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",35,17,,False,,2025-12-04T05:15:45.750403,1646,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,23,attack troll with sword,"attack troll with sword
+
+
+A furious exchange, and the troll is knocked out!
+
+",35,17,,False,,2025-12-04T05:15:48.089261,1728,13
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,24,south,"south
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",35,17,,False,,2025-12-04T05:15:50.330350,1755,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,25,score,"score
+Your score is 35 (total of 350 points), in 21 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,21,,False,,2025-12-04T05:15:52.646311,1778,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,26,north,"north
+
+
+The Troll Room
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",35,21,,False,,2025-12-04T05:15:54.989493,1815,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,27,south,"south
+
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+",35,21,,False,,2025-12-04T05:15:57.307905,1858,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,28,north,"north
+
+
+The Troll Room
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",35,21,,False,,2025-12-04T05:15:59.804562,1881,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,29,attack troll with sword,"attack troll with sword
+
+
+You charge, but the troll jumps nimbly aside.
+The troll's axe barely misses your ear.
+
+",35,21,,False,,2025-12-04T05:16:02.086843,1924,13
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,30,score,"score
+Your score is 35 (total of 350 points), in 25 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,25,,False,,2025-12-04T05:16:04.868727,1961,13
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,31,attack troll with sword,"attack troll with sword
+
+
+A quick stroke, but the troll is on guard.
+The axe sweeps past as you jump aside.
+
+",35,25,,False,,2025-12-04T05:16:07.615485,1998,13
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,32,attack troll with sword,"attack troll with sword
+
+
+A good stroke, but it's too slow; the troll dodges.
+The troll swings; the blade turns on your armor but crashes broadside into your
+head.
+
+",35,25,,False,,2025-12-04T05:16:10.099291,2035,13
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,33,attack troll with sword,"attack troll with sword
+
+
+You are still recovering from that last blow, so your attack is ineffective.
+The axe sweeps past as you jump aside.
+
+",35,25,,False,,2025-12-04T05:16:12.779560,2084,13
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,34,attack troll with sword,"attack troll with sword
+
+
+The fatal blow strikes the troll square in the heart:  He dies.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+",35,25,,False,,2025-12-04T05:16:15.616538,2125,13
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,35,score,"score
+Your score is 35 (total of 350 points), in 29 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,29,,False,,2025-12-04T05:16:17.926254,2198,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,36,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,29,,False,,2025-12-04T05:16:20.644594,2235,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,37,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,29,,False,,2025-12-04T05:16:23.076723,2262,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,38,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,29,,False,,2025-12-04T05:16:25.634128,2289,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,39,south,"south
+
+
+You can't go that way.
+
+",35,29,,False,,2025-12-04T05:16:28.776907,2316,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,40,score,"score
+Your score is 35 (total of 350 points), in 33 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,33,,False,,2025-12-04T05:16:31.228255,2332,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,41,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,33,,False,,2025-12-04T05:16:34.024282,2369,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,42,west,"west
+
+
+You can't go that way.
+
+",35,33,,False,,2025-12-04T05:16:36.764770,2393,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,43,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,33,,False,,2025-12-04T05:16:39.128386,2409,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,44,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,33,,False,,2025-12-04T05:16:41.919462,2436,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,45,score,"score
+Your score is 35 (total of 350 points), in 37 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,37,,False,,2025-12-04T05:16:44.197836,2463,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,46,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,37,,False,,2025-12-04T05:16:47.464369,2500,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,47,east,"east
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,37,,False,,2025-12-04T05:16:50.030023,2527,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,48,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,37,,False,,2025-12-04T05:16:52.394559,2554,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,49,south,"south
+
+
+You can't go that way.
+
+",35,37,,False,,2025-12-04T05:16:55.121434,2581,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,50,score,"score
+Your score is 35 (total of 350 points), in 41 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,41,,False,,2025-12-04T05:16:57.457270,2597,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,51,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,41,,False,,2025-12-04T05:17:00.276384,2634,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,52,west,"west
+
+
+You can't go that way.
+
+",35,41,,False,,2025-12-04T05:17:02.602406,2658,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,53,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,41,,False,,2025-12-04T05:17:04.964081,2674,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,54,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,41,,False,,2025-12-04T05:17:07.265451,2701,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,55,score,"score
+Your score is 35 (total of 350 points), in 45 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,45,,False,,2025-12-04T05:17:09.727611,2728,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,56,south,"south
+
+
+You can't go that way.
+
+",35,45,,False,,2025-12-04T05:17:12.390643,2765,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,57,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,45,,False,,2025-12-04T05:17:14.610227,2781,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,58,south,"south
+
+
+You can't go that way.
+
+",35,45,,False,,2025-12-04T05:17:17.367743,2808,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,59,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,45,,False,,2025-12-04T05:17:19.670904,2824,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,60,score,"score
+Your score is 35 (total of 350 points), in 49 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,49,,False,,2025-12-04T05:17:22.488356,2848,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,61,west,"west
+
+
+You can't go that way.
+
+",35,49,,False,,2025-12-04T05:17:24.725544,2885,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,62,north,"north
+
+
+You can't go that way.
+
+",35,49,,False,,2025-12-04T05:17:27.372152,2901,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,63,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,49,,False,,2025-12-04T05:17:30.167744,2917,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,64,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,49,,False,,2025-12-04T05:17:32.336481,2944,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,65,score,"score
+Your score is 35 (total of 350 points), in 53 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,53,,False,,2025-12-04T05:17:34.888521,2971,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,66,south,"south
+
+
+You can't go that way.
+
+",35,53,,False,,2025-12-04T05:17:37.473798,3008,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,67,east,"east
+
+
+You can't go that way.
+
+",35,53,,False,,2025-12-04T05:17:39.837718,3024,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,68,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,53,,False,,2025-12-04T05:17:42.099780,3040,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,69,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,53,,False,,2025-12-04T05:17:45.107300,3067,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,70,score,"score
+Your score is 35 (total of 350 points), in 57 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,57,,False,,2025-12-04T05:17:47.307457,3094,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,71,south,"south
+
+
+You can't go that way.
+
+",35,57,,False,,2025-12-04T05:17:49.693799,3131,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,72,east,"east
+
+
+You can't go that way.
+
+",35,57,,False,,2025-12-04T05:17:52.176816,3147,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,73,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,57,,False,,2025-12-04T05:17:55.203619,3163,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,74,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,57,,False,,2025-12-04T05:17:57.634515,3190,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,75,score,"score
+Your score is 35 (total of 350 points), in 61 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,61,,False,,2025-12-04T05:18:00.115510,3214,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,76,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,61,,False,,2025-12-04T05:18:02.815705,3251,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,77,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,61,,False,,2025-12-04T05:18:05.496597,3278,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,78,south,"south
+
+
+You can't go that way.
+
+",35,61,,False,,2025-12-04T05:18:08.084369,3305,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,79,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,61,,False,,2025-12-04T05:18:10.356362,3321,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,80,score,"score
+Your score is 35 (total of 350 points), in 65 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,65,,False,,2025-12-04T05:18:12.678830,3348,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,81,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,65,,False,,2025-12-04T05:18:14.999497,3385,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,82,east,"east
+
+
+You can't go that way.
+
+",35,65,,False,,2025-12-04T05:18:17.308172,3412,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,83,south,"south
+
+
+You can't go that way.
+
+",35,65,,False,,2025-12-04T05:18:20.299373,3428,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,84,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,65,,False,,2025-12-04T05:18:23.659730,3444,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,85,score,"score
+Your score is 35 (total of 350 points), in 69 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,69,,False,,2025-12-04T05:18:27.342484,3471,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,86,south,"south
+
+
+You can't go that way.
+
+",35,69,,False,,2025-12-04T05:18:29.812123,3508,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,87,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,69,,False,,2025-12-04T05:18:32.027328,3524,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,88,west,"west
+
+
+You can't go that way.
+
+",35,69,,False,,2025-12-04T05:18:35.339984,3548,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,89,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,69,,False,,2025-12-04T05:18:38.088681,3564,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,90,score,"score
+Your score is 35 (total of 350 points), in 73 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,73,,False,,2025-12-04T05:18:40.730906,3591,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,91,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,73,,False,,2025-12-04T05:18:44.185250,3628,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,92,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,73,,False,,2025-12-04T05:18:46.513382,3655,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,93,south,"south
+
+
+You can't go that way.
+
+",35,73,,False,,2025-12-04T05:18:49.935164,3682,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,94,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,73,,False,,2025-12-04T05:18:52.596781,3698,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,95,score,"score
+Your score is 35 (total of 350 points), in 77 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,77,,False,,2025-12-04T05:18:54.791561,3722,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,96,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,77,,False,,2025-12-04T05:18:57.599605,3759,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,97,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,77,,False,,2025-12-04T05:18:59.992443,3786,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,98,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,77,,False,,2025-12-04T05:19:02.412546,3813,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,99,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,77,,False,,2025-12-04T05:19:05.766090,3840,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,100,score,"score
+Your score is 35 (total of 350 points), in 81 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,81,,False,,2025-12-04T05:19:08.003762,3867,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,101,south,"south
+
+
+You can't go that way.
+
+",35,81,,False,,2025-12-04T05:19:10.316583,3904,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,102,east,"east
+
+
+You can't go that way.
+
+",35,81,,False,,2025-12-04T05:19:13.096289,3920,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,103,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,81,,False,,2025-12-04T05:19:16.042216,3936,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,104,south,"south
+
+
+You can't go that way.
+
+",35,81,,False,,2025-12-04T05:19:18.453398,3963,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,105,score,"score
+Your score is 35 (total of 350 points), in 85 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,85,,False,,2025-12-04T05:19:21.172492,3979,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,106,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,85,,False,,2025-12-04T05:19:23.453468,4016,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,107,west,"west
+
+
+You can't go that way.
+
+",35,85,,False,,2025-12-04T05:19:25.992430,4040,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,108,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,85,,False,,2025-12-04T05:19:28.690168,4056,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,109,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,85,,False,,2025-12-04T05:19:32.068027,4083,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,110,score,"score
+Your score is 35 (total of 350 points), in 89 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,89,,False,,2025-12-04T05:19:34.636215,4110,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,111,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,89,,False,,2025-12-04T05:19:37.242248,4147,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,112,south,"south
+
+
+You can't go that way.
+
+",35,89,,False,,2025-12-04T05:19:39.599154,4174,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,113,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,89,,False,,2025-12-04T05:19:42.106172,4190,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,114,north,"north
+
+
+You can't go that way.
+
+",35,89,,False,,2025-12-04T05:19:44.422209,4214,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,115,score,"score
+Your score is 35 (total of 350 points), in 93 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,93,,False,,2025-12-04T05:19:47.743333,4230,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,116,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,93,,False,,2025-12-04T05:19:50.390336,4267,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,117,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,93,,False,,2025-12-04T05:19:52.672287,4294,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,118,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,93,,False,,2025-12-04T05:19:55.090611,4321,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,119,south,"south
+
+
+You can't go that way.
+
+",35,93,,False,,2025-12-04T05:19:57.369464,4348,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,120,score,"score
+Your score is 35 (total of 350 points), in 97 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,97,,False,,2025-12-04T05:20:00.212158,4364,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,121,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+
+",35,97,,False,,2025-12-04T05:20:03.014669,4401,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,122,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,97,,False,,2025-12-04T05:20:06.278197,4425,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,123,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,97,,False,,2025-12-04T05:20:08.497588,4452,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,124,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,97,,False,,2025-12-04T05:20:11.313487,4479,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,125,score,"score
+Your score is 35 (total of 350 points), in 101 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,101,,False,,2025-12-04T05:20:14.144565,4506,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,126,south,"south
+
+
+You can't go that way.
+
+",35,101,,False,,2025-12-04T05:20:17.147015,4543,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,127,east,"east
+
+
+Dead End
+You have come to a dead end in the maze.
+A ""lean and hungry"" gentleman just wandered through, carrying a large bag.
+Finding nothing of value, he left disgruntled.
+
+",35,101,,False,,2025-12-04T05:20:20.728101,4559,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,128,south,"south
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,101,,False,,2025-12-04T05:20:23.107891,4610,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,129,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,101,,False,,2025-12-04T05:20:25.735599,4637,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,130,score,"score
+Your score is 35 (total of 350 points), in 105 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,105,,False,,2025-12-04T05:20:28.419854,4664,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,131,west,"west
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,105,,False,,2025-12-04T05:20:30.812361,4701,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,132,south,"south
+
+
+You can't go that way.
+
+",35,105,,False,,2025-12-04T05:20:33.276314,4728,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,133,north,"north
+
+
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+",35,105,,False,,2025-12-04T05:20:36.113855,4744,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,134,east,"east
+
+
+The Troll Room
+There is a bloody axe here.
+
+",35,105,,False,,2025-12-04T05:20:38.406237,4771,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,135,score,"score
+Your score is 35 (total of 350 points), in 109 moves.
+This gives you the rank of Amateur Adventurer.
+
+",35,109,,False,,2025-12-04T05:20:40.646490,4792,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,136,south,"south
+
+
+Cellar
+
+",35,109,,False,,2025-12-04T05:20:42.970830,4829,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,137,south,"south
+
+
+East of Chasm
+You are on the east edge of a chasm, the bottom of which cannot be seen. A
+narrow passage goes north, and the path you are on continues to the east.
+A ""lean and hungry"" gentleman just wandered through, carrying a large bag.
+Finding nothing of value, he left disgruntled.
+
+",35,109,,False,,2025-12-04T05:20:45.262203,4842,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,138,east,"east
+
+
+Gallery
+This is an art gallery. Most of the paintings have been stolen by vandals with
+exceptional taste. The vandals left through either the north or west exits.
+Fortunately, there is still one chance for you to be a vandal, for on the far
+wall is a painting of unparalleled beauty.
+
+",35,109,,False,,2025-12-04T05:20:47.659057,4922,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,139,get painting,"get painting
+
+
+Taken.
+
+",35,109,,False,,2025-12-04T05:20:50.269547,4995,11
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,140,score,"score
+Your score is 39 (total of 350 points), in 113 moves.
+This gives you the rank of Amateur Adventurer.
+
+",39,113,,False,,2025-12-04T05:20:53.028946,5009,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,141,west,"west
+
+
+East of Chasm
+
+",39,113,,False,,2025-12-04T05:20:55.372449,5046,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,142,west,"west
+
+
+You can't go that way.
+
+",39,113,,False,,2025-12-04T05:20:57.835516,5061,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,143,north,"north
+
+
+Cellar
+
+",39,113,,False,,2025-12-04T05:21:00.149339,5077,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,144,north,"north
+
+
+The Troll Room
+There is a bloody axe here.
+
+",39,113,,False,,2025-12-04T05:21:02.496285,5090,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,145,score,"score
+Your score is 39 (total of 350 points), in 117 moves.
+This gives you the rank of Amateur Adventurer.
+
+",39,117,,False,,2025-12-04T05:21:04.928856,5111,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,146,east,"east
+
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+",39,117,,False,,2025-12-04T05:21:07.854205,5148,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,147,east,"east
+
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+",39,117,,False,,2025-12-04T05:21:10.097897,5188,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,148,north,"north
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",39,117,,False,,2025-12-04T05:21:13.696135,5225,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,149,north,"north
+
+
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the
+south side of the chasm, where a crack opens into a passage.
+
+",39,117,,False,,2025-12-04T05:21:16.052790,5255,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,150,score,"score
+Your score is 44 (total of 350 points), in 121 moves.
+This gives you the rank of Amateur Adventurer.
+
+",44,121,,False,,2025-12-04T05:21:18.361832,5301,12
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,151,northeast,"northeast
+
+
+Reservoir South
+You are in a long room on the south shore of a large lake, far too deep and wide
+for crossing.
+There is a path along the stream to the east or west, a steep pathway climbing
+southwest along the edge of a chasm, and a path leading into a canyon to the
+southeast.
+
+",44,121,,False,,2025-12-04T05:21:21.173299,5338,12
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,152,east,"east
+
+
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a
+tourist attraction in times far distant. There are paths to the north, south,
+and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide
+reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly
+above the bolt is a small green plastic bubble.
+
+",44,121,,False,,2025-12-04T05:21:23.608868,5418,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,153,south,"south
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",44,121,,False,,2025-12-04T05:21:25.950416,5539,10
+fb2da3d1-ca51-4018-88e7-cfe8d1620f83,74d5c4f7-f157-45a8-bd38-8ae5515f7e10,0,gpt-5.1,154,down,"down
+
+
+Loud Room
+This is a large room with a ceiling which cannot be detected from the ground.
+There is a narrow passage from east to west and a stone stairway leading upward.
+The room is deafeningly loud with an undetermined rushing sound. The sound seems
+to reverberate from all of the walls, making it difficult even to think.
+On the ground is a large platinum bar.
+
+",44,121,,False,,2025-12-04T05:21:28.177174,5595,10

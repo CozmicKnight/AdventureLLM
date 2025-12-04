@@ -1,0 +1,2079 @@
+run_id,episode_id,episode_index,model_name,move_idx,command,observation,score,moves,inventory,done,seed,timestamp,tokens_prompt,tokens_completion
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T05:43:53.824953,751,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T05:43:56.357833,787,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T05:43:58.581393,807,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,3,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",0,0,,False,,2025-12-04T05:44:01.308270,821,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,4,north,"north
+
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+",0,0,,False,,2025-12-04T05:44:03.612183,881,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,5,score,"score
+Your score is 0 (total of 350 points), in 5 moves.
+This gives you the rank of Beginner.
+
+",0,5,,False,,2025-12-04T05:44:05.854186,932,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,6,north,"north
+
+
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+",0,5,,False,,2025-12-04T05:44:08.290468,967,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,7,climb tree,"climb tree
+
+
+Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The
+nearest branch above you is above your reach.
+Beside you on the branch is a small bird's nest.
+In the bird's nest is a large egg encrusted with precious jewels, apparently
+scavenged by a childless songbird. The egg is covered with fine gold inlay, and
+ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is
+hinged and closed with a delicate looking clasp. The egg appears extremely
+fragile.
+
+",0,5,,False,,2025-12-04T05:44:13.356048,1018,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,8,get egg,"get egg
+
+
+Taken.
+You hear in the distance the chirping of a song bird.
+
+",0,5,,False,,2025-12-04T05:44:16.214259,1153,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,9,down,"down
+
+
+Forest Path
+
+",0,5,,False,,2025-12-04T05:44:19.173087,1180,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,10,score,"score
+Your score is 5 (total of 350 points), in 9 moves.
+This gives you the rank of Beginner.
+
+",5,9,,False,,2025-12-04T05:44:21.594576,1193,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,11,south,"south
+
+
+North of House
+
+",5,9,,False,,2025-12-04T05:44:23.797418,1228,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,12,south,"south
+
+
+The windows are all boarded.
+
+",5,9,,False,,2025-12-04T05:44:26.495276,1242,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,13,west,"west
+
+
+West of House
+There is a small mailbox here.
+
+",5,9,,False,,2025-12-04T05:44:28.798005,1258,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,14,south,"south
+
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+",5,9,,False,,2025-12-04T05:44:30.959406,1279,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,15,score,"score
+Your score is 5 (total of 350 points), in 13 moves.
+This gives you the rank of Beginner.
+
+",5,13,,False,,2025-12-04T05:44:33.524619,1318,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,16,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",5,13,,False,,2025-12-04T05:44:36.858127,1353,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,17,examine window,"examine window
+
+
+The window is slightly ajar, but not enough to allow entry.
+
+",5,13,,False,,2025-12-04T05:44:39.284832,1401,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,18,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",5,13,,False,,2025-12-04T05:44:42.695567,1427,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,19,enter,"enter
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",5,13,,False,,2025-12-04T05:44:44.967350,1453,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,20,score,"score
+Your score is 15 (total of 350 points), in 17 moves.
+This gives you the rank of Beginner.
+
+",15,17,,False,,2025-12-04T05:44:47.687534,1561,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,21,get all,"get all
+
+
+brown sack: Taken.
+glass bottle: Taken.
+
+",15,17,,False,,2025-12-04T05:44:50.466420,1596,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,22,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",15,17,,False,,2025-12-04T05:44:53.312590,1618,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,23,get all,"get all
+
+
+trophy case: The trophy case is securely fastened to the wall.
+sword: Taken.
+brass lantern: Taken.
+carpet: The rug is extremely heavy and cannot be carried.
+
+",15,17,,False,,2025-12-04T05:44:55.733506,1709,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,24,move rug,"move rug
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",15,17,,False,,2025-12-04T05:44:58.145470,1760,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,25,score,"score
+Your score is 15 (total of 350 points), in 21 moves.
+This gives you the rank of Beginner.
+
+",15,21,,False,,2025-12-04T05:45:01.455746,1800,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,26,open trap door,"open trap door
+
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+",15,21,,False,,2025-12-04T05:45:04.000544,1835,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,27,down,"down
+
+
+You have moved into a dark place.
+The trap door crashes shut, and you hear someone barring it.
+
+It is pitch black. You are likely to be eaten by a grue.
+Your sword is glowing with a faint blue glow.
+
+",15,21,,False,,2025-12-04T05:45:06.788032,1866,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,28,turn on lantern,"turn on lantern
+
+
+The brass lantern is now on.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+",15,21,,False,,2025-12-04T05:45:09.102642,1924,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,29,north,"north
+
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+",15,21,,False,,2025-12-04T05:45:11.398836,1992,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,30,score,"score
+Your score is 40 (total of 350 points), in 25 moves.
+This gives you the rank of Amateur Adventurer.
+
+",40,25,,False,,2025-12-04T05:45:13.703595,2074,13
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,31,attack troll with sword,"attack troll with sword
+
+
+The troll is confused and can't fight back.
+The troll slowly regains his feet.
+
+",40,25,,False,,2025-12-04T05:45:16.389257,2111,13
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,32,attack troll with sword,"attack troll with sword
+
+
+It's curtains for the troll as your sword removes his head.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+",40,25,,False,,2025-12-04T05:45:19.299303,2144,13
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,33,east,"east
+
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+",40,25,,False,,2025-12-04T05:45:22.405280,2214,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,34,east,"east
+
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+",40,25,,False,,2025-12-04T05:45:24.677823,2254,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,35,score,"score
+Your score is 45 (total of 350 points), in 29 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,29,,False,,2025-12-04T05:45:27.309051,2291,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,36,south,"south
+
+
+Narrow Passage
+This is a long and narrow corridor where a long north-south passageway briefly
+narrows even further.
+
+",45,29,,False,,2025-12-04T05:45:30.147391,2328,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,37,south,"south
+
+
+Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an
+enormous mirror which fills the entire wall. There are exits on the other three
+sides of the room.
+
+",45,29,,False,,2025-12-04T05:45:32.814362,2364,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,38,east,"east
+
+
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+Your sword is glowing with a faint blue glow.
+
+",45,29,,False,,2025-12-04T05:45:35.199646,2419,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,39,down,"down
+
+
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+The way through the gate is barred by evil spirits, who jeer at your attempts to
+pass.
+Your sword has begun to glow very brightly.
+
+",45,29,,False,,2025-12-04T05:45:37.608281,2466,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,40,score,"score
+Your score is 45 (total of 350 points), in 33 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,33,,False,,2025-12-04T05:45:40.045376,2579,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,41,up,"up
+
+
+Cave
+Your sword is glowing with a faint blue glow.
+
+",45,33,,False,,2025-12-04T05:45:42.523577,2616,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,42,north,"north
+
+
+Mirror Room
+Your sword is no longer glowing.
+
+",45,33,,False,,2025-12-04T05:45:45.003493,2639,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,43,west,"west
+
+
+Winding Passage
+This is a winding passage. It seems that there are only exits on the east and
+north.
+
+",45,33,,False,,2025-12-04T05:45:47.994505,2659,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,44,north,"north
+
+
+Mirror Room
+
+",45,33,,False,,2025-12-04T05:45:50.417574,2693,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,45,score,"score
+Your score is 45 (total of 350 points), in 37 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,37,,False,,2025-12-04T05:45:52.704163,2706,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,46,north,"north
+
+
+Narrow Passage
+
+",45,37,,False,,2025-12-04T05:45:55.406067,2743,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,47,north,"north
+
+
+Round Room
+
+",45,37,,False,,2025-12-04T05:45:57.640664,2757,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,48,west,"west
+
+
+East-West Passage
+
+",45,37,,False,,2025-12-04T05:45:59.992100,2770,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,49,west,"west
+
+
+The Troll Room
+There is a bloody axe here.
+
+",45,37,,False,,2025-12-04T05:46:02.261296,2784,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,50,score,"score
+Your score is 45 (total of 350 points), in 41 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,41,,False,,2025-12-04T05:46:04.760376,2805,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,51,get axe,"get axe
+
+
+Your load is too heavy.
+
+",45,41,,False,,2025-12-04T05:46:07.232555,2842,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,52,inventory,"inventory
+
+
+You are carrying:
+  A brass lantern (providing light)
+  A sword
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  A jewel-encrusted egg
+  A leaflet
+
+",45,41,,False,,2025-12-04T05:46:09.724459,2860,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,53,east,"east
+
+
+East-West Passage
+
+",45,41,,False,,2025-12-04T05:46:13.105023,2921,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,54,south,"south
+
+
+You can't go that way.
+
+",45,41,,False,,2025-12-04T05:46:15.456729,2935,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,55,score,"score
+Your score is 45 (total of 350 points), in 45 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,45,,False,,2025-12-04T05:46:17.829345,2951,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,56,down,"down
+
+
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the
+south side of the chasm, where a crack opens into a passage.
+
+",45,45,,False,,2025-12-04T05:46:20.373269,2988,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,57,northeast,"northeast
+
+
+Reservoir South
+You are in a long room on the south shore of a large lake, far too deep and wide
+for crossing.
+There is a path along the stream to the east or west, a steep pathway climbing
+southwest along the edge of a chasm, and a path leading into a canyon to the
+southeast.
+
+",45,45,,False,,2025-12-04T05:46:22.772525,3034,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,58,east,"east
+
+
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a
+tourist attraction in times far distant. There are paths to the north, south,
+and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide
+reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly
+above the bolt is a small green plastic bubble.
+
+",45,45,,False,,2025-12-04T05:46:25.460327,3114,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,59,examine panel,"examine panel
+
+
+There's nothing special about the control panel.
+
+",45,45,,False,,2025-12-04T05:46:27.772884,3235,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,60,score,"score
+Your score is 45 (total of 350 points), in 49 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,49,,False,,2025-12-04T05:46:30.018645,3255,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,61,south,"south
+
+
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+",45,49,,False,,2025-12-04T05:46:33.428406,3292,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,62,down,"down
+
+
+Loud Room
+This is a large room with a ceiling which cannot be detected from the ground.
+There is a narrow passage from east to west and a stone stairway leading upward.
+The room is deafeningly loud with an undetermined rushing sound. The sound seems
+to reverberate from all of the walls, making it difficult even to think.
+On the ground is a large platinum bar.
+
+",45,49,,False,,2025-12-04T05:46:36.220787,3348,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,63,"say ""echo","say ""echo
+
+
+The acoustics of the room change subtly.
+
+Loud Room
+On the ground is a large platinum bar.
+
+",45,49,,False,,2025-12-04T05:46:38.574405,3439,13
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,64,get platinum bar,"get platinum bar
+
+
+Your load is too heavy.
+
+",45,49,,False,,2025-12-04T05:46:40.820670,3475,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,65,score,"score
+Your score is 45 (total of 350 points), in 52 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,52,,False,,2025-12-04T05:46:43.594357,3495,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,66,up,"up
+
+
+Deep Canyon
+
+",45,52,,False,,2025-12-04T05:46:46.428369,3532,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,67,north,"north
+
+
+You can't go that way.
+
+",45,52,,False,,2025-12-04T05:46:49.178420,3545,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,68,northwest,"northwest
+
+
+Reservoir South
+
+",45,52,,False,,2025-12-04T05:46:51.623187,3561,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,69,west,"west
+
+
+Stream View
+You are standing on a path beside a gently flowing stream. The path follows the
+stream, which flows from west to east.
+
+",45,52,,False,,2025-12-04T05:46:54.000531,3575,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,70,score,"score
+Your score is 45 (total of 350 points), in 56 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,56,,False,,2025-12-04T05:46:56.478817,3614,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,71,west,"west
+
+
+The stream emerges from a spot too small for you to enter.
+
+",45,56,,False,,2025-12-04T05:46:58.727685,3651,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,72,east,"east
+
+
+Reservoir South
+
+",45,56,,False,,2025-12-04T05:47:01.317151,3674,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,73,south,"south
+
+
+You can't go that way.
+
+",45,56,,False,,2025-12-04T05:47:03.669436,3688,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,74,east,"east
+
+
+Dam
+
+",45,56,,False,,2025-12-04T05:47:06.666542,3704,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,75,score,"score
+Your score is 45 (total of 350 points), in 60 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,60,,False,,2025-12-04T05:47:09.446850,3716,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,76,north,"north
+
+
+Dam Lobby
+This room appears to have been the waiting room for groups touring the dam.
+There are open doorways here to the north and east marked ""Private"", and there
+is a path leading south over the top of the dam.
+Some guidebooks entitled ""Flood Control Dam #3"" are on the reception desk.
+There is a matchbook whose cover says ""Visit Beautiful FCD#3"" here.
+
+",45,60,,False,,2025-12-04T05:47:12.056590,3753,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,77,get matchbook,"get matchbook
+
+
+Taken.
+
+",45,60,,False,,2025-12-04T05:47:14.366111,3846,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,78,get guidebooks,"get guidebooks
+
+
+Taken.
+
+",45,60,,False,,2025-12-04T05:47:16.998494,3862,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,79,south,"south
+
+
+Dam
+
+",45,60,,False,,2025-12-04T05:47:19.875052,3878,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,80,score,"score
+Your score is 45 (total of 350 points), in 64 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,64,,False,,2025-12-04T05:47:22.280900,3890,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,81,north,"north
+
+
+Dam Lobby
+
+",45,64,,False,,2025-12-04T05:47:24.697771,3927,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,82,east,"east
+
+
+Maintenance Room
+This is what appears to have been the maintenance room for Flood Control Dam #3.
+Apparently, this room has been ransacked recently, for most of the valuable
+equipment is gone. On the wall in front of you is a group of buttons colored
+blue, yellow, brown, and red. There are doorways to the west and south.
+There is a group of tool chests here.
+There is a wrench here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+
+",45,64,,False,,2025-12-04T05:47:27.022200,3940,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,83,get wrench,"get wrench
+
+
+Your load is too heavy.
+
+",45,64,,False,,2025-12-04T05:47:29.775762,4059,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,84,inventory,"inventory
+
+
+You are carrying:
+  A tour guidebook
+  A matchbook
+  A brass lantern (providing light)
+  A sword
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  A jewel-encrusted egg
+  A leaflet
+
+",45,64,,False,,2025-12-04T05:47:33.077689,4077,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,85,score,"score
+Your score is 45 (total of 350 points), in 68 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,68,,False,,2025-12-04T05:47:35.410600,4149,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,86,drop leaflet,"drop leaflet
+
+
+Dropped.
+
+",45,68,,False,,2025-12-04T05:47:37.754850,4186,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,87,get wrench,"get wrench
+
+
+Taken.
+
+",45,68,,False,,2025-12-04T05:47:41.037493,4200,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,88,get screwdriver,"get screwdriver
+
+
+Your load is too heavy.
+
+",45,68,,False,,2025-12-04T05:47:44.091196,4214,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,89,inventory,"inventory
+
+
+You are carrying:
+  A wrench
+  A tour guidebook
+  A matchbook
+  A brass lantern (providing light)
+  A sword
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  A jewel-encrusted egg
+
+",45,68,,False,,2025-12-04T05:47:47.261318,4232,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,90,score,"score
+Your score is 45 (total of 350 points), in 72 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,72,,False,,2025-12-04T05:47:49.655470,4304,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,91,south,"south
+
+
+Dam Lobby
+
+",45,72,,False,,2025-12-04T05:47:52.890614,4341,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,92,north,"north
+
+
+Maintenance Room
+A small leaflet is on the ground.
+There is a group of tool chests here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+
+",45,72,,False,,2025-12-04T05:47:55.655742,4354,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,93,get screwdriver,"get screwdriver
+
+
+Your load is too heavy.
+
+",45,72,,False,,2025-12-04T05:47:58.269584,4404,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,94,inventory,"inventory
+
+
+You are carrying:
+  A wrench
+  A tour guidebook
+  A matchbook
+  A brass lantern (providing light)
+  A sword
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+  A jewel-encrusted egg
+
+",45,72,,False,,2025-12-04T05:48:00.825453,4422,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,95,score,"score
+Your score is 45 (total of 350 points), in 76 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,76,,False,,2025-12-04T05:48:03.181493,4494,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,96,read guidebook,"read guidebook
+
+
+"" Flood Control Dam #3
+
+FCD#3 was constructed in year 783 of the Great Underground Empire to harness the
+mighty Frigid River. This work was supported by a grant of 37 million zorkmids
+from your omnipotent local tyrant Lord Dimwit Flathead the Excessive. This
+impressive structure is composed of 370,000 cubic feet of concrete, is 256 feet
+tall at the center, and 193 feet wide at the top. The lake created behind the
+dam has a volume of 1.7 billion cubic feet, an area of 12 million square feet,
+and a shore line of 36 thousand feet.
+
+We will now point out some of the more interesting features of FCD#3 as we
+conduct you on a guided tour of the facilities:
+        1) You start your tour here in the Dam Lobby. You will notice on your
+right that....
+
+",45,76,,False,,2025-12-04T05:48:05.538018,4531,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,97,south,"south
+
+
+Dam Lobby
+
+",45,76,,False,,2025-12-04T05:48:08.023470,4738,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,98,north,"north
+
+
+Maintenance Room
+A small leaflet is on the ground.
+There is a group of tool chests here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+
+",45,76,,False,,2025-12-04T05:48:10.338311,4751,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,99,south,"south
+
+
+Dam Lobby
+
+",45,76,,False,,2025-12-04T05:48:13.159613,4801,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,100,score,"score
+Your score is 45 (total of 350 points), in 80 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,80,,False,,2025-12-04T05:48:15.501178,4814,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,101,south,"south
+
+
+Dam
+
+",45,80,,False,,2025-12-04T05:48:18.025342,4851,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,102,west,"west
+
+
+Reservoir South
+
+",45,80,,False,,2025-12-04T05:48:20.831833,4863,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,103,west,"west
+
+
+Stream View
+A seedy-looking individual with a large bag just wandered through the room. On
+the way through, he quietly abstracted some valuables from the room and from
+your possession, mumbling something about ""Doing unto others before...""
+
+",45,80,,False,,2025-12-04T05:48:23.287355,4877,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,104,inventory,"inventory
+
+
+You are carrying:
+  A wrench
+  A tour guidebook
+  A matchbook
+  A brass lantern (providing light)
+  A sword
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+
+",45,80,,False,,2025-12-04T05:48:25.725651,4937,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,105,score,"score
+Your score is 45 (total of 350 points), in 84 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,84,,False,,2025-12-04T05:48:28.121299,5001,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,106,east,"east
+
+
+Reservoir South
+
+",45,84,,False,,2025-12-04T05:48:30.423836,5038,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,107,east,"east
+
+
+Dam
+
+",45,84,,False,,2025-12-04T05:48:32.834841,5052,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,108,south,"south
+
+
+Deep Canyon
+
+",45,84,,False,,2025-12-04T05:48:35.118959,5064,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,109,down,"down
+
+
+Loud Room
+
+",45,84,,False,,2025-12-04T05:48:37.501353,5077,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,110,score,"score
+Your score is 45 (total of 350 points), in 88 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,88,,False,,2025-12-04T05:48:39.815762,5091,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,111,up,"up
+
+
+Deep Canyon
+
+",45,88,,False,,2025-12-04T05:48:42.675455,5128,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,112,north,"north
+
+
+You can't go that way.
+
+",45,88,,False,,2025-12-04T05:48:45.116177,5141,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,113,northwest,"northwest
+
+
+Reservoir South
+
+",45,88,,False,,2025-12-04T05:48:47.529666,5157,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,114,west,"west
+
+
+Stream View
+
+",45,88,,False,,2025-12-04T05:48:50.028947,5171,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,115,score,"score
+Your score is 45 (total of 350 points), in 92 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,92,,False,,2025-12-04T05:48:52.504845,5184,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,116,west,"west
+
+
+The stream emerges from a spot too small for you to enter.
+
+",45,92,,False,,2025-12-04T05:48:54.926829,5221,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,117,east,"east
+
+
+Reservoir South
+
+",45,92,,False,,2025-12-04T05:48:57.665244,5244,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,118,south,"south
+
+
+You can't go that way.
+
+",45,92,,False,,2025-12-04T05:49:00.543961,5258,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,119,north,"north
+
+
+You would drown.
+
+",45,92,,False,,2025-12-04T05:49:03.251053,5274,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,120,score,"score
+Your score is 45 (total of 350 points), in 96 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,96,,False,,2025-12-04T05:49:05.876867,5288,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,121,west,"west
+
+
+Stream View
+
+",45,96,,False,,2025-12-04T05:49:09.203851,5325,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,122,east,"east
+
+
+Reservoir South
+
+",45,96,,False,,2025-12-04T05:49:11.458780,5338,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,123,southwest,"southwest
+
+
+Chasm
+
+",45,96,,False,,2025-12-04T05:49:13.760397,5352,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,124,south,"south
+
+
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+",45,96,,False,,2025-12-04T05:49:16.135541,5365,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,125,score,"score
+Your score is 45 (total of 350 points), in 100 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,100,,False,,2025-12-04T05:49:18.555836,5395,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,126,south,"south
+
+
+Round Room
+
+",45,100,,False,,2025-12-04T05:49:21.396664,5432,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,127,west,"west
+
+
+East-West Passage
+
+",45,100,,False,,2025-12-04T05:49:23.854642,5445,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,128,west,"west
+
+
+The Troll Room
+There is a bloody axe here.
+
+",45,100,,False,,2025-12-04T05:49:26.589650,5459,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,129,get axe,"get axe
+
+
+Your load is too heavy.
+
+",45,100,,False,,2025-12-04T05:49:28.890767,5480,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,130,score,"score
+Your score is 45 (total of 350 points), in 104 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,104,,False,,2025-12-04T05:49:31.404542,5498,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,131,inventory,"inventory
+
+
+You are carrying:
+  A wrench
+  A tour guidebook
+  A matchbook
+  A brass lantern (providing light)
+  A sword
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A brown sack
+
+",45,104,,False,,2025-12-04T05:49:33.793253,5535,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,132,east,"east
+
+
+East-West Passage
+
+",45,104,,False,,2025-12-04T05:49:36.230260,5599,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,133,south,"south
+
+
+You can't go that way.
+
+",45,104,,False,,2025-12-04T05:49:39.025223,5613,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,134,north,"north
+
+
+Chasm
+
+",45,104,,False,,2025-12-04T05:49:41.856840,5629,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,135,score,"score
+Your score is 45 (total of 350 points), in 108 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,108,,False,,2025-12-04T05:49:44.621419,5642,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,136,south,"south
+
+
+North-South Passage
+
+",45,108,,False,,2025-12-04T05:49:47.046113,5679,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,137,north,"north
+
+
+Chasm
+
+",45,108,,False,,2025-12-04T05:49:49.461484,5694,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,138,south,"south
+
+
+North-South Passage
+
+",45,108,,False,,2025-12-04T05:49:51.774880,5707,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,139,south,"south
+
+
+Round Room
+
+",45,108,,False,,2025-12-04T05:49:54.332682,5722,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,140,score,"score
+Your score is 45 (total of 350 points), in 112 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,112,,False,,2025-12-04T05:49:57.039191,5735,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,141,south,"south
+
+
+Narrow Passage
+
+",45,112,,False,,2025-12-04T05:49:59.315663,5772,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,142,south,"south
+
+
+Mirror Room
+
+",45,112,,False,,2025-12-04T05:50:02.597022,5786,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,143,west,"west
+
+
+Winding Passage
+
+",45,112,,False,,2025-12-04T05:50:05.165182,5799,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,144,north,"north
+
+
+Mirror Room
+
+",45,112,,False,,2025-12-04T05:50:07.975326,5813,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,145,score,"score
+Your score is 45 (total of 350 points), in 116 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,116,,False,,2025-12-04T05:50:10.641766,5826,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,146,east,"east
+
+
+Cave
+Your sword is glowing with a faint blue glow.
+
+",45,116,,False,,2025-12-04T05:50:13.586598,5863,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,147,north,"north
+
+
+Mirror Room
+Your sword is no longer glowing.
+
+",45,116,,False,,2025-12-04T05:50:15.978255,5886,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,148,north,"north
+
+
+Narrow Passage
+
+",45,116,,False,,2025-12-04T05:50:18.337265,5906,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,149,north,"north
+
+
+Round Room
+
+",45,116,,False,,2025-12-04T05:50:20.686684,5920,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,150,score,"score
+Your score is 45 (total of 350 points), in 120 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,120,,False,,2025-12-04T05:50:23.244506,5933,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,151,north,"north
+
+
+North-South Passage
+
+",45,120,,False,,2025-12-04T05:50:26.182813,5970,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,152,north,"north
+
+
+Chasm
+
+",45,120,,False,,2025-12-04T05:50:28.527545,5985,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,153,south,"south
+
+
+North-South Passage
+
+",45,120,,False,,2025-12-04T05:50:31.245326,5998,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,154,south,"south
+
+
+Round Room
+
+",45,120,,False,,2025-12-04T05:50:34.222833,6013,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,155,score,"score
+Your score is 45 (total of 350 points), in 124 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,124,,False,,2025-12-04T05:50:36.662280,6026,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,156,west,"west
+
+
+East-West Passage
+
+",45,124,,False,,2025-12-04T05:50:39.498400,6063,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,157,west,"west
+
+
+The Troll Room
+There is a bloody axe here.
+
+",45,124,,False,,2025-12-04T05:50:42.386236,6077,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,158,east,"east
+
+
+East-West Passage
+
+",45,124,,False,,2025-12-04T05:50:44.842065,6098,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,159,up,"up
+
+
+You can't go that way.
+
+",45,124,,False,,2025-12-04T05:50:47.996350,6112,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,160,score,"score
+Your score is 45 (total of 350 points), in 128 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,128,,False,,2025-12-04T05:50:50.432026,6128,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,161,west,"west
+
+
+The Troll Room
+There is a bloody axe here.
+
+",45,128,,False,,2025-12-04T05:50:52.883432,6165,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,162,east,"east
+
+
+East-West Passage
+
+",45,128,,False,,2025-12-04T05:50:55.727533,6186,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,163,north,"north
+
+
+Chasm
+
+",45,128,,False,,2025-12-04T05:50:58.385270,6200,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,164,south,"south
+
+
+North-South Passage
+
+",45,128,,False,,2025-12-04T05:51:00.705311,6213,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,165,score,"score
+Your score is 45 (total of 350 points), in 132 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,132,,False,,2025-12-04T05:51:03.036129,6228,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,166,south,"south
+
+
+Round Room
+
+",45,132,,False,,2025-12-04T05:51:05.567476,6265,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,167,south,"south
+
+
+Narrow Passage
+
+",45,132,,False,,2025-12-04T05:51:07.974527,6278,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,168,south,"south
+
+
+Mirror Room
+
+",45,132,,False,,2025-12-04T05:51:10.723656,6292,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,169,east,"east
+
+
+Cave
+Your sword is glowing with a faint blue glow.
+
+",45,132,,False,,2025-12-04T05:51:13.351192,6305,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,170,score,"score
+Your score is 45 (total of 350 points), in 136 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,136,,False,,2025-12-04T05:51:15.685147,6328,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,171,down,"down
+
+
+Entrance to Hades
+Your sword has begun to glow very brightly.
+
+",45,136,,False,,2025-12-04T05:51:18.039443,6365,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,172,up,"up
+
+
+Cave
+Your sword is glowing with a faint blue glow.
+
+",45,136,,False,,2025-12-04T05:51:20.592841,6389,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,173,west,"west
+
+
+Winding Passage
+Your sword is no longer glowing.
+
+",45,136,,False,,2025-12-04T05:51:23.467661,6412,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,174,north,"north
+
+
+Mirror Room
+
+",45,136,,False,,2025-12-04T05:51:25.954302,6433,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,175,score,"score
+Your score is 45 (total of 350 points), in 140 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,140,,False,,2025-12-04T05:51:28.485598,6446,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,176,north,"north
+
+
+Narrow Passage
+
+",45,140,,False,,2025-12-04T05:51:30.904687,6483,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,177,north,"north
+
+
+Round Room
+
+",45,140,,False,,2025-12-04T05:51:33.501255,6497,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,178,north,"north
+
+
+North-South Passage
+
+",45,140,,False,,2025-12-04T05:51:36.393201,6510,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,179,north,"north
+
+
+Chasm
+
+",45,140,,False,,2025-12-04T05:51:39.193497,6525,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,180,score,"score
+Your score is 45 (total of 350 points), in 144 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,144,,False,,2025-12-04T05:51:41.610807,6538,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,181,northeast,"northeast
+
+
+Reservoir South
+
+",45,144,,False,,2025-12-04T05:51:44.632456,6575,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,182,west,"west
+
+
+Stream View
+
+",45,144,,False,,2025-12-04T05:51:46.984296,6589,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,183,west,"west
+
+
+The stream emerges from a spot too small for you to enter.
+
+",45,144,,False,,2025-12-04T05:51:49.439350,6602,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,184,east,"east
+
+
+Reservoir South
+
+",45,144,,False,,2025-12-04T05:51:52.210889,6625,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,185,score,"score
+Your score is 45 (total of 350 points), in 148 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,148,,False,,2025-12-04T05:51:54.580006,6639,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,186,west,"west
+
+
+Stream View
+
+",45,148,,False,,2025-12-04T05:51:57.240472,6676,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,187,east,"east
+
+
+Reservoir South
+
+",45,148,,False,,2025-12-04T05:51:59.762783,6689,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,188,south,"south
+
+
+You can't go that way.
+
+",45,148,,False,,2025-12-04T05:52:02.436196,6703,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,189,southwest,"southwest
+
+
+Chasm
+
+",45,148,,False,,2025-12-04T05:52:04.868897,6719,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,190,score,"score
+Your score is 45 (total of 350 points), in 152 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,152,,False,,2025-12-04T05:52:07.663849,6732,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,191,north,"north
+
+
+You can't go that way.
+
+",45,152,,False,,2025-12-04T05:52:09.964733,6769,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,192,south,"south
+
+
+North-South Passage
+
+",45,152,,False,,2025-12-04T05:52:12.291022,6785,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,193,south,"south
+
+
+Round Room
+
+",45,152,,False,,2025-12-04T05:52:15.211344,6800,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,194,west,"west
+
+
+East-West Passage
+
+",45,152,,False,,2025-12-04T05:52:17.606513,6813,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,195,score,"score
+Your score is 45 (total of 350 points), in 156 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,156,,False,,2025-12-04T05:52:20.341436,6827,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,196,west,"west
+
+
+The Troll Room
+There is a bloody axe here.
+
+",45,156,,False,,2025-12-04T05:52:22.794525,6864,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,197,drop tour guidebook,"drop tour guidebook
+
+
+Dropped.
+
+",45,156,,False,,2025-12-04T05:52:25.699778,6885,13
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,198,get axe,"get axe
+
+
+Your load is too heavy.
+
+",45,156,,False,,2025-12-04T05:52:28.029076,6903,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,199,drop wrench,"drop wrench
+
+
+Dropped.
+
+",45,156,,False,,2025-12-04T05:52:30.783721,6921,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,200,score,"score
+Your score is 45 (total of 350 points), in 160 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,160,,False,,2025-12-04T05:52:33.139853,6935,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,201,get axe,"get axe
+
+
+Taken.
+
+",45,160,,False,,2025-12-04T05:52:35.517708,6972,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,202,east,"east
+
+
+East-West Passage
+
+",45,160,,False,,2025-12-04T05:52:37.957776,6986,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,203,north,"north
+
+
+Chasm
+
+",45,160,,False,,2025-12-04T05:52:40.779737,7000,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,204,northeast,"northeast
+
+
+Reservoir South
+
+",45,160,,False,,2025-12-04T05:52:43.143590,7013,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,205,score,"score
+Your score is 45 (total of 350 points), in 164 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,164,,False,,2025-12-04T05:52:45.629545,7027,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,206,east,"east
+
+
+Dam
+
+",45,164,,False,,2025-12-04T05:52:47.928912,7064,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,207,south,"south
+
+
+Deep Canyon
+
+",45,164,,False,,2025-12-04T05:52:50.371337,7076,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,208,down,"down
+
+
+Loud Room
+
+",45,164,,False,,2025-12-04T05:52:53.139953,7089,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,209,get platinum bar,"get platinum bar
+
+
+You can't see any platinum bar here!
+
+",45,164,,False,,2025-12-04T05:52:55.950145,7103,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,210,score,"score
+Your score is 45 (total of 350 points), in 168 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,168,,False,,2025-12-04T05:52:58.433767,7125,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,211,up,"up
+
+
+Deep Canyon
+
+",45,168,,False,,2025-12-04T05:53:00.816275,7162,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,212,north,"north
+
+
+You can't go that way.
+
+",45,168,,False,,2025-12-04T05:53:03.246982,7175,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,213,south,"south
+
+
+You can't go that way.
+
+",45,168,,False,,2025-12-04T05:53:05.714286,7191,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,214,west,"west
+
+
+You can't go that way.
+
+",45,168,,False,,2025-12-04T05:53:08.221588,7207,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,215,score,"score
+Your score is 45 (total of 350 points), in 172 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,172,,False,,2025-12-04T05:53:11.074657,7223,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,216,east,"east
+
+
+Dam
+
+",45,172,,False,,2025-12-04T05:53:13.569255,7260,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,217,north,"north
+
+
+Dam Lobby
+
+",45,172,,False,,2025-12-04T05:53:16.010026,7272,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,218,north,"north
+
+
+Maintenance Room
+A small leaflet is on the ground.
+There is a group of tool chests here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+
+",45,172,,False,,2025-12-04T05:53:18.678463,7285,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,219,get screwdriver,"get screwdriver
+
+
+Your load is too heavy.
+
+",45,172,,False,,2025-12-04T05:53:21.159772,7335,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,220,score,"score
+Your score is 45 (total of 350 points), in 176 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,176,,False,,2025-12-04T05:53:23.716154,7353,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,221,south,"south
+
+
+Dam Lobby
+
+",45,176,,False,,2025-12-04T05:53:26.070728,7390,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,222,south,"south
+
+
+Dam
+
+",45,176,,False,,2025-12-04T05:53:28.338115,7403,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,223,west,"west
+
+
+Reservoir South
+
+",45,176,,False,,2025-12-04T05:53:30.808004,7415,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,224,west,"west
+
+
+Stream View
+
+",45,176,,False,,2025-12-04T05:53:35.912184,7429,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,225,score,"score
+Your score is 45 (total of 350 points), in 180 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,180,,False,,2025-12-04T05:53:38.436262,7442,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,226,west,"west
+
+
+The stream emerges from a spot too small for you to enter.
+
+",45,180,,False,,2025-12-04T05:53:40.720960,7479,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,227,east,"east
+
+
+Reservoir South
+
+",45,180,,False,,2025-12-04T05:53:43.286581,7502,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,228,southwest,"southwest
+
+
+Chasm
+
+",45,180,,False,,2025-12-04T05:53:45.697137,7516,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,229,south,"south
+
+
+North-South Passage
+
+",45,180,,False,,2025-12-04T05:53:48.143607,7529,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,230,score,"score
+Your score is 45 (total of 350 points), in 184 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,184,,False,,2025-12-04T05:53:51.173816,7544,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,231,south,"south
+
+
+Round Room
+
+",45,184,,False,,2025-12-04T05:53:53.479949,7581,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,232,south,"south
+
+
+Narrow Passage
+
+",45,184,,False,,2025-12-04T05:53:55.841883,7594,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,233,south,"south
+
+
+Mirror Room
+
+",45,184,,False,,2025-12-04T05:53:58.547415,7608,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,234,east,"east
+
+
+Cave
+Your sword is glowing with a faint blue glow.
+
+",45,184,,False,,2025-12-04T05:54:00.918824,7621,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,235,score,"score
+Your score is 45 (total of 350 points), in 188 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,188,,False,,2025-12-04T05:54:03.150572,7644,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,236,down,"down
+
+
+Entrance to Hades
+Your sword has begun to glow very brightly.
+
+",45,188,,False,,2025-12-04T05:54:06.299667,7681,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,237,up,"up
+
+
+Cave
+Your sword is glowing with a faint blue glow.
+
+",45,188,,False,,2025-12-04T05:54:08.642593,7705,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,238,west,"west
+
+
+Winding Passage
+Your sword is no longer glowing.
+
+",45,188,,False,,2025-12-04T05:54:11.061735,7728,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,239,north,"north
+
+
+Mirror Room
+
+",45,188,,False,,2025-12-04T05:54:13.487620,7749,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,240,score,"score
+Your score is 45 (total of 350 points), in 192 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,192,,False,,2025-12-04T05:54:16.475525,7762,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,241,north,"north
+
+
+Narrow Passage
+
+",45,192,,False,,2025-12-04T05:54:19.020304,7799,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,242,north,"north
+
+
+Round Room
+
+",45,192,,False,,2025-12-04T05:54:22.221753,7813,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,243,north,"north
+
+
+North-South Passage
+
+",45,192,,False,,2025-12-04T05:54:24.564057,7826,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,244,north,"north
+
+
+Chasm
+
+",45,192,,False,,2025-12-04T05:54:27.205621,7841,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,245,score,"score
+Your score is 45 (total of 350 points), in 196 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,196,,False,,2025-12-04T05:54:30.028852,7854,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,246,northeast,"northeast
+
+
+Reservoir South
+
+",45,196,,False,,2025-12-04T05:54:32.362693,7891,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,247,east,"east
+
+
+Dam
+
+",45,196,,False,,2025-12-04T05:54:35.304663,7905,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,248,south,"south
+
+
+Deep Canyon
+
+",45,196,,False,,2025-12-04T05:54:37.964259,7917,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,249,down,"down
+
+
+Loud Room
+
+",45,196,,False,,2025-12-04T05:54:40.771384,7930,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,250,score,"score
+Your score is 45 (total of 350 points), in 200 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,200,,False,,2025-12-04T05:54:43.558157,7944,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,251,up,"up
+
+
+Deep Canyon
+
+",45,200,,False,,2025-12-04T05:54:45.962013,7981,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,252,south,"south
+
+
+You can't go that way.
+
+",45,200,,False,,2025-12-04T05:54:48.865301,7994,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,253,north,"north
+
+
+You can't go that way.
+
+",45,200,,False,,2025-12-04T05:54:51.148217,8010,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,254,east,"east
+
+
+Dam
+
+",45,200,,False,,2025-12-04T05:54:54.078145,8026,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,255,score,"score
+Your score is 45 (total of 350 points), in 204 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,204,,False,,2025-12-04T05:54:56.748214,8038,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,256,north,"north
+
+
+Dam Lobby
+
+",45,204,,False,,2025-12-04T05:54:59.211807,8075,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,257,north,"north
+
+
+Maintenance Room
+A small leaflet is on the ground.
+There is a group of tool chests here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+
+",45,204,,False,,2025-12-04T05:55:01.736412,8088,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,258,drop axe,"drop axe
+
+
+Dropped.
+
+",45,204,,False,,2025-12-04T05:55:04.320252,8138,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,259,get screwdriver,"get screwdriver
+
+
+Taken.
+
+",45,204,,False,,2025-12-04T05:55:06.668566,8152,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,260,score,"score
+Your score is 45 (total of 350 points), in 208 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,208,,False,,2025-12-04T05:55:09.036360,8166,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,261,south,"south
+
+
+Dam Lobby
+
+",45,208,,False,,2025-12-04T05:55:11.613681,8203,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,262,south,"south
+
+
+Dam
+
+",45,208,,False,,2025-12-04T05:55:13.936766,8216,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,263,west,"west
+
+
+Reservoir South
+
+",45,208,,False,,2025-12-04T05:55:16.576288,8228,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,264,west,"west
+
+
+Stream View
+
+",45,208,,False,,2025-12-04T05:55:19.618393,8242,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,265,score,"score
+Your score is 45 (total of 350 points), in 212 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,212,,False,,2025-12-04T05:55:22.080406,8255,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,266,east,"east
+
+
+Reservoir South
+
+",45,212,,False,,2025-12-04T05:55:25.067316,8292,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,267,northeast,"northeast
+
+
+You can't go that way.
+
+",45,212,,False,,2025-12-04T05:55:27.429726,8306,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,268,south,"south
+
+
+You can't go that way.
+
+",45,212,,False,,2025-12-04T05:55:30.038508,8322,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,269,southwest,"southwest
+
+
+Chasm
+
+",45,212,,False,,2025-12-04T05:55:32.491965,8338,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,270,score,"score
+Your score is 45 (total of 350 points), in 216 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,216,,False,,2025-12-04T05:55:34.859354,8351,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,271,south,"south
+
+
+North-South Passage
+
+",45,216,,False,,2025-12-04T05:55:37.398339,8388,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,272,south,"south
+
+
+Round Room
+
+",45,216,,False,,2025-12-04T05:55:39.791526,8403,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,273,south,"south
+
+
+Narrow Passage
+
+",45,216,,False,,2025-12-04T05:55:42.429133,8416,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,274,south,"south
+
+
+Mirror Room
+
+",45,216,,False,,2025-12-04T05:55:44.780258,8430,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,275,score,"score
+Your score is 45 (total of 350 points), in 220 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,220,,False,,2025-12-04T05:55:47.208644,8443,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,276,east,"east
+
+
+Cave
+Your sword is glowing with a faint blue glow.
+
+",45,220,,False,,2025-12-04T05:55:49.723375,8480,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,277,up,"up
+
+
+You can't go that way.
+
+",45,220,,False,,2025-12-04T05:55:52.610964,8503,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,278,west,"west
+
+
+Winding Passage
+The lamp appears a bit dimmer.
+Your sword is no longer glowing.
+
+",45,220,,False,,2025-12-04T05:55:55.107598,8519,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,279,north,"north
+
+
+Mirror Room
+
+",45,220,,False,,2025-12-04T05:55:57.479401,8548,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,280,score,"score
+Your score is 45 (total of 350 points), in 224 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,224,,False,,2025-12-04T05:55:59.869831,8561,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,281,north,"north
+
+
+Narrow Passage
+
+",45,224,,False,,2025-12-04T05:56:02.256883,8598,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,282,north,"north
+
+
+Round Room
+
+",45,224,,False,,2025-12-04T05:56:04.627219,8612,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,283,north,"north
+
+
+North-South Passage
+
+",45,224,,False,,2025-12-04T05:56:07.413801,8625,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,284,north,"north
+
+
+Chasm
+
+",45,224,,False,,2025-12-04T05:56:10.080327,8640,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,285,score,"score
+Your score is 45 (total of 350 points), in 228 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,228,,False,,2025-12-04T05:56:12.579040,8653,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,286,northeast,"northeast
+
+
+Reservoir South
+
+",45,228,,False,,2025-12-04T05:56:14.993670,8690,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,287,east,"east
+
+
+Dam
+
+",45,228,,False,,2025-12-04T05:56:17.547082,8704,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,288,examine bolt,"examine bolt
+
+
+There's nothing special about the bolt.
+
+",45,228,,False,,2025-12-04T05:56:20.003495,8716,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,289,turn off lantern,"turn off lantern
+
+
+The brass lantern is now off.
+
+",45,228,,False,,2025-12-04T05:56:22.476469,8735,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,290,score,"score
+Your score is 45 (total of 350 points), in 232 moves.
+This gives you the rank of Amateur Adventurer.
+
+",45,232,,False,,2025-12-04T05:56:24.900349,8756,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,291,south,"south
+
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+",45,232,,False,,2025-12-04T05:56:27.462375,8793,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,fe213f6a-1912-41ae-9e02-952809b98c6c,0,gpt-5.1,292,north,"north
+
+
+Oh, no! You have walked into the slavering fangs of a lurking grue!
+
+   ****  You have died  ****
+
+Now, let's take a look here... Well, you probably deserve another chance. I
+can't quite fix you up completely, but you can't have everything.
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+",45,232,,True,,2025-12-04T05:56:30.357122,8827,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,0,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T05:56:38.796707,751,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,1,open mailbox,"open mailbox
+
+
+Opening the small mailbox reveals a leaflet.
+
+",0,0,,False,,2025-12-04T05:56:41.105386,787,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,2,get leaflet,"get leaflet
+
+
+Taken.
+
+",0,0,,False,,2025-12-04T05:56:43.834449,807,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,3,read leaflet,"read leaflet
+
+
+""WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!""
+
+",0,0,,False,,2025-12-04T05:56:46.329868,821,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,4,look,"look
+
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+",0,0,,False,,2025-12-04T05:56:48.712710,881,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,5,score,"score
+Your score is 0 (total of 350 points), in 5 moves.
+This gives you the rank of Beginner.
+
+",0,5,,False,,2025-12-04T05:56:51.039892,922,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,6,south,"south
+
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+",0,5,,False,,2025-12-04T05:56:53.340405,957,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,7,east,"east
+
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+",0,5,,False,,2025-12-04T05:56:56.026764,996,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,8,examine window,"examine window
+
+
+The window is slightly ajar, but not enough to allow entry.
+
+",0,5,,False,,2025-12-04T05:56:58.365380,1044,12
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,9,open window,"open window
+
+
+With great effort, you open the window far enough to allow entry.
+
+",0,5,,False,,2025-12-04T05:57:00.901745,1070,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,10,score,"score
+Your score is 0 (total of 350 points), in 9 moves.
+This gives you the rank of Beginner.
+
+",0,9,,False,,2025-12-04T05:57:03.550753,1096,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,11,enter,"enter
+
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+",0,9,,False,,2025-12-04T05:57:05.854657,1131,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,12,get all,"get all
+
+
+brown sack: Taken.
+glass bottle: Taken.
+
+",0,9,,False,,2025-12-04T05:57:08.467512,1239,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,13,west,"west
+
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+",0,9,,False,,2025-12-04T05:57:10.786866,1261,10
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,14,get all,"get all
+
+
+trophy case: The trophy case is securely fastened to the wall.
+sword: Taken.
+brass lantern: Taken.
+carpet: The rug is extremely heavy and cannot be carried.
+
+",0,9,,False,,2025-12-04T05:57:13.202397,1352,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,15,score,"score
+Your score is 10 (total of 350 points), in 13 moves.
+This gives you the rank of Beginner.
+
+",10,13,,False,,2025-12-04T05:57:15.809470,1403,11
+36d384b7-8f4a-4fa3-a7b2-2f4a811c4c14,e915b418-3324-466b-9a44-d6248e2d2be3,1,gpt-5.1,16,move carpet,"move carpet
+
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+",10,13,,False,,2025-12-04T05:57:18.762354,1438,11

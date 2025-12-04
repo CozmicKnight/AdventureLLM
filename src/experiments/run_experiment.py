@@ -16,6 +16,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--model", required=True, help="Model name (e.g., gpt-4.1-mini)")
     parser.add_argument("--episodes", type=int, default=1, help="Number of episodes to run")
     parser.add_argument("--max-moves", type=int, default=50, help="Max moves per episode")
+    parser.add_argument("--email", required=True, help="Name for ZorkAPI to track user")
+    parser.add_argument("--rate-limit", type=int, default=1, help="Number of seconds to use as a rate limit")
     parser.add_argument(
         "--base-url",
         type=str,
@@ -43,14 +45,21 @@ def main() -> None:
     env = ZorkEnv(base_url=args.base_url)
     manager = GameManager(env=env, log_manager=log_manager)
 
+    print(f"Model: {args.model}")
+    print(f"Email: {args.email}")
+    print(f"Rate Limit: {args.rate_limit}")
+    print(f"Number of episodes: {args.episodes}")
+    print(f"Max Moves: {args.max_moves}")
+
     run_id = str(uuid.uuid4())
     results = []
     for episode_idx in range(args.episodes):
         result = manager.run_episode(
             model_name=args.model,
             max_moves=args.max_moves,
+            rate_limit=args.rate_limit,
             run_id=run_id,
-            email="john@eley.net",
+            email=args.email,
             game="zork1",
             episode_index=episode_idx,
             seed=args.seed,

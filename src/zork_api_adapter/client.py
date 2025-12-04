@@ -71,6 +71,7 @@ class ZorkEnv:
         if self._mock:
             return self._mock.new_game()
 
+        response = self.session.post(f"{self.base_url}/user?email={email}", timeout=10)
         response = self.session.post(f"{self.base_url}/newGame?email={email}&title={game}", timeout=10)
         response.raise_for_status()
         payload = response.json()

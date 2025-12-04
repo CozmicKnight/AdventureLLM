@@ -51,6 +51,7 @@ class GameManager:
         self,
         model_name: str,
         max_moves: int,
+        rate_limit: int,
         run_id: str,
         email: str,
         game: str,
@@ -76,7 +77,8 @@ class GameManager:
                 print(f"[INFO] Checking Score")
                 command = "score"
                 
-            sleep(1)
+            sleep(rate_limit)
+
             step_result = self.env.step(email, game, command)
             # pp(step_result)
             if step_result.raw_response['score'] > 0:
